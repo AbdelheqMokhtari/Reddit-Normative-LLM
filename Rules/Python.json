@@ -1,0 +1,60 @@
+{
+    "subreddit": "Python",
+    "rules": [
+        {
+            "Rule_title": "\"How do I\", Help, or similar questions belong in r/LearnPython",
+            "description": "If you are about to ask a question about how to do something in python, please check out r/LearnPython.\n\nIt is a very helpful community that is focused on helping people get answers that they understand.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Posts must be relevant to the Python Programming Language",
+            "description": "Please use other subreddits for things that are more generally programmer related, or for things that involve large snakes.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "When posting projects please include both description text and a link to source code",
+            "description": "When posting a project please include an image showing your project if applicable, a textual description of your project including how Python is relevant to it and a link to source code.\n\nWe do not want an arbitrary link that we then have to go read to understand.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Project posts must use showcase flairs and must be text",
+            "description": "When posting a project you must use a showcase flair &amp; use a text post, not an image post, video post or similar.\n\nUsing new Reddit you may embed these media types within the post body, including multiple images in one post.\n\nPlease write a bit about your project instead of just dumping links since it will increase the relevance of your project to the Python subreddit.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Submissions must be descriptive",
+            "description": "Titles for all submissions should describe the topic of the post and offer redditors an idea of what the link or text covers. Vague titles which require clicking through to clarify the subject matter of the post will be removed.\n\nThis also goes for just posting abstract links with no description about what it is you are sharing.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Paywalled Content",
+            "description": "All shared resources in posts and comments must be freely accessible without payment or subscription. This includes, but is not limited to, articles, courses, tutorials, and code repositories. Redirect paywalled content to anywhere but here.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Banned Links",
+            "description": "Banned links can include Medium.com and similar content and paywalled content. \n\nLow quality blogs and similar (similar to what is hosted on many Medium.com articles) is not allowed.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Non-English Language",
+            "description": "To ensure effective communication and ease of moderation within the community, all posts and comments must be in English. All non-English content should translated before posting.\n\nThis is mostly due to the capabilities and time constraints of the moderation staff and the predominance of English-speaking users in our community.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Please don't downvote without commenting your reasoning for doing so",
+            "description": "Obviously we can't enforce this one very easily, it more is a level of trust we have in our users. Please do not downvote comments without providing valid reasoning for doing so. This rule helps maintain a positive atmosphere on the subreddit with both posts and comments.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Showcases must include required sections",
+            "description": "Showcase posts must have these sections in order to give a good idea for target audience, intended use, goals, etc.\n\n- **What My Project Does**\n- **Target Audience** (e.g., Is it meant for production, just a toy project, etc.\n- **Comparison** (A brief comparison explaining how it differs from existing alternatives.)",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No overdone or low quality AI showcases",
+            "description": "Due to an increase of showcases featuring AI content such as working with multiple AI models or wrappers around APIs, this is no longer allowed. Please post your showcases in the appropriate daily thread instead.",
+            "kind": "link"
+        }
+    ]
+}

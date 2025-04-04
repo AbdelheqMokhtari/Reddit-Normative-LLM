@@ -1,0 +1,60 @@
+{
+    "subreddit": "datascience",
+    "rules": [
+        {
+            "Rule_title": "Be Respectful and Supportive",
+            "description": "This rule embodies the principle of treating others with the same level of respect and kindness that you expect to receive. Whether offering advice, engaging in debates, or providing feedback, all interactions within the subreddit should be conducted in a courteous and supportive manner.",
+            "kind": "comment"
+        },
+        {
+            "Rule_title": "Stay On Topic",
+            "description": "Off-topic discussions, unrelated content, and tangential remarks are subject to removal.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Use the Weekly Thread",
+            "description": "For inquiries related to transitioning into the field or career advice, users are encouraged to utilize the designated weekly thread.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Video Links",
+            "description": "",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Listicles",
+            "description": "N free videos, Y free book, Z free courses, etc...",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Surveys",
+            "description": "",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Limit Self-Promotion",
+            "description": "Remember the reddit self-promotion rule of thumb: \"\"For every 1 time you post self-promotional content, 9 other posts (submissions or comments) should not contain self-promotional content.\"\"",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "/r/datascience is not stack overflow",
+            "description": "Some technical questions are better suited to stackoverflow.com.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "/r/datascience is not a homework helper",
+            "description": "",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "/r/datascience is not a crowd-sourced Google",
+            "description": "Looks like you're asking a basic question with a widely agreed upon answer. Try using a search engine instead.\n\n\"Search engine questions\" hurt the subreddit because they don't generate enough discussion and lower the overall quality of the forum.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Memes are only allowed on Mondays",
+            "description": "See our \"Meme Monday\" announcement thread for more information https://www.reddit.com/r/datascience/comments/euot0h/introducing_meme_monday_memes_as_submissions_are/",
+            "kind": "link"
+        }
+    ]
+}

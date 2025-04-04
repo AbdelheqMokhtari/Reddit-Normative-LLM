@@ -1,0 +1,45 @@
+{
+    "subreddit": "MachineLearning",
+    "rules": [
+        {
+            "Rule_title": "Be nice: no offensive behavior, insults or attacks",
+            "description": "We encourage a diverse community in which members feel *safe* and have a *voice*. Refer to our [Community Standards](https://www.reddit.com/r/MachineLearning/wiki/rules) for a full description.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Make your post clear and comprehensive",
+            "description": "Posts that lack insight or effort will be removed. (ex: questions which are easily googled)",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Posts without appropriate tag in title will be removed",
+            "description": "Allowed Tags: \"[Discussion]\", \"[D]\", \"[News]\", \"[N]\", \"[Research]\", \"[R]\", \"[Project]\", \"[P]\"",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Beginner or career related questions go elsewhere",
+            "description": "Post beginner questions in the bi-weekly \"Simple Questions Thread\", /r/LearnMachineLearning , /r/MLQuestions http://stackoverflow.com/ and career questions in /r/cscareerquestions/",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Non-arxiv link posts only allowed on weekends (must be demos)*",
+            "description": "Link posts must include context (ie: a comment in the reddit thread linking to the paper/code), and either be demos of novel research, include code, or include a description of how it was done. Note that blog links will still not be allowed, nor will beginner projects.\n\nDuring weekdays, if you'd like to share a link, place it in a self-post and provide some context. \n\n*Arxiv and OpenReview links are exceptions to this rule.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Beginner's tutorials and projects go elsewhere",
+            "description": "Beginner's guides, tutorials, and projects should be posted to /r/LearnMachineLearning",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Quality Contribution",
+            "description": "This report reason is just a convenient way for users to notify mods when they find a quality contribution. See https://www.reddit.com/r/MachineLearning/comments/hvzyz7/d_quality_contributions_roundup_722/ for more details.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Limit self-promotion",
+            "description": "Comments and posts should be first and foremost about topics of interest to ML observers and practitioners. Limited self-promotion is tolerated, but the sub is not here as merely a source for free advertisement. Such posts will be removed at the discretion of the mods.",
+            "kind": "all"
+        }
+    ]
+}
