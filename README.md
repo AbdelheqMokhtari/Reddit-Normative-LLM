@@ -1,12 +1,12 @@
-# Reddit Rules Scraper using PRAW & LLMs
+# Reddit Rules to Norms using LLM's
 
 ## Introduction
 
-This project aims to leverage Reddit rules from various subreddits to establish obligations, prohibitions, and permissions expressed in Normative Language Programming (NLP). Instead of manually analyzing the rules, we will use **Large Language Models (LLMs)** to achieve this automation. The end goal is to compile these rules and use LLMs to interpret and classify them.
+This project aims to leverage Reddit rules from various subreddits to establish obligations, prohibitions, and permissions expressed in Normative Programming Language (NPL). Instead of manually analyzing the rules, we will use **Large Language Models (LLMs)** to achieve this automation. The end goal is to compile these rules and use LLMs to interpret and classify them.
 
 ## Table of Contents
 
-- [Reddit Rules Scraper using PRAW \& LLMs](#reddit-rules-scraper-using-praw--llms)
+- [Reddit Rules to Norms using LLM's](#reddit-rules-to-norms-using-llms)
   - [Introduction](#introduction)
   - [Table of Contents](#table-of-contents)
   - [Section 01: Collecting Rules from Subreddits](#section-01-collecting-rules-from-subreddits)
