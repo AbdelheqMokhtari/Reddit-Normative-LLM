@@ -33,7 +33,7 @@ def fetch_public_rules(subreddit_name):
         return str(e)
 
 def main():
-    # 1. Initialize PRAW with credentials from .env
+    # Initialize PRAW with credentials from .env
     reddit = praw.Reddit(
         client_id = os.environ.get("CLIENT_ID"),
         client_secret = os.environ.get("CLIENT_SECRET"),
@@ -53,8 +53,8 @@ def main():
     for subreddit in reddit.subreddits.popular(limit=None):
         if subreddit.over18:
             continue  # Skip NSFW
-        if subreddit.subscribers < 1_000_000:
-            continue  # Skip if under 1 million subscribers
+        if subreddit.subscribers < 100_000:
+            continue  # Skip if under 100k subscribers
 
         sub_name = subreddit.display_name
         if sub_name in explored_subs:
@@ -86,14 +86,14 @@ def main():
             with open(out_path, "w", encoding="utf-8") as outfile:
                 json.dump(to_save, outfile, indent=4, ensure_ascii=False)
 
-            # Add this subreddit to explored only if we successfully saved rules
+            # saved rules only if there is no error 
             explored_subs.add(sub_name)
             with open(explored_file, "a", encoding="utf-8") as f:
                 f.write(sub_name + "\n")
 
         count += 1
         if count >= 10:
-            # Stop after 10 subreddits (adjust or remove as desired)
+            # Stop after 10 subreddits to avoid banning 
             break
 
     print("\nDone! Check the 'Rules' folder for JSON files.")
