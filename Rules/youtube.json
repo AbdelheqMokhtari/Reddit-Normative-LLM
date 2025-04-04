@@ -1,0 +1,31 @@
+{
+    "subreddit": "youtube",
+    "subscribers": 3109591,
+    "rules": [
+        {
+            "Rule_title": "YouTube and YouTube Adjacent Discussion",
+            "description": "This sub is for discussion of all things YouTube!\n\nWe do not allow political discussions that aren't about YouTube - take that to r/Politics.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Don't be Toxic",
+            "description": "This sub does not allow toxic behavior, regardless if it's directed at a person, group of people, or company. Violations of this rule will result in a ban. Excessive toxicity, such as targeted harassment and hate speech, will result in a permanent ban. Duration is subject to mod discression.\n\nhttps://www.reddit.com/r/youtube/wiki/index/rules",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Sitewide Rules/Abuse Discussion",
+            "description": "We do not allow discussion of abusive content on YouTube. Posting about it here WILL NOT get it taken off of YouTube. To get abuse removed, please report it to YouTube.\n\nhttps://www.reddit.com/r/youtube/wiki/index/rules",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Self Promotion, Self Linking, or Advertising",
+            "description": "Advertising and Self Promotion, or asking for channel feedback is not allowed on the Subreddit. You will receive a permanent ban immediately.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Spam",
+            "description": "If there is a trending topic, we reserve the right to delete copycat posts that are just farming karma and not adding anything to the already existing discussion. ",
+            "kind": "all"
+        }
+    ]
+}

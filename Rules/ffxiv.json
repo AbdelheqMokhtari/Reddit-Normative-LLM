@@ -1,0 +1,66 @@
+{
+    "subreddit": "ffxiv",
+    "subscribers": 1293220,
+    "rules": [
+        {
+            "Rule_title": "Be civil and respectful, no name shaming",
+            "description": "* a) Content that is uncivil and/or disrespectful is subject to removal, e.g. toxicity, harassment, personal attacks, witch-hunting, name-shaming, trolling, or backseat moderating.\n* b) Posts about bad experiences with a specific (even anonymous) player are prohibited, e.g. Duty Finder drama. Moderator approved posts concerning public figures in the FFXIV community are exempt.\n* c) Content with violent and/or hate-based sentiments is subject to removal and an immediate ban from the subreddit.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Abide by these listed FFXIV User Agreement topics",
+            "description": "Parts of the [FFXIV User Agreement](https://sqex.to/ffxiv_ua_na) are enforced:\n\n* a) Third-party tools or software that alters fundamental gameplay is not allowed.\n* b) Info on modded cosmetic items and data mining is allowed except mods with Mog Station items.\n* c) Data mining discussion is allowed but sharing of music (files or videos) is prohibited.\n* d) The buying/selling of goods or accounts for the exchange of real money is prohibited.\n* e) The buying/selling of housing is prohibited.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Mark all spoilers",
+            "description": "If you're unsure if something is a spoiler, err on safety, and mark it! Click the \"spoiler\" button if you've created a post that may contain spoilers.\n\n* a) Titles should never contain spoilers.\n* b) Comments in non-spoiler posts or outside the spoiler context should use [Reddit's spoiler formatting](/r/ffxiv/wiki/flairs_spoilers_filters).\n* c) Posts about leaks and data mining should be spoiler tagged.\n* d) Spoiler posts must have a title containing `[Spoiler: x]` where `x` is the context.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Restricted types of content",
+            "description": "* a) All content should be FFXIV-related and/or on-topic.\n* b) Repetitive posts [listed here](https://bit.ly/rffxivr4) are subject to removal. Questions on our [Definitive FAQ](http://bit.ly/rffxiv-df) belong **only** in the question megathread.\n* c) Belongs **only** in a more [relevant subreddit](http://bit.ly/rffxiv-r4).\n* d) Research and surveys must be specifically focused on FFXIV, and may only be posted after review and approval from the Moderation team.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Ensure screenshots are easily understood",
+            "description": "The “clarity rule”—it can sometimes be difficult to identify what you’re trying to share in a screenshot, especially for newer players. This should be made clear in the post title, in the linked content itself (like circling in the screenshot), or as a comment. \n\nA post will be re-approved if a removed screenshot is later clarified via a comment by the poster.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Fanworks",
+            "description": "* a) When posting content including discovered, commissioned, or other types of non-original content (non-OC) fanworks, the author/artist must be credited with their name(s) in the post title.\n* b) Art re-hosted against the permission of the artist may also be removed at the discretion of the moderators. \n* c) Art posts that advertise for profit within the Reddit post are prohibited. E.g. Links to Patreon, ko-fi, web stores, pricing information.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Don't spam",
+            "description": "* a) Excessive self-promotion by an account with the sole purpose of advertising is prohibited and subject to removal at moderator discretion. Posters must be active on Reddit outside of their own content.  \n* b) Blogspam about content (esp. FFXIV news, patch notes, interviews); original sources should be linked instead.  \n* c) URL shorteners &amp; referral/affiliate links, which are blocked by reddit.com filters and subject to removal.  \n* d) Other content reasonably judged as spam.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Search before posting",
+            "description": "Duplicate posts made within a short time frame dilute community discussion across multiple posts. Reposts are generally acceptable given enough time has passed.\n\nOfficial news posts are subject to removal under this rule, e.g. patch notes (including screenshots of patch notes) or server status updates.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No sexual NSFW content",
+            "description": "Artistic nudity is allowed provided that it is tagged as NSFW.\n\nSome NSFW content is not allowed;\n\n* Hardcore / Porn style NSFW content\n* NSFW or suggestive content involving Lalafells or underage characters\n* NSFW game modifications",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Misleading information",
+            "description": "Misleading, incorrect, and false information is subject to correction or removal.\n\nWhen speculating or making assumptions, make it clear that what you are posting is not a fact.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Giveaways",
+            "description": "Giveaways must be conducted on the basis that there are 'no strings attached'. This applies to both physical and digital goods.\n\nThis means the people who enter the giveaway **must not** be required to follow/subscribe/share content on social media/media platforms, pay a fee, use a Recruit-a-Friend code, etc. Exemptions may be given by the moderation team for official giveaways and giveaways for donations to charitable organizations such as Extra Life or Child's Play on a case by case basis.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Incorrect post flair",
+            "description": "Select \"Incorrect post flair\" when reporting a post to inform the moderation team about a post with an incorrect post flair. The poster should adjust the link flair as needed, but the moderator team can as well if necessary.",
+            "kind": "link"
+        }
+    ]
+}

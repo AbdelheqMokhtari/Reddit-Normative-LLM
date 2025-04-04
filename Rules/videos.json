@@ -1,0 +1,61 @@
+{
+    "subreddit": "videos",
+    "subscribers": 26786706,
+    "rules": [
+        {
+            "Rule_title": "Videos Only",
+            "description": "If I have to explain this to you, I'll smack you with a dead carp",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Politics",
+            "description": "Political videos—including content relating to social issues which have a clear political element—should be submitted to /r/PoliticalVideo.\n\nSee the [wiki](https://www.reddit.com/r/videos/wiki/rules/#wiki_rule_2_-_no_politics) for more details.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Personal Information or Witch-Hunting",
+            "description": "Or incitement to witch-hunt.\n\nNo demanding \"Reddit Justice\" (or even regular justice) in any way in post titles or comments.\n\nDo not post names, Facebook pages, phone numbers, addresses, etc. Fake information (false@fake.com, 123 fake street, etc) also falls under this rule.\n\nThis is grounds for an immediate (and likely permanent) ban, so consider this your only warning.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Indirect Links",
+            "description": "No web pages that only embed Youtube or Vimeo videos. No URL shorteners. No links to playlists or to channel pages.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Porn, Gore, or Death",
+            "description": "Nudity is not necessarily banned on /r/Videos, providing that the appropriate NSFW tag is used to indicate it.  'Gore' refers to any graphic display of injury, mutilation, or harm such that it is visible during the video. Includes humans and animals.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Solicitation of Votes or Views",
+            "description": "No asking for votes or sharing submission links on or off-site. See Reddiquette for more details. Do not ask other users to follow your social media profiles in comments or submission titles. Titles for posts should not try to influence users to view or upvote them. No giveaways. Donation links and kickstarters/fundraisers must be sent to us to be verified.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Hate Speech",
+            "description": "You are free to offer your opinion respectfully, but comments intended to demean a group, acontextual expressions of bigotry, and the pejorative use of slurs is disallowed. Baiting users into breaking this rule is not allowed. Telling other users to hurt or kill themselves in any form is against reddit TOS, and will earn you a permanent ban.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Public Freakouts",
+            "description": "No videos of real-life, malicious person-on-person assault/battery or physical abuse of animals. This includes raw videos of fights, police brutality/harassment, and malicious violence. This includes videos of child and animal abuse. Public freakout videos belong in /r/PublicFreakout.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Third Party Licensing",
+            "description": "No videos that are licensed by a third party or are attempting to seek third party licensing. If the video description says: 'for licensing enquiries contact licensing@agency.com', the video is most likely licensed by a third party. If the video has a watermark, it also may be licensed by a third party. Videos that become licensed after they are posted will be removed.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Self-Promotion / OC",
+            "description": "\"It's perfectly fine to be a Redditor with a YouTube channel, it's not okay to be a YouTube channel with a Reddit account.\" - Confucius\n\nr/Videos is not a platform for you to promote your own channel.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Low-Effort AI-Generated Content",
+            "description": "Please see full description [here](https://www.reddit.com/r/videos/wiki/rules)",
+            "kind": "all"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "subreddit": "dankmemes",
+    "subscribers": 5894898,
+    "rules": [
+        {
+            "Rule_title": "Follow Reddit's Content Policy",
+            "description": "Posts must follow reddit [content policy](https://www.reddit.com/help/contentpolicy/) and/or [reddiquette](https://www.reddit.com/wiki/reddiquette). \n\nStuff that you can't post about includes (but is not limited to) memes regarding deaths, terrorist attacks, rape, sexual assault, murder, war, bombings, and school shootings. \n\n\n#Admins hate pedo memes most of all, don't risk it. \n\nIf you have to ask yourself 'hmm, is this the sort of meme I should be posting', the answer is definitely 'no'.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Bigotry or Bullying",
+            "description": "**Dankmemes does not tolerate bullying or bigotry. All are welcome here, no matter their race, gender, religion, political beliefs, country of origin, sexuality, fursona, or gaming choices.** \n\nPlease stay civil within comment threads. Avoid personal attacks, and do not weaponize a person's user history. \n\nYes, ironic death threats are still death threats. \n\nIf you have to ask yourself 'hmm is this the sort of thing I should be saying?', the answer is 'no'. So don't say it.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Don't be a dick!",
+            "description": "Don't be a dick! (yes, posting spoilers counts as being a dick). \n\nTrolling (including downvote trolling) is not allowed in dankmemes, and posting content purely to get a reaction will not be tolerated. \n\nYou do not need to participate in this subreddit, you are free to leave if you hate it.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Censor any and all personal information from posts and comments",
+            "description": "Censor any and all personal information from posts and comments, or it will be removed. Real or fake! Yours or others! Just don't do it. \n\nThis includes **non-verified twitter handles, reddit usernames that aren't watermarks, and all other social media!** \n\nIf it doesn't start with a 'u/' (promptly followed by your reddit username), it will get yote!",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No spam, outside links, or videos",
+            "description": "r/dankmemes is strictly for your original memes. This is not a platform to advertise your social media network or subreddit. **Do not link to any discord servers.** And do not post videos. \n\n**No queue flooding - Limit yourself to 5 posts per day, preferably spaced out. Exceeding this number may result in a ban.**",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Metabaiting",
+            "description": "**Do not ask for upvotes, awards, or talk about your cakeday.**",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No brigading",
+            "description": "Do not participate in bad faith, Do not post links elsewhere directing people to interfere with this subreddit. \n\n\"Raids\" will result in bans. Keep dankmemes in dankmemes, do not bother other communities.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Keep it dank!",
+            "description": "This sub is for humor (and the dankest of memes)! \n\nMods may use discretion when removing memes that are not relevant or current to preserve the quality of the sub. Poor picture quality and construction (illegible text, bad cropping, etc) may also lead to a post being removed. \n\nUser feedback (reports, downvoted bot comment, etc.) may also be a factor\n\n##and no, screenshots are not dank",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Mark NSFW and spoilers appropriately",
+            "description": "If your post is NSFW, mark it as NSFW. \n\nIf your post contains spoilers, mark it as spoilers. \n\nIf you have to ask yourself 'hmm is this nsfw and/or spoilers', the answer is 'yes'.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "NO REEEEEEE-POSTS!",
+            "description": "\n#**If you didn't make the meme yourself, don't post it.** \n\nDo not try to game the system or post deleted content without permission. Repost chains and encourage reposting are also not permitted.\n\nWe don't care if you have *pErMiSsIoN*, or if you give *cReDiT*. It's still reposting. \n\nHere's a foolproof way to work out if your post is a repost or not: Ask yourself 'hmm, did I make this meme?'. If the answer to the question is no, it's a repost. So don't post it.\n\n##Reposting after warning = ban",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No shitposting",
+            "description": "We have high-ish standards here! Low-effort memes may be removed. \n\nThis includes, but is not limited to: \n\n- Reactions (non-meme image followed by meme that relates to it - like OP reaction)\n\n- Non-original memes (copying a concept that someone else used, or containing no original material) \n\n- [Sign images](https://www.reddit.com/n2cc7x/) (Sign templates with only text overlays) \n\n- Comment baiting posts (ama, comment and I'll rate, or any other post where users are asked to respond)",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Format your meme correctly. No posts where the title is the meme caption!",
+            "description": "Posts must be formatted correctly. No posts where the title is the meme caption. \n\n**The caption must be in the meme image, not in the submission title.** \n\nContent that is not a meme at all or that does not make sense will be removed, including photos, screenshots, and blank templates. \n\n*Properly crop your memes, folks.*",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No agenda posting/Politics!",
+            "description": "# r/dankmemes is for dank memes. It’s not a political campaign ground. \n\nTotally absurd memes about politicians are cool, but **we are not interested** in your activism, or any agenda you’re bandwagoning for a country/cause, on any platform. \n\nThis is not the place for protest petitioning. \n\n- No cesspools: If a post creates a toxic environment in the comments it may be removed. Slur chains, reactionary bait, etc. \n\nPlease keep political comments brief and civil, this not a place for lectures.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Don't be a critic",
+            "description": "Do not heckle or be rude to each other. Criticism should either be constructive, or not given at all. \n\n**Please show OP respect.** \n\nThere is no reason to announce that you hate a post. Downvotes are there for that. \n\n**If the majority of your activity in this sub is complaining, you may be banned.**",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Yes, we have a karma threshold. Don't ask us about it. This rule literally explains everything.",
+            "description": "If you just want to post memes on our discord then go here https://discord.gg/dankmemes/\n\nOr, if you're a special enough snowflake who can produce original content, you can go to r/specialsnowflake. \n\nCheck your karma breakdown here: http://old.reddit.com/u/me/overview \n\nTypes of karma are explained here: https://www.reddit.com/r/help/comments/au5t4i/post_karma_vs_comment_karma/eh5tgck/ #You do not need more information. So don't ask.",
+            "kind": "all"
+        }
+    ]
+}

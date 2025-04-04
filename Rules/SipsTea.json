@@ -1,0 +1,81 @@
+{
+    "subreddit": "SipsTea",
+    "subscribers": 1554926,
+    "rules": [
+        {
+            "Rule_title": "No NSFW",
+            "description": "###No NSFW content\n\n\"NSFW\" is defined as content that is Not Safe\nFor Work. This includes, but is not limited to, profile pictures and images (such as pornography or gore). This also includes the practice of asking for a \"trade\" of images or links to NSFW content.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Harassment ",
+            "description": "###No harassment\n\nDo not target and repeatedly bother a user or\ngroup of users. Some examples are:\n\n* Repeatedly insulting them\n\n* Using alts to bypass blocks or bans\n\n* Spamming with unwanted messages or links\n\nGenerally, any form of consistent, repetitive,\nbothersome behavior targeted towards\nanother person(s) would be considered\nharassment.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Toxicity",
+            "description": "###No toxicity\n\nToxicity includes, but is not limited to:\n\n* Starting arguments\n\n* Malicious comments\n\n* Making other members uncomfortable\n\n* Trying to start drama",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Politics",
+            "description": "###No politics\n\nPolitical posts and comments are not allowed on this subreddit.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Sub GC's/Subreddits",
+            "description": "###No sub GCs/subreddits\n\nSub GCs/subreddits are communities that form with the sole purpose of, or engages in, moving active SipsTea members to another group chat or mock subreddit, with the goal of hosting a group of SipsTea users that aim to break rules in a private space.\n\nSome examples include, but are not limited to:\n\n* A GC/subreddit that is being DM advertised specifically to SipsTea members\n\n* A GC that is not moderated and hosts TOS violating behaviors",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Spam",
+            "description": "###No spam\n\nSpam includes, but is not limited to:\n\n* Directly sending links promoting something\n\n* A poorly put together or low effort post\n\n* Indirectly promoting something (talking about something in attempt to lure people somewhere, asking if anyone wants to join a server or subreddit, etc).",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Hate",
+            "description": "###No hate\n\nNo hate towards ANY group or ethnicity is allowed. This includes, but is not limited to:\n\n* Speech\n\n* Images\n\n* Symbols\n\n* Using replaced characters or altered text to say a slur",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Impersonation (Catfishing)",
+            "description": "###No impersonation/catfishing\n\nImpersonation would include, but is not limited to:\n\n* Falsely claiming to be a moderator or Reddit staff member\n\n* Falsely claiming that you are a different\nperson (catfishing)",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Defamation ",
+            "description": "###No defamation\n\nFalse statements that damage the reputation of someone else will not be tolerated.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Brigading ",
+            "description": "###No brigading\n\nNo discussion of brigading is tolerated, whether serious or not. Brigading is defined as a coordinated attack on other subreddit, which includes but is not limited to spamming/flooding, mass downvoting, etc.\n\nWe will instantly ban for this offense, as it is a violation of TOS.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Self Harm Discussion ",
+            "description": "###No discussion of self harm\n\nDiscussion based around hurting oneself or encouraging another user to hurt themselves is not permitted.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Baiting",
+            "description": "###No baiting\n\nMinors and adults should not lie about their ages or put themselves in compromising situations.\n\nYou must be 13 or older to use Reddit and if you are joking about being underage you put your account at risk of termination.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "English Only",
+            "description": "###English only\n\nOur moderation team can only reliably moderate English content, therfore no other languages are permitted.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Reposts",
+            "description": "###No reposts\n\nPosts that have recently been posted on the /r/SipsTea by another user will be removed.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Reddit Site-Wide Rules",
+            "description": "Your posts and/or comments must comply with the [site-wide rules of Reddit](https://redditinc.com/policies/reddit-rules). Failure to follow these rules may result in a ban by the /r/SipsTea mods, or having your account suspended by the Reddit admins.",
+            "kind": "all"
+        }
+    ]
+}

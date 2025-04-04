@@ -1,0 +1,76 @@
+{
+    "subreddit": "Unexpected",
+    "subscribers": 11524379,
+    "rules": [
+        {
+            "Rule_title": "Expected/No twist",
+            "description": "Submissions should be unexpected in some form.  While it may have been unexpected for you, please keep in mind that it should still contain some [twist for the viewer](https://www.reddit.com/r/Unexpected/wiki/unexpected).  Videos where they make something cool or funny aren't unexpected.  Ads are not unexpected.  Violence isn't automatically unexpected.  Jump scares and mashups are not unexpected.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Keep Content Civil",
+            "description": "Keep the comments civil; no flamewars or insults.\n*Remember the human.*\n\nWe follow reddit's [content policy](https://www.redditinc.com/policies/content-policy) and reddit's [reddiquette](https://support.reddithelp.com/hc/en-us/articles/205926439-Reddiquette) on r/unexpected.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Unmarked NSFW/NSFL",
+            "description": "Mark all NSFW/NSFL submissions as such. ",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Reposts",
+            "description": "Please look through our [Top submissions](http://www.reddit.com/r/Unexpected/top/) to avoid reposts. Frequent or recent reposts may be removed.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Bad Title",
+            "description": "Submissions must have an unexpected twist of their own, and not rely on their title to surprise the reader. Don't give the outcome away in the title.\nNo generic titles - 'I did not expect that', 'wait for it', 'wow' and the like are not acceptable.\n\nr/unexpected/wiki/titles",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No low/poor quality videos",
+            "description": "Videos with low resolution, pixelization, compression artifacts, distorted color or audio, with poor focus, sharpness or frame rates WILL be removed.\n\nAltered videos (obtained from other sources) showing a video playing inside another video, or including talking faces, animated objects, fake laughs &amp; sounds or other effects MAY also be removed, if the alteration seems overdone.\n\nModerator's discretion will apply in this rule.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No death or abuse",
+            "description": "Death isn't allowed on r/unexpected, nor are dying or dead bodies, or abuse. This includes the suggestion or implication of death, regardless of the fact of survival.\n\nPlease visit the appropriate subs instead.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No minors",
+            "description": "Submissions and comments must not involve sexualization of, neglect of, or harm to minors. \nThis includes the subtle implication or consequence of minor involvement in sexual content, even indirectly or in cases where age isn't directly stated.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No glorifying violence/tragedy",
+            "description": "Do not glorify, praise, or joke about violent acts or tragedies. Doing so could result in a ban.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Politics",
+            "description": "There are plenty of subs for politics.  There can be unexpected things which happen with politicians, but if someone who does not recognise the individuals would not see the twist then the post likely does not belong here.  There is no need for political debate in comments.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Pictures of Text - visit /r/unextexted",
+            "description": "No Pictures of text - visit /r/unextexted ",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No stealing content",
+            "description": "Reposts are fine. Do not claim to have created content that you have not. Mirroring/adding music does not make content original.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No linking to Reddit",
+            "description": "We ask that you do not link to other reddit posts/comments.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Follow Reddit's TOS",
+            "description": "Remember to follow [Reddit's TOS](https://www.redditinc.com/policies/user-agreement-september-25-2023). \n\nDo not post hateful content against others and do not threaten anyone.\n\nHateful content includes racism, xenophobia, sexism, ableism, homophobia, transphobia, bigotry, etc.",
+            "kind": "all"
+        }
+    ]
+}

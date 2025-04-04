@@ -1,0 +1,76 @@
+{
+    "subreddit": "anime",
+    "subscribers": 12900540,
+    "rules": [
+        {
+            "Rule_title": "Everything posted here must be anime-specific",
+            "description": "We define anime as an animated title produced in Japan. By requiring things to be \"anime-specific\", we allow posts about a specific anime or set of anime, as well as circumstances in which anime is deeply intertwined.\n\nFor a full explanation of what counts as anime-specific, [visit our rules page.](https://www.reddit.com/r/anime/wiki/rules#wiki_everything_posted_here_must_be_anime_specific)",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Do not post untagged/improperly tagged spoilers",
+            "description": "We are very strict about spoilers in /r/anime, and not just anime spoilers. Spoiling other types of media, Western or Eastern, will also break this rule.\n\nYou must put the spoiler context in brackets immediately before a spoiler tag (e.g. `[Naruto]&gt;!spoiler here!&lt;`). For a post, you must put the show name in the post's title and mark the post as spoilers.\n\nFor an in-depth description this rule, [visit our rules page.](https://www.reddit.com/r/anime/wiki/rules#wiki_do_not_post_untagged_spoilers)",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Flair posts correctly",
+            "description": "For a description of all of our flairs, [visit our rules page.](https://www.reddit.com/r/anime/wiki/rules)",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No memes, reaction images, shitposts, etc.",
+            "description": "Posting memes, reaction images, shitposts, etc. to the subreddit is not allowed. This includes blatant bait or troll attempts. Posts that consist of just an image and text from a meme also break this rule, even if the text is in the title of the post rather than superimposed on the image.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Do not link to illegal content",
+            "description": "Do not link/lead people to torrents or unofficial streams/downloads. This also includes manga, light novels, and other illegal or unlicensed media. This rule also extends to watermarks of illegal streaming sites and links to images hosted on scanlation sites.\n\n[A list of legal streams can be found here](https://www.reddit.com/r/anime/wiki/legal_streams)\n\nFor a full description of this rule, [visit our rules page.](https://www.reddit.com/r/anime/wiki/rules#wiki_do_not_link_to_illegal_content)",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Do not post heavily NSFW content",
+            "description": "Submissions and comments containing lightly NSFW content are acceptable. This means underwear, bikinis, cleavage, butts, and light fanservice is fine. Things that are not lightly NSFW include female nipples, genitals of either gender, heavily implied sexual content, and sexual contact between characters.\n\nThis isn't a porn subreddit, and it shouldn't be treated as one. Though anime can get racy at times, we have a hard limit to keep this subreddit accessible to as many people as possible.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Post meta comments in the Monthly Meta Thread",
+            "description": "A meta comment is a comment specifically about /r/anime (e.g. a suggestion to improve the subreddit or a complaint about something). Do note that even though the thread is posted every month, we moderators are constantly monitoring it. [You can find the latest one here.](https://www.reddit.com/r/anime/search?q=subreddit%3Aanime+title%3A%22Meta+Thread%22&amp;amp;restrict_sr=on&amp;amp;sort=new&amp;amp;t=month)",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Answered questions will be removed",
+            "description": "Simple questions with specific answers can be posted with the [Help] flair, but when they have received a correct answer they will get removed. Note however that this is **not** a violation of our rules.\nPosts looking for new anime to watch should use the [What to Watch?] flair instead.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Post merchandise in the Daily thread",
+            "description": "Merchandise should be posted in our [Daily Anime](/r/anime/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ADaily) or Casual Discussion Fridays threads. Collection posts and purchases, including gifted/received items, count as merchandise. You may also use this thread for Merchandise related questions.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Fanart and cosplay posts are only allowed to be posted under certain restrictions",
+            "description": "You may post one Fanart post every 7 days.\n\nAll [Fanart] posts must include the name of the anime in the title.\n\nIf you're posting [Fanart]  not made by you (non-OC), then you must make a text post with an album of three or more related images.\n\nAll non-OC [Cosplay] posts must be posted in an album of 3 or more directly related images.\n\nFor all the full fanart and cosplay rules, [visit our rules page.](/r/anime/wiki/rules#wiki_fanart)",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Restricted content",
+            "description": "/r/anime is a large community, and it becomes easy to create and spam low effort content in an effort to farm karma or to get a quick reaction. We want to uphold a minimum standard of quality as a premier anime community, and keeping content at a certain level quality goes a long way to meet this goal.\n\nFor an overview of banned content, [visit our rules page.](https://www.reddit.com/r/anime/wiki/rules#wiki_restricted_content)",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Clip/Video Edit submissions are only allowed to be posted under certain restrictions",
+            "description": "Clips are videos showing unedited sections from an anime, Video Edits include AMVs and compilations.\n\n* Must have the name of the anime in the title, can't include content from episodes released in the past week.\n* Clips must be between 10 seconds and 5 minutes, Video Edits must be at least 60 seconds.\n* Must include audio/subtitles if there's sound and non-English dialogue.\n\nFor a full description of this rule, [visit our rules page.](/r/anime/wiki/rules#wiki_clips.2C_edits.2C_and_videos)",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Bots and novelty accounts are not allowed",
+            "description": "We do not allow bots on /r/anime, even \"useful\" bots. Whenever we see a comment or post by one, that bot is banned. We would appreciate it if you blacklisted /r/anime in your bot's configuration to save us the hassle. If you really think your bot would be beneficial to /r/anime, please modmail us explaining why and we'll let you know if we will permit it.\n\nIn general, novelty accounts will also be removed on sight, being very similar to bots in how they operate.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Post source-related comments in the Source Material Corner",
+            "description": "In episode discussion threads of airing anime adaptations, please keep all source-related comments, such as discussion of future events, comparisons with the source material, or talk about the source material in general, in the Source Material Corner.\n\n[Visit this post for more detail on the Source Material Corner.](https://redd.it/b8kytv)",
+            "kind": "comment"
+        }
+    ]
+}

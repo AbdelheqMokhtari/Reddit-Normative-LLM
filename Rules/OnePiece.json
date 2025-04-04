@@ -1,0 +1,66 @@
+{
+    "subreddit": "OnePiece",
+    "subscribers": 5156155,
+    "rules": [
+        {
+            "Rule_title": "Be mindful of Spoilers.",
+            "description": "- **No spoilers in titles.**\n- **Use spoiler tags for anything that hasn't been revealed in the anime yet.** \n- **Do not leak spoilers outside of the thread for chapter spoilers.**\n- **If the author hasn't seen beyond X chapter/episode, please be respectful and tag appropriately.**\n- **Put the chapter number in your title for post about the latest chapter before the official release**\n- **Only use vagues titles for post made after the scanlation (Theory for 1XXX/Fanart for 1XXX)**",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No separate posts of chapter thread for 24h",
+            "description": "- To prevent the subreddit from getting flooded with posts. \n- The discussion and theories thread are the place to discuss the chapter. You must wait a day to post any other discussions in a thread.\n- Untagged comments about the latest chapter outside the stickied discussion thread will not be removed after the scanlation is released\n- Posts not specifically focused on the chapter but mention something from the chapter are allowed\n- Exceptions: Fanart, long form analyses",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Fanart/cosplay must directly link to the source",
+            "description": "* **Use these to find the source:**\n * [saucenao.com](http://saucenao.com/)  \n\n* **If you edited/took insipration/copied a fanart, give credit to the orginal artist in the comments.**\n* Limit yourself to **one fanart submission within approximately 24 hours.**\n* **Do not post art from the same user multiple days in a row.**\n* AI Generated Art is only allowed in the dedicated monthly thread",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Plain panels/scenes must create discourse",
+            "description": "- **Don't post links to plain (or slightly edited) panels, pages, screenshots, gifs or scenes from the manga &amp; anime.**\n- Post need to create a discussion without the title or comments.\n- If you want to discuss a certain page/scene from the manga/anime please accompany it with an original analysis or discussion provoking questions. Otherwise it is considered a low effort type of post and will be removed.\n- Clips/Recap/summary videos fall under this rule as well.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Posts must be directly related to One Piece",
+            "description": "- As a general rule of thumb if you can't tell it's about One Piece without any accompanying text then it most likely will not comply with the previously stated rule.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Self promotion",
+            "description": "- Self-promotion should be thoughtful, limited, and consistently well received by the community. The [9:1 ratio](https://www.reddit.com/wiki/selfpromotion) (ie. every one promotional video should be followed by approximately nine *quality* discussion threads) should be followed.\n\n####In addition, Youtube reviews and theorist videos must:\n1. Be in a text post format.\n2. Summarise your video for the community or create new points to further the discussion of the videos.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Low Effort Meme",
+            "description": "* Use /r/memepiece\n* Posts which consist of just an image and the text from a meme is considered against the rules, even if the text is not on the image but is in the post title instead.\n* Memes with visible effort put into them are allowed. Eg custom gif or a well drawn/edited meme\n* Jokes may be allowed in moderation. If one or two jokes on the sub sparks a slew of them, we will remove the rest.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No hentai",
+            "description": "- **No hentai.** Use /r/funpiece (NSFW) for that.\n- Anything too explicit but not necessarily hentai may also be removed.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No posts about One Piece games other than news",
+            "description": "- /r/BurningBlood exists for One Piece: Burning Blood\n- /r/OnePieceTC for Treasure Cruise\n- Posts for promotion of the game subreddits are allowed, following the self promotion rule.\n- Discussion of One Piece games in a general sense is allowed.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Questions answered in the FAQ/sidebar",
+            "description": "- Use the search bar, your search engine, and the [FAQ](https://www.reddit.com/r/OnePiece/wiki/faq) to ensure that you are not reposting recent content or already answered questions.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Don't be Rude",
+            "description": "- Do not feed the trolls. If you suspect trolling, report and ignore.\n- Stalking, harassment, and personal attacks will not be tolerated.\n- Racism, misogyny, homophobia, transphobia, ableism or any other hatred will not be tolerated.\n- Do not feed the trolls. If you suspect trolling, report and ignore.\n- Remember [Rediquette](https://www.reddit.com/wiki/reddiquette)",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Flair your posts",
+            "description": "-You can add a flair to your post after submission by clicking the 'flair' button underneath your post.\n\n-All posts should be flaired correctly. Click Here for a description of flairs.\n\n-Unflaired posts will be automatically removed until one is selected.\n\n-Please report wrong flairs, and a mod will fix them.",
+            "kind": "link"
+        }
+    ]
+}

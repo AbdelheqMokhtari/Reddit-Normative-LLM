@@ -1,0 +1,61 @@
+{
+    "subreddit": "HonkaiStarRail",
+    "subscribers": 1082122,
+    "rules": [
+        {
+            "Rule_title": "Be respectful to others",
+            "description": "Always be respectful and civil in your interactions with other users and in the content you submit. Indirect or direct insults,  inflammatory comments, ragebait, harassment, and hate speech will not be tolerated.\n\nAny content which is provocative towards another fandom (Genshin, ZZZ, HI3 etc) or fans of certain characters or playstyles is subject to removal if it does not contribute meaningfully to discussion of the game itself.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No leaked / datamined / modded content",
+            "description": "Leaks, datamines, and mods are prohibited in any capacity. Do not allude, encourage or reference to such content either, including wording to disguise said content (\"iykyk, dreams, somebody gonna tell them\" etc etc...) and do not engage with others breaking this rule.  Linking to sites sharing leaks is also prohibited. Any content not shared in official channels is a leak.\n\nReminder to please try report any suspected leaks and do not comment, as to not confirm any leaks, spoil or spread further.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Megathreads",
+            "description": "Questions about team building, who to roll for, quests, events, seeking advice or tips etc etc or any personalized help should be posted in the Daily Questions megathread.\n\nGacha pulls, luck stats etc as well as Relics belong in the Gacha megathread.\n\nFriend IDs and looking for friends to add belongs in the Friend ID megathread.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Mundane or Repetitive Posts",
+            "description": "Mundane Content is may be removed. This can include (but not limited to) basic in-game screenshots (such as clears or achievement count), low quality images, lacking engagement with the readers, or lacking relevancy to HSR.\n\nAvoid reposts and repetitive content, which can include any content previously posted/similar.\n\nMore details: https://www.reddit.com/r/HonkaiStarRail/wiki/index/sub-rules/mundane-content",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Original Content Rules",
+            "description": "The OC (Original Content) flair is reserved for creators submitting their original artwork or handicraft only.  Screenshots and game recordings are never Original Content.\n\nAI Art is not allowed in any capacity.  AI Music will also be disallowed.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Non-Original Content Rules",
+            "description": "Link to the artwork must be provided in the comments section, as well as the name of the artist must be in the title of the post. Avoid linking from image board sites. Artist social media is mandatory (Pixiv, Artstation, DeviantArt, etc)\n\nEnsure the artist doesn't have a \"Do Not Repost\" in their profile or bio for you to be allowed to share their work.\n\nFor Media such as gameplay videos or clips, please use the “Media” flair.\n\nAI work is not allowed in any capacity, including art and music.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Non-OC Art Submission Frequency",
+            "description": "You may post only 1 non-OC fanart,\ncomic, or cosplay submission every 5 days\n\nPersonally created work (OC/Original\nContent) and Official Media released\nby HoYoverse has no restrictions.\n\nNote, please ensure the Artist doesn't have a \"Do Not Repost\" in their profile, if they do you are required to provide proof of permission being granted to you.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "NSFW Rules",
+            "description": "Allowed with NSFW tag:\n- Blood\n- Bikinis/swimsuits\n- Subtle fetish art that does not break the below \"Not Allowed\" rules\n- Subtle innuendo\n- Mild profanity\n\nNot allowed:\n- Gore\n- Exposed or accentuated genitalia, even if covered\n- Too much skin/nudity\n- Expressed or strongly implied sexual activity\n- Fetish art (fetish is majority of art, suggestive liquids, suggestive or sexual actions)\n- Strongly suggestive poses\n- Excessive use of profanity\n- Cropped or censored versions of any listed content",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Be careful with spoilers",
+            "description": "No spoilers in the title, including theory posts. \n Posts with spoilers must be marked. \n\nSpoilers include:\n\n• All story content for the first 3 weeks of a patch.\n\n• Content from limited events until it ends\n\n• Spoilers can be discussed in marked posts. They must be hidden in non spoiler-marked posts.\n\nSpoilers of any form of other media needs to be made clear in the title like this \"[(Series Name) Spoiler]\" or it may be subject to removal.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Commercial and Self-Promotion Rules",
+            "description": "Account trading/selling is prohibited\n\nSelf-promotion is allowed:\n\n• Fan events selling tickets or giveaways, as well as social media group advertisements must be pre-approved in modmail before posting.\n\n• Socials may be posted alongside OC artwork, including monetized socials such as Patreon/Ko-Fi. Monetized socials cannot be NSFW.  Non-monetized socials such as Twitter/Pixiv can be NSFW as long as it is mentioned.\n\n• You are allowed to state you are open to commissions.\n\n",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Shipping Rules",
+            "description": "Please see our full shipping rules here: \n\nhttps://www.reddit.com/r/HonkaiStarRail/wiki/shipping-rules/\n\nPlease note a first offense breaking Rule 11 carries a 1 week ban minimum.",
+            "kind": "all"
+        }
+    ]
+}

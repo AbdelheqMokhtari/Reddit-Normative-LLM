@@ -1,0 +1,46 @@
+{
+    "subreddit": "DnD",
+    "subscribers": 4119778,
+    "rules": [
+        {
+            "Rule_title": "Posts must relate to Dungeons &amp; Dragons",
+            "description": "Both the title and the content of posts must directly relate to Dungeons &amp; Dragons.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No piracy",
+            "description": "Do not suggest, promote, or perform piracy. This includes illegally distributed material (official and indie), reproductions, dubious PDFs, and websites or applications which use or distribute non-SRD rules content.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Images must have tags &amp; description",
+            "description": "All image posts must:\n * Be original content.\n * Have [OC] or [Art] in the title.\n * Include a description in the comments, 400+ characters in length.\n * Include [Comm] in the title (if posting/seeking commissions).\n * Not be NSFW or forbidden by our banned subjects list.\n * Note that Thursdays are text-post only days.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Banned Images",
+            "description": "Images posted to the sub should not be NSFW, purchased products, pictures of text, commission sheets, etc. [See the full list here](https://www.reddit.com/r/DnD/wiki/rules#wiki_4._image_posts_must_not_be_nsfw_or_a_banned_subject.).",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No AI",
+            "description": "We do not allow AI generated content or AI tools to be posted to the sub.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "All promos must be Mod Approved",
+            "description": "Any time you intend to post any self-promotion, message the mods ahead of time. This includes art commissions, modules, maps, podcasts, streams, etc, whether you are charging for them or not.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Be chill.",
+            "description": "Follow the [reddit content policy](https://www.reddit.com/help/contentpolicy), including the provisions on unwelcome content and prohibited behavior. Keep /r/DnD a welcoming community. Report comments that violate the rules or attack users, do not start arguments.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No LFG",
+            "description": "Looking for Group/Looking for DM style posts should be taken to /r/lfg or a local subreddit.",
+            "kind": "link"
+        }
+    ]
+}

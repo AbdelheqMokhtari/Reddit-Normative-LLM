@@ -1,0 +1,56 @@
+{
+    "subreddit": "GlobalOffensive",
+    "subscribers": 2793583,
+    "rules": [
+        {
+            "Rule_title": "Relevancy",
+            "description": "This subreddit is for content and discussion about Counter-Strike: Global Offensive (CS:GO) and Counter-Strike 2 (CS2). Submissions must relate to, or directly affect CS:GO and/or CS2 or the CS community, regardless of title. The personal lives of community members and submissions about esports organizations are not relevant when there is no significant impact to or discussion involving Counter-Strike specifically.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Quality",
+            "description": "Low-value submissions that may detract from meaningful discussion are not allowed, e.g:\n\n* Generic images of personal scoreboards, streams, rag dolls, chat dialogs, etc.\n* Duplicate and repetitive threads that could be posted as comments on other threads\n* Memes (e.g. image macros, \"One-liner\" jokes) and edits of unrelated media\n* AI generated content, announcements of announcements, and recruiting posts\n* Unconstructive rants, sob stories, banter, arguments, and rank or match quality complaints",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Support",
+            "description": "Discussion involving modification of the game and its settings is allowed. Individual issues relating to hardware/peripherals (e.g. fps loss, latency/ping, crashes) or 3rd party services are not allowed, use appropriate support pages/subreddits for help.\n\nYou should contact Steam Support if you have any personal issues that would require extensive troubleshooting. (e.g. Game bans, trade issues, scams). Please check http://steamstat.us before posting about issues with Steam servers or services.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Exploits and Bugs",
+            "description": "Do not post about exploits or major bugs that could adversely affect or ruin the game experience for others.\n\nSend steps on how to reproduce the bug or exploit directly to Valve:\n\ncs2team@valvesoftware.com",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Trading, Betting and Giveaways",
+            "description": "General discussion about trading, betting or gambling and their relation to CS:GO is allowed.\n\nThe following are not allowed:\n\n* Trade offers\n* Item pricing\n* Showcasing items (case openings, items, bets, trade-ups, drops)\n* Trading, betting or gambling advice/analysis\n\nThe following are not allowed unless you get explicit permission from the moderators:\n\n* Giveaways and raffles\n* Asking for items or games, no matter the reason\n* Asking for donations and posts related to charity\n* Referral links",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Scamming and Cheating",
+            "description": "Reporting scams or scam methods is not allowed. To protect yourself please read [this guide](http://bit.ly/1pcN4Ij).\n\nDo not post about cheating. Specifically:\n\n* Posting profiles of alleged cheaters or non-OW gameplay\n* Requesting help with OW verdicts\n* Discussing cheats in technical detail\n* Linking to cheat related websites or naming them publicly\n* Reporting cheats\n\nIf you have information about a cheat please contact Valve's VAC team [here](http://bit.ly/1R2RuHH).",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Accusations and Witch-hunts",
+            "description": "Accusations or calls to action towards any person or player related to: \n\n* cheating \n* scamming \n* SWATting \n* match fixing \n* view botting \n\nare not allowed. The proper channels should be followed for reporting the alleged behavior, including contacting Valve or league authorities.\n\nNews of action taken toward a sufficiently famous person in the CS scene (i.e., VAC, league bans) or criminal allegations that may affect their profession are allowed.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Advertising",
+            "description": "Selling, buying or promoting products and services that cost or reward money or digital items is not allowed (e.g. art, tickets, gambling). [Guidelines for tournaments](http://goo.gl/LKL9Ew).\n\nPromoting your content is fine if it's not spammed multiple times in a short period and is 10% or less of your participation in the subreddit. See Reddit's [self-promotion guidelines](http://goo.gl/KxVbzV).\n\nSubmissions of completed workshop items must include a link to the workshop post in the comments.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Abuse and Poor Behaviour",
+            "description": "The following are not allowed:\n\n* Personal attacks and hateful language\n* Impersonating other users\n* [Vote manipulation](http://bit.ly/24WVKmo). This includes \"I'll do x at y upvotes\", \"rate up my workshop skin\", etc\n* Trolling, baiting or inciting users (i.e. tricking other users, antagonizing etc)\n* Offering or requesting griefing services (Boosting, deranking, etc)\n* Reposting deleted or removed content",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Additional Submission Guidelines",
+            "description": "* Submissions must be in English, or provide an accurate translation.\n* Calls to action are not allowed.\n* Match threads must follow our [match thread guidelines](/r/GlobalOffensive/wiki/subreddit-regulations#wiki_match_threads.3A_guidelines).\n* Surveys and polls must follow our [survey guidelines](/r/GlobalOffensive/wiki/subreddit-regulations#wiki_polls_and_surveys) and require approval from the moderators.\n* AMAs are welcome but require prior approval so that we can help coordinate them.",
+            "kind": "all"
+        }
+    ]
+}

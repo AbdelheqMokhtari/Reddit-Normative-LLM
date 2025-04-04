@@ -1,0 +1,36 @@
+{
+    "subreddit": "Wellthatsucks",
+    "subscribers": 3955767,
+    "rules": [
+        {
+            "Rule_title": "Please follow reddiquette.",
+            "description": "We will not allow behavior contrary to reddiquette.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Please be civil.",
+            "description": "Please be civil. Rude comments or harassing comments will be removed and may result in a ban. No bigotry, racism, etc.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No injuries",
+            "description": "No  injuries. A post should make you react with well that sucks. If the post shows someone getting  hurt we will remove it. THIS INCLUDES ANIMAL SUFFERING.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No compilations ",
+            "description": "We want to keep the content here to a high quality. ",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No low effort",
+            "description": "Please put some effort into your submission. If you do not include a picture / video than please elaborate more in the description.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Reposts.",
+            "description": " Recent and frequent reposts will be removed. Please search before submitting content that is not OC. ",
+            "kind": "all"
+        }
+    ]
+}

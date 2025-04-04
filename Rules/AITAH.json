@@ -1,0 +1,36 @@
+{
+    "subreddit": "AITAH",
+    "subscribers": 3822106,
+    "rules": [
+        {
+            "Rule_title": "Fake post verses hypothetical post.",
+            "description": "This sub allows hypothetical posts. To be hypothetical the post can not copy another post. A post can not create a situation that is not possible, and you cannot make fake posts.\nFakes post that have no point or are clearly creative writing are not allowed.  If you can't even be bothered to ask how you are the asshole, your post may be removed.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No AI or Bot post and comments",
+            "description": "AI posts are not allowed and will be removed.\nBot posts and comments are not allowed and will be removed.  All accounts will be permanently banned.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No karma farming",
+            "description": "Post and comments that appear to be farming for karma will be removed. The account will face a ban.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No third party post.",
+            "description": "Third party post are posts that are not from the original user. This includes cross-posting your own post on other advice subs. Hypothetical posts are not third party posts.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Be civil to each other. ",
+            "description": "We expect people to post and comment with decorum.  No matter how egregious you might think a user is acting, you do not have a right to respond in the same way. ",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No excessive use of demeaning language or names.",
+            "description": "Descriptive negative language such as name calling is not allowed.  Cussing happens when people become emotional and that is understandable. However, name calling just to insult people is not allowed.",
+            "kind": "all"
+        }
+    ]
+}

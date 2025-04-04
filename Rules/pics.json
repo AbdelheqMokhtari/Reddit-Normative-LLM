@@ -1,0 +1,66 @@
+{
+    "subreddit": "pics",
+    "subscribers": 32019609,
+    "rules": [
+        {
+            "Rule_title": "No screenshots, AI images, or pictures in which the focus is a screen.",
+            "description": "**No [screenshots](https://i.imgur.com/AtDiqpR.jpg). No pictures wherein the only focus is a screen.**\n\nImages with [unnecessary margins](https://i.imgur.com/mhmXSRq.jpg) of any color will be assumed to be screenshots. \n\nPictures that include screens can be permitted, but said screens must not be the sole or primary focus of the photographs.\n\nWe do not allow AI-generated images of any kind.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No digital elements or text.",
+            "description": "**No pictures with [added or superimposed digital text, emojis, or \"MS Paint\"-like scribbles](https://i.imgur.com/QoI5LKt.jpg).**\n\n\"Added text\" is extended to all drawings, whether done digitally or by hand.\n\n[Photoshopped](https://i.imgur.com/c8ZPW1F.jpg) or otherwise manipulated images are allowed. \n\nWhile we do allow watermarks, they have to be inconspicuous. \n\nWe also allow faces and anything else you may consider to be personal information to be blurred, boxed out, or otherwise covered.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No pornography or gore.",
+            "description": "**No pornography or gore. NSFW comment links must be tagged. Posting gratuitous materials may result in an immediate and permanent ban.**\n\nArtistic nudity is allowed, but must be tagged with \"NSFW.\" \n\nIf genitals are displayed within a photograph, it will generally be treated as pornography. \n\nNo pictures which include excessive blood or inside-the-flesh details made visible via any form of laceration.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No doxxing or witch-hunts.",
+            "description": "**No personal information may be offered in posts or comments.**\n\nPersonal information includes (but is not limited to) names not in the public domain, names in yearbooks, invoices, receipts, identifying account numbers, home addresses, or telephone numbers.\n\nFor spam-related and doxxing-centric reasons, we do not allow direct links to social media sites.\n\nSubreddit-related meta-drama, stalking, harassment, witch-hunting, or doxxing will not be tolerated and will result in an immediate ban.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Titles must obey all relevant rules.",
+            "description": "**All posts must follow the title rules. Those are detailed [here](https://www.reddit.com/r/pics/wiki/titles).**",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Only approved image-hosts.",
+            "description": "**Submissions must link directly to a specific image file or to one of the allowed image hosts.**\n\nYou can upload your picture either directly to Reddit or to one of the following image hosts: Imgur.com, Flickr.com, or 500px.org.\n\nAdditionally, we allow any direct link to a picture, provided that the URL ends in .png, .jpg, or .jpeg.\n\nURL-shorteners are prohibited, as are URLs in image or album-descriptions.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No GIFs or videos.",
+            "description": "**No GIFs, videos, or animated media.**\n\nPlease submit animated images to /r/GIFs, /r/GIF, /r/Videos, or /r/ReactionGIFs instead.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Remain civil.",
+            "description": "**We enforce a standard of common decency and civility here. Please be respectful to others.**\n\nInappropriate behavior or content will be removed and can result in a ban. This includes (but is not limited to) personal attacks, fighting words, or comments that insult or demean a specific user or group of users.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No progress-pictures.",
+            "description": "**No submissions featuring before-and-after depictions of personal health progress or achievement. No standalone images of personal achievement objects.**\n\nProgress-pictures are prohibited if they show clear health progress or achievement. For example, before-and-after pictures of weight-loss, sobriety, or muscle-gain are not allowed, whereas images showing a person's young self and old self *are* allowed.\n\nStandalone images of medals, tokens, certificates, and awards are similarly disallowed.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No FCoO or flooding.",
+            "description": "**No false claims of ownership (FCoO) or flooding.**\n\nFalse claims of ownership (FCoO) – posting pictures that aren't yours but pretending like they are – will result in a ban. Please be aware that using the OC tag or writing [OC] in the title is considered FCoO unless the content is 100% produced(taken, drawn or made) by you.\n\nFlooding (more than four posts in a rolling twenty-four-hour window) will also result in a ban.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Reposts are subject to limitations.",
+            "description": "**Reposts of images on the front page or within the set limit of /r/pics/top will be removed.**\n\nTo keep our subreddit fresh and to avoid having the same content constantly pop up, we currently remove reposts of images that are currently on the front page of /r/Pics.\n\nAdditionally, we remove reposts of the top 25 images posted this year, and the top 50 of all time.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No self-promotional accounts.",
+            "description": "**Submitters may offer only one self-promotional link per post.**\n\nWell-established accounts are allowed to offer one self-promotional link per post. Be aware that this does not exclude you from the rest of this rule. Breaking or circumventing this rule may result in temporary or permanent bans. \n\nAccounts that exist solely to advertise or promote will be banned, regardless of how or where the promotion itself occurs.",
+            "kind": "all"
+        }
+    ]
+}

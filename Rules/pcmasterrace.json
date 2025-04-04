@@ -1,0 +1,66 @@
+{
+    "subreddit": "pcmasterrace",
+    "subscribers": 14859104,
+    "rules": [
+        {
+            "Rule_title": "Harassment/calls to action against others",
+            "description": "Harassment of others is strictly forbidden. We will not tolerate any kind of incitement to action against anyone, nor will we allow the posting of information that can be used to harm others (celebrities or not).\n\nRead our full rules: https://pcmasterrace.org/rules",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Follow PCMR Etiquette",
+            "description": "We will not allow behavior contrary to PCMR Etiquette (https://pcmasterrace.org/etiquette) , e.g. brigading, witch-hunting, asking for upvotes or downvotes, enabling piracy, flamebaiting, clickbaiting, intentional rudeness, text spamming, using all caps or emojis/smileys/emoticons in titles or overusing them in comments, meta-reddit or meta-subreddit drama or complaints, concern trolling and general drama.\n\nRead our full rules: https://pcmasterrace.org/rules",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Do not link to outside threads",
+            "description": "Don't link to threads in other subreddits. This includes archived links and links intending to unhide deleted or removed comments. Do not attempt to circumvent this rule by any means.\n\nRead our full rules: https://pcmasterrace.org/rules",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Anonymize all images/screenshots",
+            "description": "Images/screenshots of Reddit, Facebook, Youtube, and other site's comments should have the usernames and other personally identifiable information blacked out (including yours). Celebrities are the exception, as long as you respect rule #1.\n\nRead our full rules: https://pcmasterrace.org/rules",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No referral or affiliate links",
+            "description": "No affiliate/referral links or codes.\n\nRead our full rules: https://pcmasterrace.org/rules",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Low quality, unrelated, unoriginal or low-effort posts will be deleted at mod discretion.",
+            "description": "including, but not limited to: Blatant reposts; simple bugs, steam/product reviews; screenshots of chats; speed tests; negligible price reductions; items that aren't PC related even if they are named or look similar; petitions/surveys that aren't academic (and have been pre-approved by the mods); pictures of purchase/shipping notices; simple reaction images/gifs; engaging in concern trolling/faking concern to disrupt dialogue; feigning idiocy for comedic purposes. https://pcmasterrace.org/rules",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Do not discriminate against others",
+            "description": "Age, nationality, race, gender, ability, sexuality, religion, political affiliation and economic status are all irrelevant here. All are welcome in the PC Master Race. Also, linking the PC Master Race with racial supremacy or any kind of fascist ideologies, or making distasteful analogies in this regard, is not acceptable in the slightest.\n\nRead our full rules: https://pcmasterrace.org/rules",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No begging, trading, selling, or asking for valuation.",
+            "description": "No begging. No soft begging. No Implicit or explicit trading. No buying. No Selling. No asking for valuation. No asking how or where to do these either.\n\nRead our full rules: https://pcmasterrace.org/rules",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Do not abuse the NSFW or Spoiler tags",
+            "description": "Message the mods first, and wait for permission, if your post/comment is NSFW. Do not mark your post as NSFW or as Spoiler unless it actually is NSFW or a Spoiler.\n\nRead our full rules: https://pcmasterrace.org/rules",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Peasantry posts must be self posts",
+            "description": "Screenshots of \"peasantry,\" including but not limited to conversations on Reddit, other websites or sms/chat screenshots where ignorance is being spewed and/or ridiculed, must be text posts.\n\nRead our full rules: https://pcmasterrace.org/rules",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Giveaway rules",
+            "description": "Users giving away physical items must provide photo proof of ownership (including username and date) and post it in the giveaway thread.\n\nAsking for upvotes is forbidden.\n\nNo links to external giveaways or mandatory completion of steps outside the sub without previous approval.\n\nNo conditional (I will only give if) giveaways.\n\nThis is only a brief sum up. Read our full giveaway rules here: https://pcmasterrace.org/rules#wiki_giveaway_rules",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Read our full rules here",
+            "description": "https://pcmasterrace.org/rules",
+            "kind": "all"
+        }
+    ]
+}

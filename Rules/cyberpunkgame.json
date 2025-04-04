@@ -1,0 +1,51 @@
+{
+    "subreddit": "cyberpunkgame",
+    "subscribers": 2182701,
+    "rules": [
+        {
+            "Rule_title": "Follow Reddiquette",
+            "description": "Posts and comments must adhere to [Reddiquette](https://support.reddithelp.com/hc/en-us/articles/205926439-Reddiquette). Violating posts &amp; comments will be removed. Repeat offenders may be banned.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Read the pinned FAQ",
+            "description": "Review the [pinned FAQ](https://www.reddit.com/r/cyberpunkgame/comments/1c4zdow/cyberpunk_2077_faq/) before posting a question. Posts of question(s) answered in the FAQ will be removed.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Properly label &amp; title posts",
+            "description": "All posts must have a descriptive title, provide sources, and adhere to the subreddit’s [spoiler posting guidelines](https://new.reddit.com/r/cyberpunkgame/wiki/rules/spoilerformatting/) when posting spoilers.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "High Quality, Relevant, &amp; Topical Content",
+            "description": "Posts must be directly related to CD Projekt Red’s Cyberpunk universe. These posts must be original and provide any necessary background information. Low-quality, reposts, and irrelevant content will be removed.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Porn or Hentai",
+            "description": "Porn, hentai or any sexually explicit content is not allowed. Plain nudity that is not pornographic in nature is otherwise generally allowed, as long as the appropriate \"NSFW\" tag is applied and the subjects are not underage or depicted with child-like features. We reserve the right to remove posts that, whilst not pornographic in nature, are either excessively sexualized, in general poor taste, or sexualizing characters that are either underage or depicted with child-like features.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Leaked or Pirated Content",
+            "description": "No links to pirated or leaked content may be requested or posted.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Self Promotion, Surveys, Giveaways",
+            "description": "Do not excessively promote your own content. Follow [Reddit’s 9:1 rule](https://new.reddit.com/r/cyberpunkgame/wiki/rules/selfpromo). Giveaways, petitions and surveys must be approved by the moderators first.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Accusation, Witch Hunting and Calls to Action",
+            "description": "Do not encourage others to take action towards, target or vote for/against something, or to boycott/support a person/organization. These posts must be approved by the moderators first.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Absolutely zero joking about ‘CP’",
+            "description": "Making a joke about ‘child porn’ when someone posts the ‘CP’ abbreviation will result in an immediate ban ",
+            "kind": "all"
+        }
+    ]
+}

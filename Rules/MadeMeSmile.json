@@ -1,0 +1,36 @@
+{
+    "subreddit": "MadeMeSmile",
+    "subscribers": 11369384,
+    "rules": [
+        {
+            "Rule_title": "Don't be a jerk!",
+            "description": "This subreddit is /r/MadeMeSmile, and it's curated as such. We do not tolerate personal attacks, hate speech, harassment, racism, sexism, or other jerk-like behavior.\n\n[SEE MORE HERE](https://www.reddit.com/r/mademesmile/wiki/rule1)",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No ragebait posts",
+            "description": "No posts where someone's misfortune makes you smile.  e.g. \"terrorists driving off a cliff\" or \"murderer gets what he deserves\".  This isn't a ragebait sub.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No surnames",
+            "description": "If the last name of someone is visible in your screenshot, it will get removed. An Exception is a Twitter checkmark.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No flooding/spamming",
+            "description": "Posting more than 4 posts in a 24 hour period is flooding.  Posting  4 posts a day 3 days in a row is flooding.  Excessive posting of self-promotion is spam.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No recent reposts",
+            "description": "Don't post the same content that has been posted recently.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "\"Winners Wednesdays\"",
+            "description": "Please post \"Winning\" posts on Wednesdays only. This is just to reduce the amount of spam and fake posts we get on the subreddit. Any \"Winning\" posts that are submitted outside of Wednesday will be removed.",
+            "kind": "link"
+        }
+    ]
+}

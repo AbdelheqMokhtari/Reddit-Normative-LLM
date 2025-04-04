@@ -1,0 +1,81 @@
+{
+    "subreddit": "TikTokCringe",
+    "subscribers": 4886188,
+    "rules": [
+        {
+            "Rule_title": "No Politics",
+            "description": "Posts involving anything political are not allowed. \n\nWe are not interested in your activism or any agenda you’re pushing for a country/cause. \n\nPolitical posts may be approved on occasion if they are lighthearted enough or have the potential to spark meaningful conversation. 99% of the time this will not be the case.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Reposts",
+            "description": "Avoid posting content that has already been submitted.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Advertising",
+            "description": "Blatant advertisement trying to get views, followers, etc. for yourself/others on-site or off-site is not allowed.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Flair Posts Correctly",
+            "description": "All posts need to be flaired properly to help users sort content by their interests. ",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Original Content Must Be Flaired As Such",
+            "description": "All original content must use the “OC” flair to distinguish the creator’s videos and prevent spam or self-advertisement.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Posts Must Be From TikTok",
+            "description": "Only content from TikTok clearly showing he creator’s username and the TikTok logo is allowed.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Posting Personal Information",
+            "description": "Sharing personal info (names, addresses, phone numbers) is strictly forbidden.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Don't Witch-Hunt",
+            "description": "Calling for the heads of anyone is not allowed. Posting content calling for the heads of anyone is also not allowed.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Be Civil In Comments",
+            "description": "Rude, vulgar, or offensive comments targeting other members is not allowed. Report issues instead of engaging in negativity.",
+            "kind": "comment"
+        },
+        {
+            "Rule_title": "No Hate Speech",
+            "description": "There will be zero tolerance for explicit racism, homophobia/transphobia, or sexism/misogyny.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Bad-Faith Posts Featuring Anyone Who Is Mentally Ill Or Disabled",
+            "description": "Content focused on exploiting mentally ill or disabled individuals is banned.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Compilations/YouTube Video Re-uploads",
+            "description": "Compilations or YouTube video re-uploads are prohibited. This includes ripped YouTube TikToks.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Don't Complain About The Subreddit Name",
+            "description": "Respect the evolution of the subreddit’s name, with no rude or offensive comments about it.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Karma Farming",
+            "description": "If we suspect you are using r/TikTokCringe to karma farm, you will be banned.",
+            "kind": "comment"
+        },
+        {
+            "Rule_title": "No Promoting OnlyFans Or Other Adult Websites",
+            "description": "If you are suspected of making posts on r/TikTokCringe to draw users to your Reddit account to promote your OnlyFans or other adult websites, you will be banned.",
+            "kind": "link"
+        }
+    ]
+}

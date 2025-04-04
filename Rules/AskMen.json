@@ -1,0 +1,76 @@
+{
+    "subreddit": "AskMen",
+    "subscribers": 6576180,
+    "rules": [
+        {
+            "Rule_title": "Don't be an asshole / be respectful to others.",
+            "description": "Don't be an asshole.  Pretty simple.  This does not mean you can report people for saying mean things to you and hurting your feefees.  We're not a safe space here, if you make a comment or an argument, be prepared to defend it if people call you out on your shit.  But don't resort to name calling or telling people to kill themselves. Blatant racism, sexism etc is punishable with a permanent ban.  Thirst trap/sex content accounts, or AI generated comments, will result in a ban.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "The title of your post must contain an actual, concise question. No clickbait titles.",
+            "description": "The title of your post must contain an actual question.  Keep your question concise, and don't make a clickbait title like \"What do you think of this?\". Any question that can be answered with “Some do, some don’t. Men are not all the same” falls under this rule.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No low-effort posts or Frequently Asked Questions; search before posting and check the FAQ wiki.",
+            "description": "Low-effort posts will be removed at moderator discretion.\n\nWe also remove frequently asked questions. [you can find them here](http://www.reddit.com/r/AskMen/wiki/index). Apart from these, we also remove questions that we deem frequently asked enough to warrant removal but have not yet been added to the FAQ.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Do not post asking about dating advice, or a person or group's actions, behavior, or thinking.",
+            "description": "Do not make posts trying to figure out a specific person's actions, behavior, or thinking.\n\nNOBODY KNOWS WHAT HE/SHE IS THINKING. ASK THEM! Don't ask men when you really want to ask A man.\n\n*This is not a place to seek dating or relationship advice*. Go to /r/advice or /r/relationship_advice.\n\nThis also goes for wanting to suss out men or women's behavior as an entire gender. We don't want people speculating into the actions and behaviors of people they arent.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "YES/NO/\"Does anyone else\" questions will be removed at our discretion.",
+            "description": "Taken from the mod post:\n\nIf we feel like your question can be answered with a \"yes\" or a \"no\", asks \"does anyone else do/feel this way\", or asks \"is X behavior normal\", we will remove it.\nThis also includes 'A or B?' or \"What would you rather?\" type questions\n\nThis is pretty straightforward.  Please exercise some common sense here.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Do not make posts looking for affirmation of your appearance, personality or body features.",
+            "description": "Do not make posts looking for affirmation of your appearance, body features, personality traits or life situation. Do not make posts asking about what you look like or what you should wear or what makeup men like. Nobody gives a shit. Go make an instagram post.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Do not post negative/forever alone rants.",
+            "description": "Do not post negative/forever alone rants. Visit /r/ForeverAlone or /r/rant if you want to complain.  This includes \"how do a get over a breakup\" and \"what should I do with my life\".",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Don't comment/post self-deprecating content looking to get karma or attention.",
+            "description": "Don't comment/post self-deprecating content looking to get karma or attention.  Example: if someone asks what your favorite thing about your girlfriend is and you reply with \"lol that she actually existed lol\" or \"she's my hand lol-ercopter\", we're going to issue a temp ban to you for the first offense and a permaban the next time.  Keep your replies on-topic for people asking questions.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No questions about gifts or presents.",
+            "description": "Seriously, no gift threads. If you are going to ask \"what should I get\"/\"what would be a good gift for\" someone, then go to /r/gifts right now and post your question there because we will not take this shit. This also includes asking for other ways to celebrate/thank/show appreciation to someone.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No agenda posting, and no brigading/complaining about other subs.",
+            "description": "Don't post a question that is obviously geared towards creating an echo chamber where you can either a) create a circlejerk about how everyone agrees with you or b) get into fights with everyone because you're right and everyone else is a shitlord/plebian/whatever.  If you want to get into stupid slapfights with people, then take it somewhere else.\n\nDo not link to other subreddits with the intention to draw attention to a certain post or comment. Only archived reddit post links will be approved.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Medical advice is not allowed here.",
+            "description": "Medical advice is not allowed here. We recommend talking to a medical professional instead of the Internet.  This includes asking why your dick does whatever it does.  We're tired of talking about dicks here.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "We do not allow surveys or promotional content",
+            "description": "Message the moderators with any questions/comments. This includes external sites looking to farm responses for content. We don't currently allow surveys or promotional content. The bot will automatically ban you if you have adult content links associated with your account - blame all assholes before you for trying to farm engagement on this sub.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Overly political questions will be removed.",
+            "description": "Overly political questions will be removed. There are subs like /r/politics, r/PoliticalDebate, and /r/PoliticalDiscussion if you want to debate political ideas or candidates.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Questions overly sexual in nature will be removed.",
+            "description": "\"How to sex/sexiest sex you’ve ever sexed/when-where-what sex do you like/ why is sex thing sexy?” and questions of that nature will be removed at our discretion.\n\n\nThere are many subs dedicated to these types of questions, please take it there as we’re sick of them: r/sex r/AskRedditAfterDark r/sexoverthirty",
+            "kind": "link"
+        }
+    ]
+}

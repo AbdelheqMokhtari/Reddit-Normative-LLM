@@ -1,0 +1,46 @@
+{
+    "subreddit": "unpopularopinion",
+    "subscribers": 4642912,
+    "rules": [
+        {
+            "Rule_title": "Your post must be an unpopular opinion",
+            "description": "* Your post must be an opinion. Not a question. Not a showerthought. Not a rant. Not a proposal. Not a fact. An opinion. One opinion. A subjective statement about your position on some topic. Please have a clear, self contained opinion as your post title, and use the text field to elaborate and expand on why you think/feel this way.\n\n* Your opinion must be unpopular. The mods reserve the right to remove opinions\n\n* Elaborate on your topic and opinion give context to its unpopularity.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Do not post low effort/satirical/troll posts",
+            "description": "* We get it, you all think this sub is garbage and is just for popular opinions, and you want to be funny and post \"going to be downvoted to oblivion here, but I think racism is bad.\" We enjoy the memes, but please keep them off the sub.\n\n* This includes clickbait, rage bait, and/or gotcha posts. Your opinion can not be that unpopular if you're doing these things. Have the accurate opinion in the title.\n\n* Filter evasion is a bannable offense.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Do not post opinions that are heavily posted/have been on the front page recently",
+            "description": "* No response posts about upvoted posts here.\n\n* Posts relating to highly popular topics aren't allowed outside of the relevant megathreads. You can find a list of the topics and their respective megathreads in a post on the top of the sub.\n\n* POSTS DIRECTLY ABOUT THIS SUBREDDIT ARE NOT ALLOWED OUTSIDE THE MEGATHREAD\n\n* Please check the wiki linked here: https://www.reddit.com/r/unpopularopinion/wiki/index/\n\n* We ask that if a post fails to post do not just spam repost it; message mod mail.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Be civil",
+            "description": "* This applies for both your behaviour on the sub, and the opinions which you post.\n\n* Obey the sitewide rules and [reddiquette](/wiki/reddiquette).\n\n*Remain open minded and open to civil discussion when posting and commenting.\n\n*Some opinions are so inappropriate/offensive that they'll be removed as hate posts. These posts are usually, but not exclusively, those that target a particular sex, race, sexual orientation, etc.\n\n*No racism, sexism, homophobia, transphobia, or general bigotry.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No political posts",
+            "description": "* Our users have voted for no political posts in this sub, and this rule will not be changed until the majority votes otherwise. \n\n* It's very unlikely your political post is an unpopular opinion. Feel free to use the Politics Megathread pinned to the front page.\n\n* Covid/vaccine posts due to the overwhelming political nature of the topic.\n\n* Yes, voting, talking about monarchs and/or the actions of and/or about politicians or world leaders is political.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No r/self style posts ",
+            "description": "Please refrain from posting anything that resembles an r/self-style post. \n\nThis is not the subreddit to be sharing personal anecdotes, likes or dislikes. We want unpopular, thought provoking, and unique opinions on your chosen topic. ",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No banned / mega-thread topics",
+            "description": "Please do not post from (or mention) any of our mega-thread or banned topics such as: \n\nRace, Religion, LGBTQ, Meta, Politics, Parenting/Family issues. \n\n[Full list of banned topics](https://www.reddit.com/r/unpopularopinion/wiki/index/)",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Moderator discretion",
+            "description": "Moderators reserve the right to make decisions in the best interests of the sub and its users.",
+            "kind": "all"
+        }
+    ]
+}

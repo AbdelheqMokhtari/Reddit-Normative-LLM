@@ -1,0 +1,36 @@
+{
+    "subreddit": "coolguides",
+    "subscribers": 5915347,
+    "rules": [
+        {
+            "Rule_title": "Direct links to images",
+            "description": "Only direct links to images of type .png, .jpg, and .jpeg are allowed",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Infographics will be removed",
+            "description": "An infographic is more educational in layout and content, finding something specific on an infographic is not as easy because it is designed to inform through more narrative structures. If your guide is more of a visual essay than a structured table or list, then chances are that is an infographic. Sometimes infographics can masquerade as how-to guides.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Nonserious/Comedy Guides",
+            "description": "",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Image hosts must either be Reddit or Imgur",
+            "description": "",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Dangerous/Harmful/Hurtful/Destructive Guides",
+            "description": "Guides depicting harmful, dangerous, or destructive content will be removed. This includes guides describing the creation of dangerous items/materials and/or guides that are designed with the purpose to harm or hurt others do not fit the culture of this sub and will be removed.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Post title does not start with \"A cool guide\"",
+            "description": "To help keep things nice, searchable, and maintainable, all posts must be prefixed with \"A cool guide\". For example, \"A cool guide about identifying poison ivy\", \"A cool guide showing how to clean your house\", or \"A cool guide for painting your living room\".",
+            "kind": "all"
+        }
+    ]
+}

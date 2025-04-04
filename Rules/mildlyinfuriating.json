@@ -1,0 +1,46 @@
+{
+    "subreddit": "mildlyinfuriating",
+    "subscribers": 9866526,
+    "rules": [
+        {
+            "Rule_title": "Be civil. Respect Reddiquette and follow Reddit sitewide rules.",
+            "description": "Be civil. Rudeness and bigotry will not be tolerated. Any posts or comments that attack, threaten, or insult a person or group on the basis of national origin, ethnicity and/or color, religion, sex, gender, sexual orientation, age, disability, body size, and so on will be removed. Blatant violations of Reddit sitewide policies will result in a ban. ",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No memes, overdone references, price complaints, text-heavy pictures, or other low-quality posts.  ",
+            "description": "No memes or meme-like images. This includes overdone references in the title (e.g. “banana for scale”, “potato quality,” and so on).\n\n- Title must be an accurate and concise description of the picture.\n- Titles must not contain jokes, backstory, or other fluff. Put that in a comment.\n- If someone does not get halfway to mildly infuriated by reading your title, it’s probably not a good title.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Reddit meta posts.",
+            "description": "Meta posts referring to Reddit subs, users, messages, comments, bans, policies, API, etc. are not allowed.  ",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No reposts under 6 months or crossposts unless it's OC.",
+            "description": "Title must be an accurate and concise description of the picture. \n\nNo lying for karma. If your title says \"I made this\" but you didn’t, it will be removed.  ",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No GIFs cut short or overly edited GIFs. ",
+            "description": "Original content is preferred.  \n\nOverdone text, arrows, scribbles, or substantive edits over the original content are not allowed.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No politics, pushing agendas, or grandstanding. ",
+            "description": "",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Hide or blur personal info such as full names, numbers, and addresses. ",
+            "description": "",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No promotions.",
+            "description": "This includes promoting products, surveys, events, websites, research for opening a business, and irrelevant links.",
+            "kind": "all"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "subreddit": "BestofRedditorUpdates",
+    "subscribers": 2712901,
+    "rules": [
+        {
+            "Rule_title": "No sexism, racism, homophobia, transphobia, ableism, or bigotry",
+            "description": "Posts that deal with these topics are allowed.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Be Civil",
+            "description": "Users who exhibit repeated behavior not conducive to civil discussion may be banned.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Be Kind to Contributors",
+            "description": "Do not target, harass, insult or antagonize people who submit updates to the sub. Rude, hostile or accusatory DMs or comments directed to contributors may result in a ban.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "META Comment",
+            "description": "META comments on individual posts may be removed. Reply to the stickied AutoModerator comment in the post for such discussion. This includes those which claim \"not best of\" or \"doesn't belong here.\"",
+            "kind": "comment"
+        },
+        {
+            "Rule_title": "Comment does not contribute to the discussion",
+            "description": "Comments that do not contribute to the discussion may be removed, specifically:\n\na) remarks such as \"this is fake\", \"that happened.\" However, discrepancies &amp; details that put into question the authenticity of a post may be discussed.\n\nb) trolling, pot-stirring and bad faith comments.",
+            "kind": "comment"
+        },
+        {
+            "Rule_title": "Agenda Pushing",
+            "description": "Comments meant to dismiss, discredit or malign marginalized groups or spread misinformation may be removed.",
+            "kind": "comment"
+        },
+        {
+            "Rule_title": "Brigading",
+            "description": "Do not comment on linked posts. \n\nBrigading is when users from one subreddit disrupts another sub and is against Reddit's guidelines. We want to remain respectful to the original communities we get updates from. We don't monitor our readers, but we sometimes get notified when an old post suddenly gets new comments after being posted here. Many META type subreddits have similar rules as not to interfere with other communities.",
+            "kind": "comment"
+        },
+        {
+            "Rule_title": "Updates must be at least 7 days old",
+            "description": "Most Recent Updates must be at least 7 days old as of the date of the last update",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Incorrect Flair",
+            "description": "Please reply to the stickied automod comment to explain why you think the update is not flaired properly.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Needs a Trigger Warning",
+            "description": "",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Confirmed/Suspected Fake",
+            "description": "Compelling evidence such as an admission of fakeness from OOP must be included to support a post being flaired as Fake.",
+            "kind": "link"
+        }
+    ]
+}

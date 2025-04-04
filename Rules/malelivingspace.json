@@ -1,0 +1,41 @@
+{
+    "subreddit": "malelivingspace",
+    "subscribers": 2456107,
+    "rules": [
+        {
+            "Rule_title": "Advertising",
+            "description": "Absolutely no advertising without prior permission from a moderator.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Low-Effort posts",
+            "description": "NO shitposting. Any post relying primarily on a joke, meme, or general low effort content will be removed.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "URL Shorteners",
+            "description": "NO URL SHORTENERS Any comment or post containing bit.ly, goo.gl, amzn.to, pin.it, a.co, or any other url shortener will be auto-tagged as spam by reddit.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Constructive Feedback",
+            "description": "Be constructive with any feedback.  Name calling, harassment, or mean-spirited comments will be removed, and the User may be banned.",
+            "kind": "comment"
+        },
+        {
+            "Rule_title": "No Renders",
+            "description": "Image renders, or mock-ups of living spaces are not allowed.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Battlestations (PC Setups)",
+            "description": "No gaming PC setups allowed, please post to r/battlestations.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Posts should be open to suggestions",
+            "description": "Posts that are just a blank or nearly empty room for the sake of posting an empty room will be deleted",
+            "kind": "all"
+        }
+    ]
+}

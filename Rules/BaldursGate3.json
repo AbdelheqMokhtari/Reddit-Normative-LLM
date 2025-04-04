@@ -1,0 +1,81 @@
+{
+    "subreddit": "BaldursGate3",
+    "subscribers": 2984166,
+    "rules": [
+        {
+            "Rule_title": "Be civil to one another.",
+            "description": "Unacceptable behaviors include name-calling, taunting, baiting, flaming, etc. The intent is for everyone to act as civil adults.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Respect the opinions of others.",
+            "description": "Everyone's perspective is unique. You don’t have to agree with them, but you also don’t have to argue or harass them about it.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Keep your posts relevant.",
+            "description": "All submissions must be related to Baldur's Gate 3. Comments should be relevant to the topic of the thread.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Tag spoilers and NSFW content.",
+            "description": "Content that is NSFW or contains spoilers must be tagged/hidden appropriately. Additionally, titles should be free of profanity, spoilers, and other NSFW language.\n\nRepeated offenses could result in a ban from the sub.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Memes, screenshots, and fanart must be flaired.",
+            "description": "All fanart, screenshots, memes, and joke posts must have proper flair.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Spamming",
+            "description": "Spamming is strictly prohibited. Any re-posts, low-effort posts, or posts that qualify as spam may be removed. Repeat offenders may be banned.\n\nExamples of low effort posts would be posting excessive screenshots and low effort memes\n\nSelf-Promo Rules:\nPlease follow Reddit's guidelines for self-promo content\n\n\"For every 1 time you post self-promotional content, 9 other posts (submissions or comments) should not contain self-promotional content.\"",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Tav, Build/Multiclass, or LFG Posts outside of their megathreads",
+            "description": "No Tav screenshots, Build/Multi posts, or LFG posts outside of their megathreads.\n\nMegathread Schedule: \n\nTuesday - Tav Tuesdays (post your Tav screenshots here)\n\nWednesday - Looking for Group\n\nThursday - Build/Multiclass Help\n\nFriday - Monday: Post-Launch Feedback",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No piracy allowed. No posting pirated material of any kind but especially 5e material",
+            "description": "Talking about ways to pirate the game is not allowed.\n\nAlso, sharing pirated material can result in a subreddit being banned or forced to shut down. As such doing either of these things will result in a ban from the subreddit.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Use modmail for issues or giveaways - don't mention/link or directly message the Mods",
+            "description": "If you need to contact the moderators about an issue or permission to do a giveaway, please use modmail to get our attention rather than creating a post. It's likely if you do that, it'll be missed.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No discussion exclusively about 3rd Party wikis",
+            "description": "Discussion and posts exclusively about 3rd party wikis will be removed. \n\nThis **DOES NOT** mean that BG3 resources from other websites (guides, builds, etc.) can’t be shared here and discussed. This also **DOES NOT** affect anything concerning the Community Wiki.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No AI generated content or discussion",
+            "description": "No AI generated content or discussion allowed",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "All posts should be in English. Non-English comments are allowed.",
+            "description": "All posts should be in English. Posts linking to non-English content are okay if they're subtitled or otherwise accessible to English speakers at mod discretion.\n\n(Non-English comments are allowed!)",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No asking for game codes/the game/steam accounts",
+            "description": "We don't allow posts or comments talking about purchasing steam accounts, or asking for people to purchase the game for you.\n\nDoing this will result in an immediate ban.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No posting about bigoted mods",
+            "description": "This includes homophobic, racist, misogynistic, or any other mods that contain bigoted content or change the game in a bigoted way. \n\nThis includes posts denouncing such mods, and posts linking to sites to download them.\n\nThere is zero tolerance for breaking this rule. ",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Cosplay posts must now be submitted on Sundays. ",
+            "description": "Cosplay posts must be submitted on Sundays. ",
+            "kind": "all"
+        }
+    ]
+}

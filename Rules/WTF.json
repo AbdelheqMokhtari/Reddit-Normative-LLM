@@ -1,0 +1,66 @@
+{
+    "subreddit": "WTF",
+    "subscribers": 7053646,
+    "rules": [
+        {
+            "Rule_title": "No Screenshots/Recordings",
+            "description": "**THIS IS YOUR WARNING - No screen-shots/captures/recordings of anything! 7 day ban for 1st time violation. 30 days 2nd. Permanent on 3rd.**\n\nExamples: Text messages, web pages, apps, Snapchat, Instagram, Facebook, YouTube, or any other social media or web pages. This rule includes pictures or videos of cellphone screens, tablet screens, computer screens and TV/monitor screens. \n\nDoesn't matter who created it or how, please don't post it here.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Personal Information",
+            "description": "All personal information will be removed, offenders banned. This includes, but is not limited to, full names, phone/address &amp; online profiles",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No rage worthy or outrage posts",
+            "description": "This includes posts which may incite activism, outcry, outrage or involve \"injustice\". Also, Reddit is not your personal army.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Political posts",
+            "description": "No posts with political implications, persona, or politics of any kind are allowed, especially US politics. The swastika is not WTF. The name Hitler is not WTF.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Untagged NSFW posts",
+            "description": "NSFW posts must be tagged as such. NSFW comments in SFW posts need to be mentioned as such.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Superimposed Text",
+            "description": "This includes Captioned Images, Memes, &amp; Demotivational Posters.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No AI, comics, anime, cartoons, photoshops, etc",
+            "description": "No AI, comics, cartoons, drawings/paintings/art, tattoos, animation, CGI, photoshopped images or videos. This includes rage comics, print comics, web comics, animation videos/gifs &amp; Manga. Let's keep things real.\n\nViolators may be temporarily banned. Repeat offenders may be permanently banned",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Begging for Upvotes",
+            "description": "No posts or comments soliciting karma or votes.\n\nIncludes posts about cakeday.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Links to Reddit",
+            "description": "Links to reddit posts are not allowed",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "NO GORE or Death. Porn is not WTF by default.",
+            "description": "Gore is not allowed: All forms of gore, which includes depiction of physical injury or death, involving any blood, flesh, bone and internal organs. Porn does not belong in this sub.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Racism, sexism, vitriolic, or overly crude comments or posts",
+            "description": "To make this a welcome sub for all, your unwelcome comments will not be tolerated, and **you will be perma-banned**. Examples: Negative comments towards race, culture, ethnicity or religion, direct or implied, true or false facts. Race baiting or slurs, making comments to get a toxic thread going, or jumping in on that bandwagon. Telling someone to kill themself. If you have anger management issues or low tolerance for other people that you feel are less equal to you - then stay out of this sub.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Novelty accounts / bots are not allowed",
+            "description": "No novelty accounts or bots. They will be banned. (Please report them)",
+            "kind": "all"
+        }
+    ]
+}

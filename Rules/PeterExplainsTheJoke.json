@@ -1,0 +1,41 @@
+{
+    "subreddit": "PeterExplainsTheJoke",
+    "subscribers": 1460090,
+    "rules": [
+        {
+            "Rule_title": "Poor Behavior",
+            "description": "This sub has a zero tolerance policy against bigotry (racism, sexism, homophobia, transphobia etc) of any sort. Slurs or extreme insults are not okay. No toxicity or arguing either - this is meant to be a fun community. Just be excellent to each other.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Recently posted jokes",
+            "description": "If you see a recent post containing the joke you want explained, use that to find the punchline instead. Simple as.\n\nOverused memes such as Loss and unedited Stonetoss comics are banned.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Dogwhistles/Conspiracies &amp; Politics",
+            "description": "We have a zero tolerance policy for dogwhistling of any kind - you will be banned. Try not to spread conspiracy theories either (pandemic denial, genocide apologism, etc).\n\nPolitical posts are allowed so long as they are jokes that need to be explained and are posted in good-faith. This is NOT a debate sub. Do not argue politics in the comments.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Metaposts",
+            "description": "Metaposts are allowed if in a joke format and relevant. Non-joke or irrelevant metaposts will be removed.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "'Wooooshing' users",
+            "description": "An obvious punchline to you isn't necessarily obvious to others. This is a community for everyone to have jokes explained without judgment - try not to be rude.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Low effort posts",
+            "description": "If your post doesn't contain a joke needing explanation, it'll be removed.\n\nYou need to reply to the AutoMod comment with your best guess on what a meme means. If you don't reply with your best guess your post will be removed.\n\nOverall poor quality post will be removed.\n\nIf meme contains words by googling which you can find the context necessary for it's understating - post will be removed.\n\nIf a joke is explained in the original thread being crossposted it will be removed.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Banned Jokes",
+            "description": "The following things are banned:\n\n- [Unedited Stonetoss comics](https://knowyourmeme.com/memes/subcultures/stonetoss)\n\n- [Loss memes](https://knowyourmeme.com/memes/loss)\n\n- [Man vs Bear memes](https://knowyourmeme.com/memes/man-or-bear-in-the-woods-question)\n\n- Jokes found in the stickied thread\n\nThese posts have become *extremely* repetitive and many of them incite vitriolic responses. If we add new things to this list, we will update it with a sticky post.",
+            "kind": "link"
+        }
+    ]
+}

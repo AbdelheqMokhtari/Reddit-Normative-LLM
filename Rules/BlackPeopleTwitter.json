@@ -1,0 +1,71 @@
+{
+    "subreddit": "BlackPeopleTwitter",
+    "subscribers": 6078337,
+    "rules": [
+        {
+            "Rule_title": "Social media posts from black people only",
+            "description": "This sub is intended for exceptionally hilarious and insightful social media posts made by black people. To that end, **only post social media content from black people**.\n\n**Do not post content just because a black person posted it.** \n\n* No low effort/shit posts.\n\n* No original content\n\n* No posts from meme/corporate accounts \n\n**Violation of this rule will result in your post being removed and repeated offenses may lead to you being banned.**",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Bad Faith Participation",
+            "description": "Only post or comment in good faith. We do not tolerate **bad faith participation:**  https://www.reddit.com/r/BlackPeopleTwitter/wiki/bfp.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Respectability",
+            "description": "* No bullying or witch-hunting. This includes comments disparaging people whose tweets and posts are featured here.\n\n* No revealing of personal information (doxxing). \n\n* Don't call out people as white. People of all colors do post and comment here.\n",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Racism/Hate speech",
+            "description": "There will be zero tolerance for racism, homophobia/transphobia, or sexism/misogyny, engaging in any sort of hate speech will result in the post or comment being removed and the poster being banned. **We do not allow hate speech.**",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Posts must be showcasing somebody being hilarious or insightful on social media.",
+            "description": "**Posts must be showcasing somebody being hilarious or insightful on social media**. No image macros, text conversations, or YouTube links. Just because somebody posted one of these on social media does not exempt it from this rule. Vines and such belong [here](http://www.reddit.com/r/BlackPeopleVines/) and gifs belong [here](http://www.reddit.com/r/blackpeoplegifs).\n\n**DO NOT** link directly to someone's post on the platform. Your post will be removed",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Reddit Cliches",
+            "description": "Typical Reddit cliches such as **lyric chains**, **pun chains**, white-knighting, and low-effort joke comments will be removed. Same for [annoying redditisms](https://www.reddit.com/r/BlackPeopleTwitter/comments/8ezy45/an_update_for_some_of_the_rules_bad_faith/dxzhp13/), such as linking a subreddit as a reply to a post/comment.\n",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No reposts",
+            "description": "Reposts will be removed. Please search or look through BPT's older posts to see if your content has already been posted. KarmaDecay is not a reliable tool to check for reposts.\n\n**Violation of this rule will result in your post being removed and repeated offenses may lead to you being banned.**",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Bad post title",
+            "description": "No posts with terrible titles, they will be removed. You are free to re-submit once you think of something acceptable/reasonable. **Don't put the punchline in the title of the post.** Do not add \"bruh\", \"fam\", or similar vernacular to your post or comment.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Don't complain about the use of AAVE or slang.",
+            "description": "Do not complain about the use of [AAVE](https://en.wikipedia.org/wiki/African-American_Vernacular_English) and/or slang. Use [Urban Dictionary](http://www.urbandictionary.com) if you do not understand the meaning of a word. Comments asking \"what does x mean?\" will be removed, same with comments criticizing the dialect.",
+            "kind": "comment"
+        },
+        {
+            "Rule_title": "Please respect these voices of the users of this community",
+            "description": "BPT is an inclusive space for POC and allies alike. This sub highlights minority viewpoints, through humor, commentary, or criticism. Please respect these voices and show you care about black opinions as much as you care about black humor.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No posts from corporate or meme accounts",
+            "description": "Don't post things from meme/corporate accounts. Posts must come from regular social media accounts.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Moderator Fiat",
+            "description": "The moderators may take any action (which includes banning users or removing comments) that they feel improves the quality of the subreddit.\n",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "☑️ Country Club",
+            "description": "**[What is BPT Country Club and how do I get verified?](https://www.reddit.com/r/BlackPeopleTwitter/comments/158a9t9/what_is_bpt_country_club_and_how_do_i_get/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button)**",
+            "kind": "all"
+        }
+    ]
+}

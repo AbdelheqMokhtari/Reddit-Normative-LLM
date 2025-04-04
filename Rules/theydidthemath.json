@@ -1,0 +1,46 @@
+{
+    "subreddit": "theydidthemath",
+    "subscribers": 1747172,
+    "rules": [
+        {
+            "Rule_title": "Bad title tag",
+            "description": "Proper title tags are required for all posts or they will be removed. The tags accepted are at the end of the sidebar, and should be typed into the beginning of the title.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Unclear title / Incalculable",
+            "description": "State clearly what is being or what you want calculated in the title. [Request] posts must have a calculable answer; otherwise, they will be removed.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No credit",
+            "description": "Credit must be given where credit is due—include the user who made the calculations in any post you submit: ex. \"[RDTM] /u/FragTheWhale calculates...\".",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Simple math",
+            "description": "For easy and quick math results (ex. How many feet are in a mile?) use Wolfram|Alpha™. Posts containing simple math will be removed, as well as requests whose answers are easily searchable online, and any other post at the moderators' discretion. For more abstract math, try /r/math or /r/learnmath.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Homework",
+            "description": "Posts which seem to be asking for help on homework will be removed. Try /r/homeworkhelp or /r/cheatatmathhomework instead.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Being a dick",
+            "description": "This subreddit has a zero-tolerance policy for hateful or unnecessary language. There is no warning for hate speech of any kind. Rule breaking posts/comments will have a temporary ban that will serve as a first offense \"warning\". Repeat or egregious offenders will be banned permanently. Reddit's site-wide rules still apply here. Also, don't be a dick.",
+            "kind": "comment"
+        },
+        {
+            "Rule_title": "Bad [Request] answer",
+            "description": "Do not submit top-level comments in [Request] posts that are not an attempt at an answer or a request for clarification. Jokes or off-topic top-level comments will be removed.",
+            "kind": "comment"
+        },
+        {
+            "Rule_title": "Uncited answer",
+            "description": "When answering [Request] posts, please cite reputable sources to defend any evidence that cannot be proven using your own math.",
+            "kind": "comment"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "subreddit": "manga",
+    "subscribers": 4712799,
+    "rules": [
+        {
+            "Rule_title": "Disrespectful",
+            "description": "This simply means to have etiquette. Before you post something, think about it from the others' perspective. There are real people behind each username, and your words carry a weight to them. Play nice with other people and try not to start flame wars or be a jerk. This also means not to enter discussions for series you don't follow just to criticize them. Discussions are meant for those that read the series. Report those that are going out of their way to ignore etiquette please.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Follow submission guidelines when applicable.",
+            "description": "Simply means to follow the [submission guidelines.](https://www.reddit.com/r/manga/wiki/guide#wiki_submission_guidelines) Failing to follow the submission guidelines will warrant a warning from the moderators reminding you to follow them in the future. Repeated ignoring of warnings may result in consequences. If a single post accumulates 2 warnings from a moderator, it will be removed in the name of Quality Control.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Meme/Image Macro or Hentai Post",
+            "description": "This includes anything you'd see on /r/AdviceAnimals or Rage Comics. Directly hentai related posts should be directed towards /r/Hentai or /r/Doujinshi.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Referral/Profiteering/Soliciting Link/Site",
+            "description": "Do not attempt to post links in which you would earn a direct profit off the users of the subreddit. This includes Kickstarter, Patreon, Donation Services, sites with Adblock Blocker, Fan-TL Sites with Ad/Pay Walls, Self-Run Stores, and Amazon Referral Links.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Not Manga/Manhwa/Manhua Related",
+            "description": "All posts should be related to manga, Manhwa, or Korean Webtoons. Don't link to anime only content. If it isn't related to any of the previously mentioned, please don't post it. Announcements of an anime adaption for a manga series is okay but anything beyond that including PV's, Character Designs, VA Reveals, and so on are more anime focused and will be removed. In regards to Original Series, please look at the Original Series Policies.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Missing Source",
+            "description": "This ties into the submission guidelines. Always include the title of the series in the title of the post.\n\nArt is okay to submit in this sub-reddit as long as it directly relates to a manga series. This also means that you should include the source similar to how it is done on the sub-reddit /r/Awwnime. Original manga character art isn't as allowed, this is not the place for it (try /r/AnimeSketch). Please try to keep any art directly related to manga.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Licensed Release Rip",
+            "description": "We oblige scanlations as a necessity for many series, but licensed series do not fall under this. Linking to downloads or rips of the officially licensed content is not okay, and any posts of that type will be removed. We have been asked in the past to remove download links for certain series, and for the life of this sub-reddit we will always comply with such requests.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Untagged Spoilers",
+            "description": "A spoiler is mostly identified as something a new reader isn't supposed to know until that point in the story. This includes character deaths and plot twists. We don't care if the spoiler is old, if it was a story twist, SPOILER TAG it. Spoiler tags are easy to use and are located in the sidebar for easy copy/paste. Once again, spoiler tags are needed for general discussions are aren't related to a single series. Spoiler tags are not needed in a [DISC] about the latest chapter of a series.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Duplicate Link Post",
+            "description": "Duplicate posts of the same chapter release/translation will be removed. Different releases/translations of the same chapter are allowed. At least 4 days is required before posting the same release discussion. Reactions/Page-Panel Rips/Additional Discussion relating to the latest chapter of a series are not allowed.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Excessive or Aggregate Site Self-Promotion",
+            "description": "Posts to your own blog or YouTube video are only okay under strict requirements. For every post you do linking to your blog, you should have done numerous other posts in various discussions. If someone can tell from a glance that the majority of your posts are only in relation to your own blog or YouTube account, you aren't properly participating in the community. Also, similar to the original manga policies, doing re-posts when your original doesn't do well is not allowed.",
+            "kind": "link"
+        }
+    ]
+}

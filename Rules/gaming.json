@@ -1,0 +1,56 @@
+{
+    "subreddit": "gaming",
+    "subscribers": 46183063,
+    "rules": [
+        {
+            "Rule_title": "Not directly gaming related or generic meme template",
+            "description": "All post must be ENTIRELY gaming related, adding a title or caption to force a connection is not allowed. \n\n**Non-gaming meme templates are not allowed.** **Both** the full base **image AND caption** must be gaming-related.\n\nFor more info and detailed examples, [visit our rules page](https://www.reddit.com/r/gaming/wiki/index#wiki_rule_1.3A_gaming-related)",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Posting guidelines, bandwagons, brigades, direct reply posts.",
+            "description": "Posting Guidelines:\n\n* If you have a response, update or comment to an existing post, comment a reply instead of making your own post about it.\n* Posts promoting the spamming, brigading or raiding others subs (eg \"pass it on\" memes) will be removed and result in a permanent ban.\n* Posts must be in English\n* Pictures of children will be removed\n* Ragebait will be removed\n\n[More info here](https://www.reddit.com/r/gaming/wiki/index#wiki_rule_2.3A_bandwagons.2Fraids.2Fbrigades.2Fposting_guidelines)",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Piracy",
+            "description": "No piracy, **even \"abandonware\".** Enabling piracy via reddit, be it links to torrent sites, direct downloads, smoke signals that give instructions on how to pirate something, etc are not okay here. Don't do it. Whether or not if you agree with the practice, copyright infringement will not be tolerated. There are plenty of other sites on the internet where you can do it; if you must, go wild there, but not here, please.\n\n**Enabling or attempting to enable piracy will result in a permanent ban.**",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Unmarked spoiler / Unmarked NSFW.",
+            "description": "Tag your spoilers:\n\n`[X Kills Y](/spoiler)`  \nResult: [X Kills Y](/spoiler).  \nTo mark a spoiler as relevant to a specific topic, use the alternate formatting:  \n`[Player 1 wins](/spoiler \"Pong\")`  \nResult:  \n[Player 1 wins](/spoiler \"Pong\")  \n\nSpoilers are NOT allowed in submission titles.\n\nNSFW content must be flaired as such. Cosplay posts from content creators primarily focused on adult content will be removed. \n\n[More info](https://www.reddit.com/r/gaming/wiki/index#wiki_rule_4.3A_tags)",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Giveaways / Trades / Contests / Items for sale / Donation requests / Crypto anything",
+            "description": "No product requests, giveaways, trades, contests, items for sale, or donation requests. Nothing crypto, ever.\n\nPut simply, you can't ask for free stuff here, and you can't host giveaways here either. \n\nTrade posts and contests hosted on the subreddit will be removed.\n\nThe subreddit is also not the place to put your items up for sale.\n\n[More info here](https://www.reddit.com/r/gaming/wiki/index#wiki_rule_5.3A_giveaways_.2F_trades_.2F_contests_.2F_items_for_sale.)",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Not original source / Website screenshot",
+            "description": "Make the original source of the content your submission, and do not use URL shorteners. No screenshots of websites or Twitter.\n\nIf a mirror is necessary, please provide one in comments. No hotlinking or rehosting someone else's work (unless they specifically allow it in their terms of use or request it).\n\n[More info here](https://www.reddit.com/r/gaming/wiki/index#wiki_rule_6.3A_original_source)",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Spam / Excessive self-promotion",
+            "description": "Don't spam.  No referral/affiliate links. No survey links (not even you, students and researchers - DO NOT ASK). No livestream links or promo.\n\nAll users must abide by the [rules of promotion](https://www.reddit.com/r/gaming/wiki/index#wiki_rule_7.3A_self-promotion), which allow 10% max on submissions.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Discussion prompts must be posted as self/text posts",
+            "description": "To curb karma farming, and due to community feedback, AskReddit style/open-ended discussion prompts must be submitted as self posts, image versions will be removed. Examples:\n\n* \"What was your childhood game?** - Picture of Halo box art\n* \"What's the best modern Playstation game?\" - Picture of Horizon Forbidden West\n* \"What online game have you sunk the most time in?\" - Picture of VALORANT\n\n[More info here](https://www.reddit.com/r/gaming/wiki/index#wiki_rule_8.3A_discussion_prompts)",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Bigotry / Incivility / Toxicity",
+            "description": "Posts and comments, whether in jest or with malice, that contain racist, sexist, homophobic, threats, or other toxic content will be removed, regardless of popularity or relevance.\n\nEspecially egregious violations or repeat offenses may result in accounts banned from /r/gaming.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "AMA related rule.",
+            "description": "**Post rules.**\n\nMust be from someone currently or previously employed in the gaming industry.\n\nMust be about something already done.\n\nNo asking for money or crowd funding.\n\nPublic proof is required.\n\nNo giveaways or contests.\n\nNo request posts.\n\n**Comment rules**.\n\nDo not ask for free stuff or personal favors.\n\nDo not spam the same comment or question over and over again.\n\nNo vote manipulation.\n\nRule 10\n\n[For more info on these rules, **click here.**](https://www.reddit.com/r/gaming/wiki/ama)",
+            "kind": "all"
+        }
+    ]
+}

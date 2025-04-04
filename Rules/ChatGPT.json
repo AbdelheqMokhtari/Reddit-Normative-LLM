@@ -1,0 +1,36 @@
+{
+    "subreddit": "ChatGPT",
+    "subscribers": 9702539,
+    "rules": [
+        {
+            "Rule_title": "Malicious Communication",
+            "description": "Posters and commenters are expected to act in good faith. Treat other users the way you want to be treated. Avoid straw-manning and bad-faith interpretations. Report posts/comments that aren't appropriate for the \"serious\" flair.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Trashposts",
+            "description": "Posts deemed to be entirely without value or effort may be removed if they have not generated interesting discussions before their discovery. Anyone sharing disturbing content will be banned. Users are encouraged to report posts they feel are of significantly low effort. Specifically mentioning that “Is chat GPT down posts?” will be removed. The stickied FAQ deals with that.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Self Advertising",
+            "description": "Posts must be directly related to ChatGPT or the topic of AI. They may not be solely focused on advertising a single other LLM service(all these posts should directly go to weekly self-promotional mega thread, which is pinned)",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Political Discussion",
+            "description": "Having ChatGPT create political content is completely fine. Discussion of the politics around AI and LLMs is allowed. This is not the place to discuss the merits of Trump's foreign policy or Hunter Biden’s laptop.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No NSFW Content",
+            "description": "This is a SFW sub. Any posts violating this rule will be removed, and repeated offenses may result in a ban.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "AI Art",
+            "description": "1. Quality over Quantity: AI art submissions are allowed only if they showcase something unique, unusual, or particularly interesting. Generic memes, low-effort images, or art intended solely for karma farming will be removed.\n\n2. Encourage Tech Discussion: Posts that include insights, techniques, or thought-provoking commentary about the AI process or technology behind the art are highly encouraged.\n\n3. Mod Discretion: Mods reserve the right to remove posts that do not meet the above criteria.",
+            "kind": "all"
+        }
+    ]
+}

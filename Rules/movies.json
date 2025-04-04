@@ -1,0 +1,81 @@
+{
+    "subreddit": "movies",
+    "subscribers": 35003160,
+    "rules": [
+        {
+            "Rule_title": "Do Familiarize Yourself With Our Rules.",
+            "description": "Our [full list of rules is here](https://www.reddit.com/r/movies/wiki/index#wiki_what_is_allowed_in_.2Fr.2Fmovies.3F)\n\n/r/Movies is about “Movie News and Discussion of Major Motion Pictures.”\n\nAs you can see, our front-page is an aggregate for movie news and discussion. We like to keep it that way.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Intentional Antagonism or Negative Attention Whoring",
+            "description": "Just don't be a dick, it's pretty easy.\n\nDiscuss the subject of the thread, not the users.\n\nDon't make comments just for negative attention. This also applies to any complaints of controversial subjects such as woke/SJW issues, minorities being in movies, etc.\n\nPut quotes in quotation marks, we don't know every quote ever spoken.\n\nhttps://www.reddit.com/r/movies/wiki/index#wiki_e._incivility",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Spam &amp; Self-promotion - Same Source Posts",
+            "description": "The site-wide definition of spam is when a user has more than 20% of their submissions coming from one source.\n\nIf your username is the same as the website or YT channel you're trying to promote - you will be banned and your website blacklisted. Sharing Letterboxd accounts is not allowed either.\n\nhttps://www.reddit.com/wiki/selfpromotion\n\n\nhttps://www.reddit.com/r/movies/wiki/index#wiki_l._spam_-_this_includes_youtube_channels.2C_websites.2C_blogs.2C_any_oc",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Image Posts &amp; Memes",
+            "description": "Memes are not allowed.\n\nSingle images or albums of behind the scene of already released movies are prohibited, as are memes, \"movies I like/recommend\" and infographics. \n\nMake a text post if you want to talk about a specific and link the image in there.\n\nOfficial first looks and posters ARE allowed if they've not been posted before.\n\nhttps://www.reddit.com/r/movies/wiki/index#wiki_b._grey_area_image_posts",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Ambiguous/Misleading/Inaccurate Information or Clickbait in the Submission Title",
+            "description": "Any type of submission that doesn't include the actual subject in the submission title. We really don't like 'click to find out' titles.\n\nFor upcoming movie news, we take misinformation seriously. \"In development\" does not mean a movie is coming out. \"In talks\" or \"in negotiations\" does not mean \"This person is working on this project.\"\n\nWe want actual news; official announcements, not investigative journalism.\n\nhttps://www.reddit.com/r/movies/wiki/index#wiki_a._submission_titles",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Extraneous Comic Book Movie Submissions",
+            "description": "Anything that isn't official, hard-lined news about comic book movies/Superhero movies will be removed. No featurettes, fan art, parodies, etc.\n\nThat means nothing.\n\nPlease read the [wiki](https://www.reddit.com/r/movies/wiki/index#wiki_18._comic_book_movie_information_-_conditionally_prohibited) for further information",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Repost or Discussion Threads of New Releases",
+            "description": "[Light 'em up](https://i.imgur.com/JGBcbrY.gif)\n\nThis rule also applies if there is an official discussion of the same movie stickied on the front page. \n\nOfficial discussions will be your go-to place for reviews/reactions/discussion of that movie and applies for 4 weeks after the U.S. release date.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Spoilers",
+            "description": "Intentional or careless spoiling of a plot, true or false, without a spoiler bar (example &gt;!here!&lt;) can result in a ban.\n\nhttps://www.reddit.com/r/movies/wiki/index/#wiki_o._spoilers",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Encouraging Piracy",
+            "description": "Encouraging illegally pirated content by suggestion, instruction, and/or direct links. This includes variations of the \"Aye matey.\" Stop. It's not 2012 any more.\n\nhttps://www.reddit.com/r/movies/wiki/index/#wiki_i._piracy",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Subreddit Brigading",
+            "description": "Brigading will result in a perm-ban.\n\nExample:\n\n[/r/DC_Cinematic brigaded us for removing Batman v Superman TV Spots](https://www.reddit.com/r/DC_Cinematic/comments/409gmh/attention_all_dc_redditors_mods_at_rmovies_are/)\n\nReport possible brigading operations with this tag.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "AI Generated Garbage",
+            "description": "If you're using AI and trying to pretend it's a real user - you'll be banned.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Low Effort Posts",
+            "description": "We get dozens of questions posted every day and we do try to cut down on reposts and fluff. /r/AskReddit is more for general lists of things, but if you have a very specific question, feel free to ask it here.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Scuttlebutt and Canards",
+            "description": "Keep celebrity personal life drama, gossip, rumors, tabloids, and all related garbage in /r/entertainment or /r/popculturechat\n\nIf someone dies? It's allowed. \nIf someone gets hurt on set? Allowed. \nIf someone is fired from a movie? Allowed. \nIf someone is arrested? Only if it directly affects a movie.\nIf Celeb X says Celeb Y is a super jerkface? gtfo",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Complaints of a Movie OP has Not Completed.",
+            "description": "Did someone make a submission like \"I'm 15 minutes into Heat and this movie sucks?\" Well well well, out the airlock",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Political Ranting Unrelated to the Movie at Hand",
+            "description": "We are not a politics or political commentary sub. Obviously some movies relate to and include politics, but if you're here to simply blather on about political issues unrelated to the subject of the post, it's grounds for removable.",
+            "kind": "all"
+        }
+    ]
+}

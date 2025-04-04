@@ -1,0 +1,46 @@
+{
+    "subreddit": "EscapefromTarkov",
+    "subscribers": 1084223,
+    "rules": [
+        {
+            "Rule_title": "Unrelated Content and Memes",
+            "description": "Please click [here](https://old.reddit.com/r/EscapefromTarkov/wiki/rules#wiki_1._unrelated_content_and_memes) to see the full rules",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Content Guidelines",
+            "description": "Please click [here](https://old.reddit.com/r/EscapefromTarkov/wiki/rules#wiki_2._content_guidelines) to see the full rules",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Abusive/Poor Behavior",
+            "description": "Please click [here](https://old.reddit.com/r/EscapefromTarkov/wiki/rules#wiki_3._abusive.2Fpoor_behavior) to see the full rules",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Trading, Begging, and LFG",
+            "description": "Please click [here](https://old.reddit.com/r/EscapefromTarkov/wiki/rules#wiki_4._trading.2C_begging.2C_and_lfg) to see the full rules",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Self Advertisement",
+            "description": "Please click [here](https://old.reddit.com/r/EscapefromTarkov/wiki/rules#wiki_5._self_advertisement) to see the full rules",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Giveaways",
+            "description": "Please click [here](https://old.reddit.com/r/EscapefromTarkov/wiki/rules#wiki_6._giveaways) to see the full rules",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Cheating, Exploits, and Piracy",
+            "description": "Please click [here](https://old.reddit.com/r/EscapefromTarkov/wiki/rules) to see the full rules",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Reposts",
+            "description": "Please click [here](https://old.reddit.com/r/EscapefromTarkov/wiki/rules#wiki_8._reposts) to see the full rules",
+            "kind": "all"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "subreddit": "Fauxmoi",
+    "subscribers": 4950516,
+    "rules": [
+        {
+            "Rule_title": "KEEP IT CIVIL",
+            "description": "&amp;nbsp;\n\nWe have a zero tolerance policy for bigotry (incl microaggressions) or personal attacks. \n\nNo racism, queerphobia, misogyny, victim-blaming, ableism, bodyshaming, or excess sexualization. Belittling, name-calling, trolling, flaming, or excessive negativity are also considered rulebreaking. Please be respectful even if you disagree.\n\nNB: Qanon-esque content or unwarranted speculation on sexuality, sex work, health conditions, abuse, addiction, plastic surgery, etc is off-limits.\n\n&amp;nbsp;\n",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "KEEP IT FAUXMOI-RELATED",
+            "description": "&amp;nbsp;\n\nPosts should relate to FauxMoi or adjacent cultural zeitgeist topics.\n\nPlease do not submit crossposts or crosspost links from this sub to other subreddits. \n\nPlugs or self-promotions are also not allowed unless you have received permission from the mods in exceptional circumstances. \n\n&amp;nbsp;\n",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "REPETITIVE &amp; LOW EFFORT POSTS",
+            "description": "&amp;nbsp;\n\nPosts requesting or sharing anecdotal or low-stakes information about a specific public figure should be submitted as a comment on the '*Does Anyone Have Tea On*' or '*I Have Tea On*' weekly megathreads (pinned). \n \nRepetitive or low effort posts will be removed at mod discretion. Please use the search bar to ensure your submission is not a repost. \n\nThe mods may approve the latest post and/or the post that best follows the post formatting guidelines outlined in Rule 4.\n\n&amp;nbsp;\n",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "POSTING FORMAT &amp; GUIDELINES",
+            "description": "&amp;nbsp;\n\nPosts must contain a descriptive and accurate title that indicates the content of the post (and the people involved, if applicable).\n\nIf you’re sharing material from tabloids or social media sites, please post screenshots of the content (or direct video uploads if sharing a clip).\n\nLink to the original source **in the comments (not in the post)** — we will verify your source and remove your comment to prevent further traffic to those sites.\n\nPlease also avoid paywalled links. \n\n&amp;nbsp;\n",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "NO STAN OR ANTI CULTURE",
+            "description": "&amp;nbsp;\n\nDue to brigading and harassment, users from some stan and anti/snark subs are unable to participate in this subreddit. These subs include (but are not limited to) Saint Meghan Markle, Hilaria Baldwin, and travisandtaylor. \n\nPlease refrain from engaging in excessively vitriolic stan or anti culture.\n\nIf you are not a bad-faith user of these subs and believe you were banned in error, please message modmail to submit a ban appeal.\n\n&amp;nbsp;\n",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "REDDIT RULES",
+            "description": "&amp;nbsp;\n\nViolations of Reddit Rules may result in both a subreddit and site-wide ban. \n\nThese rules include (but are not limited to): spamming; brigading; vote manipulation; ban evasion; sharing confidential information; sexual or suggestive content involving minors; and sharing illegal content.\n\nNote that in conjunction with Rule 1, meta commentary about this sub and/or its members on this and other subreddits is considered a violation of community rules.\n\n&amp;nbsp;\n ",
+            "kind": "all"
+        }
+    ]
+}

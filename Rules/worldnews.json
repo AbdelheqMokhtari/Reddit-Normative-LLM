@@ -1,0 +1,66 @@
+{
+    "subreddit": "worldnews",
+    "subscribers": 45062141,
+    "rules": [
+        {
+            "Rule_title": "No US Internal News or Politics",
+            "description": "Articles about events within the US or related to the US internal political process with no involvement of foreign officials or international organizations and no effect on people outside the US are not allowed here. The large subreddits for these topics are /r/news and /r/politics.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Editorialized or Misleading Titles",
+            "description": "Do not add opinion/commentary to the submission title. Don't add something that isn't covered by the article, and don't misrepresent the article. Adding a sentence from within the article that is more representative of the content is generally OK.\n\nAn article's title must not be misleading.  It may be removed if the title states a source's opinion as fact, or misrepresents the facts in the article or multiple other sources. \n\nAll caps words are not allowed, except for acronyms of course.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Feature stories",
+            "description": "Feature stories are journalistic reports providing more descriptive background information than a straight news report will contain. Dictionary.com: \"a newspaper or magazine article or report of a person, event, an aspect of a major event, or the like, often having a personal slant and written in an individual style.\"",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Editorials, Opinion or Analysis Pieces",
+            "description": "/r/worldnews is for news, rather than analysis. There are several subreddits listed at the top of the page that are good for this. If the writer injects his/her opinion in the article or tries to draw any conclusion about a set of events, then it is no longer straight news and is not permitted in /r/worldnews.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Articles In Languages Other Than English",
+            "description": "This includes articles that are auto-translated.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Images, Videos or Audio Clips",
+            "description": "If images, videos or audio files are part of an article that's fine, but the accompanying article must have some value of its own. Merely providing image captions or video descriptions isn't sufficient.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Old News Articles (≥ 1 Week old)",
+            "description": "Old News is any news older than one week.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Your content might be removed if /r/worldnews is not the appropriate subreddit for the story.",
+            "description": "Examples include but are not limited to:\n\nCelebrity gossip, local crimes, sports results, social media posts, goofy/zany/oddball stories, conspiracy/UFO/UAP/paranormal stories, commercial product and financial news, etc.\n\nPlease refer to our full rule in the [wiki](https://www.reddit.com/r/worldnews/wiki/rules/#wiki_inappropriate_content) .",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Bigotry or Other Offensive Content",
+            "description": "Hate speech directed towards an entire group of people who share a race, gender, sexual orientation, ethnicity, religion, nationality, social status or disability is not allowed.  This also applies to user names.",
+            "kind": "comment"
+        },
+        {
+            "Rule_title": "No Personal Attacks On Other Users",
+            "description": "You may criticize a user's comment but not their person. Calling people names shuts down discussion. Accusing another user of being a \"shill\" is considered a personal attack. Stick to the issues and remain civil.",
+            "kind": "comment"
+        },
+        {
+            "Rule_title": "No Memes, Gifs, unlabeled NSFW images",
+            "description": "Memes may show up in image or in text form. Both are not allowed.\n\nBesides, porn or shock images unrelated to the story discussed will always be removed and posting them is an easy way to get banned.",
+            "kind": "comment"
+        },
+        {
+            "Rule_title": "No chatGPT bots or copy/paste bots",
+            "description": "",
+            "kind": "comment"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "subreddit": "nba",
+    "subscribers": 15642661,
+    "rules": [
+        {
+            "Rule_title": "Be civil and respectful",
+            "description": "There are obvious reasons why we don't allow people to personally insult others, and doing so will get you banned. It makes everyone feel a little less welcome. Note: this rule applies to messages in modmail, as well.",
+            "kind": "comment"
+        },
+        {
+            "Rule_title": "No trolling or baiting users",
+            "description": "Do not post or comment with the purpose of trolling or inciting reactions from other users. This will lead to a ban. Don't be offensive just to be offensive.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No racist, sexist, or homophobic language",
+            "description": "This is an automatic ban. We want everyone no matter their age, gender, sexual preferences, or race to feel welcome in this subreddit. This includes jokes or quotes that include such language.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No reposts",
+            "description": "Please check the new queue before posting. Make sure the content you are posting has not already been submitted by another user.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No fake news",
+            "description": "Any blatant attempt to grab attention or troll with a fake news headline will result in a permanent ban.  Make sure your news comes from a reputable source.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No self-promotion",
+            "description": "Self promotion includes, but is not limited to:\n\n* Promoting or linking to your youtube channel, site, blog, etc.\n* Promoting or linking to your design website, fan art, logo or court redesigns, etc\n* Trying to sell merchandise (t-shirts, jerseys, artwork, etc)\n\nThere's a big difference between people that are trying to use our subreddit for their own personal gain and people that are just trying to share something with the community.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No NSFW content",
+            "description": "NSFW content will be removed and violators will be banned.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Posts and comments must be relevant to the NBA",
+            "description": "Posts that are irrelevant for this subreddit include, but is not limited to: video games, 2K, fantasy, gambling and college players.\n\nComments that purposely derail the discussion of the post may lead to a ban.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Stats/Player Tweets/Quotes/Misc. Media are self-post only and must be sourced",
+            "description": "All stats posts, outside of post game box score stats, must be sourced. If it's not a common stat easily found in a single game box score (counting stats across multiple games should be sourced), include the source in the post. You should also include some of your thoughts in the body of the post to jump-start discussion. Posts that simply link to stats will be removed.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Reaction Posts",
+            "description": "Reaction posts are posts that are responses to an already established post and often would better serve as comments in the initial established post. They can be immediate reactions to games or current events that are based on personal opinion.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "r/nba no longer permits links/references to Twitter/X (or alts), Facebook, Instagram, and Threads",
+            "description": "Links/references to these social media platforms will be removed and continuous posting can lead to a ban",
+            "kind": "all"
+        }
+    ]
+}

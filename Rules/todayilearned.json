@@ -1,0 +1,46 @@
+{
+    "subreddit": "todayilearned",
+    "subscribers": 40244720,
+    "rules": [
+        {
+            "Rule_title": "Inaccurate/unverifiable/not supported by source",
+            "description": "Please link directly to a reliable source that supports every claim in your post title. Images alone do not count as valid references. Videos are fine so long as they come from reputable sources (e.g. BBC, Discovery, etc).",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No personal opinions/anecdotes/subjective posts",
+            "description": "(e.g \"TIL xyz is a great movie\")",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No recent sources",
+            "description": "Any sources (blog, article, press release, video, etc.) more recent than two months are not allowed.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No politics/agenda pushing",
+            "description": "No submissions regarding or related to the following: recent politics, politicians, police misconduct, race/religion/gender, environmental issues, social issues, etc. See wiki for more detailed explanation",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No misleading claims",
+            "description": "Posts that omit essential information, or present unrelated facts in a way that suggest a connection will be removed.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Too general/can't stand on its own/how to",
+            "description": "a. Titles must begin with \"TIL\" or \"Today I Learned\"\nb. Make them descriptive, concise and specific (e.g. not \"TIL something interesting about bacon\").\nc. Titles must be able to stand on their own without requiring readers to click on a link.\nd. \"TIL about ...\" and other broad posts don't belong on TIL. Try /r/Wikipedia, etc. instead, or be more specific (and avoid the word \"about\").\ne. \"TIL how to ...\" posts belong on /r/HowTo.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No submissions about software/websites",
+            "description": "No submissions related to the usage, existence or features of specific software/websites (e.g. \"TIL you can click on widgets in WidgetMaker 1.22\").",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "All NSFW links must be tagged.",
+            "description": "",
+            "kind": "all"
+        }
+    ]
+}

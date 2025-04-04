@@ -1,0 +1,56 @@
+{
+    "subreddit": "PublicFreakout",
+    "subscribers": 4709667,
+    "rules": [
+        {
+            "Rule_title": "Rule 1; No doxxing",
+            "description": "Never post personal information, do not ask for personal information, do not encourage, call for, or participate in witch-hunts or targeted harassment campaigns",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Rule 2; Use tact videos involving mental disorders",
+            "description": "Comment with tact in videos which may involve mental disorders",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Rule 3; Abusive comments will be removed",
+            "description": "Abusive comments will be removed at moderator discretion and may result in a temporary or permaban",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Rule 4; No racism, sexism, transphobia or bigotry",
+            "description": "Bans: Racism, Sexism, Homophobia, Transphobia, Harassment, Race Baiting, Bigotry, etc. (Racist people freaking out in videos are allowed, but being a racist in the comments section will get you banned.)",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Rule 5; Video posts only",
+            "description": "Video Posts only",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Rule 6; Text Posts require moderator approval.",
+            "description": "Text Posts may only be posted after moderator approval. Message the mods before making one",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Rule 7; Posting Guidelines.",
+            "description": "Reposts over 4 weeks old are permitted. Reposts under 4 weeks old will be removed. Each user is limited to 4 posts daily.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Rule 8; No videos involving death/murder.",
+            "description": "This isn't /r/watchpeopledie: People being straight up murdered or dying in shocking/gruesome ways should be the cut-off (exceptions for newsworthy events covered in publications of good repute).\n\n",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Rule 9; Facebook Videos are allowed, not encouraged",
+            "description": "Facebook Videos are allowed, but not encouraged. If you must post a video hosted on Facebook, you need to provide a link to a copy of the video hosted on a more acceptable video hosting platform. For videos under 10 minutes Streamable makes it easy to make copies of videos.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Rule 10; Submissions must fit community",
+            "description": "Submissions must fit the purpose of the community. /r/PublicFreakout is a subreddit dedicated to people freaking out, melting down, losing their cool, or being weird in public.",
+            "kind": "link"
+        }
+    ]
+}

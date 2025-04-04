@@ -1,0 +1,31 @@
+{
+    "subreddit": "MapPorn",
+    "subscribers": 5673371,
+    "rules": [
+        {
+            "Rule_title": "Posts must be maps",
+            "description": "All submissions must be map(s). Anything else should go into the weekly discussion thread.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Low Effort Memes",
+            "description": "Low effort memes are not allowed.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Must meet aesthetic standards",
+            "description": "Read [this link](https://web.archive.org/web/20200315090526/http://mapporn.org/2020/02/08/towards-a-mapporn-aesthetic/) for more information.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Advertising",
+            "description": "",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Repost Bots",
+            "description": "",
+            "kind": "all"
+        }
+    ]
+}

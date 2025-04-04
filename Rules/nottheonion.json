@@ -1,0 +1,71 @@
+{
+    "subreddit": "nottheonion",
+    "subscribers": 25591295,
+    "rules": [
+        {
+            "Rule_title": "Do not alter headlines.",
+            "description": "The title of your submission should match the article's headline exactly. Copy and paste from the article, leaving out any subtitles, bylines or other information. The Suggest Title tool is discouraged, as it often does not match the headline. The **only** exception to the rule is that titles in ALL CAPS may be changed to Title Case.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Submissions must be oniony.",
+            "description": "Both the title and body of your article should sound like something The Onion would write. This can be highly subjective - there's no one-size-fits-all guide to what fits here. Moderators may rule posts Not Oniony at their own discretion.\n\n[more info here](https://www.reddit.com/r/nottheonion/wiki/done_to_death)",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Only submit news articles.",
+            "description": "Submissions must be full news articles (not blog/social media posts, images, or videos).",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Use original, reliable sources.",
+            "description": "Use only original, reliable sources for your articles. Sites that frequently rehost stories are on the [Autoremoval List](https://www.reddit.com/r/nottheonion/wiki/autoremoval). Blogs, tabloids, activist pages or satire websites are not reliable sources.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Do not repost similar articles.",
+            "description": "Check for articles on the same story using the Search function and current posts. Do not post if your article is the same or similar to one that has already been posted. **Frequent violators of this rule will lose their posting privileges.**",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No satire articles",
+            "description": "Even if they are technically from a source other than The Onion, any article submission written as satire or even true stories written in a satirical manner are not allowed. Please note that some major news outlets have satirical sections, such as the Borowitz Report on the New Yorker, which are also not allowed. AVClub, while owned by The Onion, is not satire and is allowed. You can use a tool like http://realorsatire.com/ to see if your submission is from a known satirical website.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No tabloid sources",
+            "description": "Do not post tabloid news stories, or articles that source from tabloid news outlets (TheSun, Mirror, Dailymail, People, TMZ, etc).",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No old news.",
+            "description": "Articles must have been written within two weeks of the submission date.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Only submit articles in English.",
+            "description": "Do not post non-English articles, or use google translate on one. Try to find an English source for the article.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Do not post mobile links.",
+            "description": "Do not post mobile versions of articles (identifiable by .m or .mobile in the URL).",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No blocked or redirected links",
+            "description": "Make sure the site you're submitting from does not have a paywall or surveywall to access content. Do not post that redirect to a different address. This includes link shorteners and .amp links.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No personal attacks, racism, sexism, or bigotry",
+            "description": "Keep comments civil and avoid attacking other users directly.  No racism, sexism, homophobia, transphobia, etc.",
+            "kind": "comment"
+        },
+        {
+            "Rule_title": "Don’t break Reddit rules.",
+            "description": "This should be self-explanatory. Don’t break site-wide rules. Violators will be permabanned. This does include deliberately spreading misinformation.",
+            "kind": "all"
+        }
+    ]
+}

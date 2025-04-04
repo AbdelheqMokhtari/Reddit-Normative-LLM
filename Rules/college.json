@@ -1,0 +1,76 @@
+{
+    "subreddit": "college",
+    "subscribers": 2905560,
+    "rules": [
+        {
+            "Rule_title": "Do not post spam or surveys.",
+            "description": "Do not post spam. This includes but is not limited to SURVEYS, petitions, blogs, links to low-quality or crowdsourced websites, discord links, DM requests, etc.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Do not post anything regarding college admissions.",
+            "description": "Do not post anything about applying or transferring to colleges. This includes any questions regarding applications, college selection/comparison, \"chance me\", high school preparation, entrance exams, etc.\n\n\nPost instead at r/ApplyingToCollege, r/collegecompare, or r/CollegeTransfer.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Do not post anything seeking personal gain.",
+            "description": "Do not post anything seeking personal gain. This includes but is not limited to, ANY FORM OF CROWDSOURCING, ADVERTISING, requests for votes or signatures, requests for money, business idea feedback, referral links, contests or giveaways, solicitation for involvement, or any attempt to sell or advertise your product, service, or website.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Do not post anything racist, trolling, threatening, harassing, or insane.",
+            "description": "Do not post anything deemed threatening (negatively targeting a group of people, doxxing, threats of harm or violence, etc) or harassing (unnecessarily argumentative/combative comments, stalking, rude/vulgar language, specifically targeting specific users, etc), racist, or insane.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Do not engage in or advocate for illegal/unethical behavior (including cheating).",
+            "description": "Do not engage in or advocate for anything illegal on our subreddit. This includes but is not limited to drug usage, improper use of medication/prescriptions, cheating/plagiarism, essay writing services, copyright violation, textbook requests, etc.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Do not spread misinformation.",
+            "description": "Do not post or advocate for factually incorrect or misleading information. Do not cite or link to propaganda.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Do not post overly specific content, easily Google-able questions, or request for generic advice.",
+            "description": "Do not post anything that is uniquely specific to an individual student, book, class, school, state, or program. These questions are better directed at someone from your college than strangers on Reddit from around the world. If the answer to your question is easily found on the internet, do your own research first. Do not ask for generic 'tips' or advice. Do not ask for anything related to GPA calculation.\n\nFailure to abide by this rule may result in a ban.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Do not post low-effort, poorly formatted, poorly written, or generic-titled posts.",
+            "description": "Do not post anything that is low-effort, does not meaningfully contribute to subreddit discussion, or is difficult to read. This includes but is not limited to memes, reaction gifs, 'arbitrary picture with a story', copypasta, lack of punctuation/capitalization, walls of text, etc.\n\nAny thread where the topic or question cannot be determined from the post title will be removed.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Do not create posts about any of the prohibited topics of discussion.",
+            "description": "There are better places on Reddit for these topics. Do not post threads regarding homework help, tech support, dating advice, therapy, basic social behavior/interactions, or topics unrelated to college.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Do not post anything that does not positively contribute to meaningful discussion.",
+            "description": "Do not post anything that does not positively and meaningfully contribute to subreddit discussion. This includes but is not limited to  posts that are primarily venting, nonspecific, alarmist, unprofessional, deceptive, all caps, generally pointless, etc.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Only use English in this subreddit.",
+            "description": "",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Do not post topics of suicide or self-harm.",
+            "description": "This is not the appropriate place for people who need professional help. It is well beyond the scope of what this subreddit can offer.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Do not create new accounts to evade bans.",
+            "description": "Do not create new accounts to violate subreddit rules. Do not create new accounts to circumvent existing bans.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Posting Requirements",
+            "description": "Users must have an account over 1 week old and with over 10 comments to post or comment. Any automated AI bot response will result in a ban.",
+            "kind": "all"
+        }
+    ]
+}

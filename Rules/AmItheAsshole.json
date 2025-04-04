@@ -1,0 +1,81 @@
+{
+    "subreddit": "AmItheAsshole",
+    "subscribers": 24180509,
+    "rules": [
+        {
+            "Rule_title": "Be Civil",
+            "description": "Attack ideas, not people. The purpose of this sub is to determine and explain who is in the wrong, not to eviscerate anyone. Treat others with respect while helping them grow through outside perspectives. Derogatory or dehumanizing language, including insults, violate this rule.\n\nThis rule applies to EVERYONE, even those not on Reddit. Don't insult others or get into spats in the comments. Don't comment to remind users of the rules - use reports.\n\nBe respectful. Be nice. Don't be an asshole.",
+            "kind": "comment"
+        },
+        {
+            "Rule_title": "Voting Rules",
+            "description": "Upvote posts that make for an interesting discussion. **DON'T** downvote if you think OP is an asshole. **DON'T DOWNVOTE COMMENTS YOU DISAGREE WITH.** Downvotes should be reserved for off-topic discussions or spam. Report harassing comments, don’t engage. \n\nDon't participate in threads you have found through crossposts and links outside of this subreddit. In this sub, your comment is a vote. Brigading/Vote manipulation is against Reddit site wide rules. **Violations will earn a permanent ban.**",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Accept Your Judgment",
+            "description": "This sub is here for the submitter to discover what everyone else thinks of the ethics or mores of a situation. It is not here to draw people into an argument you want to have, or to defend your position. If people start saying you were the asshole, do not take that as an invitation to debate them on the subject... accept the judgment and move on. If you have valid reason to think a commenter needs more information or misunderstood the facts of the conflict, you may give new information.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Never Delete An Active Discussion",
+            "description": "DO NOT delete your submission once a discussion has begun. Your post must stay up for **at least 48 hours**. We encourage submitters to use throwaways to maintain their privacy, but deleting a discussion is unacceptable. Violators will be banned.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Violeпce",
+            "description": "Don't even *mention* violence.\n\nThe rule isn't about inciting or encouraging violence. It's about **not mentioning.**\nPosts or comments that reference or mention violence in any manner do not belong here. \n\nComments &amp; even jokes about violence are not tolerated. Encouraging self-harm, suicide, \"bad karma,\" property damage, food tampering, or anything that wishes mental or physical pain on anyone, even hypothetically, is strictly prohibited. **Violating this rule will result in a permanent ban.**",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "How To Post",
+            "description": "The TITLE of your submission must begin with the acronym AITA or WIBTA (would I be the asshole?), then a description of the situation.\n\nPosts are limited to 3000 characters. Paragraphs are good; block text walls are bad. Format and punctuate your post reasonably. Be clear and concise. Don't link to screenshots or other subreddits. If you can't explain yourself in one post, without using external text pages, it does not belong here. Do not use someone else's account or a shared account.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Post Interpersonal Conflicts",
+            "description": "Posts should be descriptions of recent interpersonal conflicts. Describe both sides in detail. Make it clear why you may be \"the asshole.\"\n\nSubmissions must contain a real-life conflict between you and at least one other person. They should not be about feelings, opinions, or desires. If your conflict is with a larger demographic, an animal, someone online, a business, or a third party who’s irrelevant to the main question but thought what you did sucked, your post will be removed.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Shitposts, No AI",
+            "description": "Posts must be truthful and presented as fairly and accurately as possible. Posts must be written entirely by you and from your own point of view. Do not post on behalf of others, or from the point of view of another person in the story.\n\nThis is not a humor sub. This isn't a sub for copypastas, satire, overly embellished stories, or creative writing exercises. The use of AI (for any reason) is not permitted.\n\nShitposting will result in a permanent ban.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Do Not Ask For Advice",
+            "description": "This is NOT an advice sub. All submissions that ask for advice (instead of or in addition to judgment) will be removed. This sub is for arbitration. \n\nYou may include advice when you make your comments, but remember that your primary objective in commenting is to assign blame and pass judgment.\n\nIf a thread's focus becomes about advice instead of arbitration the thread may be removed regardless of the OP's intent.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Updates and META posts are restricted",
+            "description": "Posts dedicated to discussing AITA should be directed to the monthly open forum. Any META posts will be removed &amp; may result in a ban.\n\nUpdate posts require approval. This includes any post that references another post, including posting the other perspective. Review the [update criteria](https://tinyurl.com/zn2kbnnw) for more info. Unapproved updates will result in a ban.\n \nThis is not a saga/diary sub. You may submit one post every 3-4 months at most. Excessive posting may result in a ban.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Partings/Relationship/Sex/Reproductive Autonomy Posts",
+            "description": "AITA is not a relationship sub. We do not allow the following types of posts:\n\n* AITA for ghosting/cutting/reducing/denying contact with *anyone* (or not)\n* AITA for liking/pursuing/dating/breaking up with someone (or not)\n* AITA for doing a sexual act (or not)\n* Reproductive decisions (including adopting/fostering children &amp; delivery room conflicts)\n* Posts about cheating-including \"exposing\" someone's cheating (or not).\n\nOr similar conflicts that only exist in romantic or sexual relationships.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "This Is Not A Debate Sub",
+            "description": "If judgment is primarily motivated by whether commenters agree with your stance on a broad issue it is not appropriate for this sub. This includes anything from politically motivated conflicts to innocuous issues like if cake is better than pie. If you're ultimately asking if it is okay to kick someone off your team for their sexual identity, stop talking to your friend because they vape, or any similar debate, your post will be removed.\n\nNo starting off topic debates about marginalized groups",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Revenge Stories",
+            "description": "There are many subreddits for sharing tales of revenge—this is not one of them. This is a sub for providing feedback on interpersonal conflict, not for endorsing how you escalate a conflict. If you're here to tell us how you punished someone who totally had it coming, you're probably breaking this rule.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Medical Conflicts",
+            "description": "AITA is a platform for moral judgement, not medical advice. The life and death consequences of many medical conflicts are well outside of Reddit's paygrade. We do not allow posts where the central conflict is transmitting or contracting any communicable disease, or undergoing any kind of medical procedure.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Review the FAQ Before Participating",
+            "description": "Subreddit rules are intended to provide a brief overview of our sub's content standards. Please ensure you [read the FAQs](https://www.reddit.com/r/AmItheAsshole/wiki/faq) for a detailed understanding of our community standards.",
+            "kind": "link"
+        }
+    ]
+}

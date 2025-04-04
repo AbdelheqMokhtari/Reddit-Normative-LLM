@@ -1,0 +1,46 @@
+{
+    "subreddit": "Damnthatsinteresting",
+    "subscribers": 19741282,
+    "rules": [
+        {
+            "Rule_title": "Only \"Damnthatsinteresting\" content",
+            "description": "This subreddit is for things that are interesting and cool. Content that is only cute, funny, a meme, or 'mildly interesting' will be removed. Posts should be able to elicit a reaction of \"Damnthatsinteresting\". Posts not deemed DTI may be removed at mod discretion.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Use descriptive titles",
+            "description": "Titles must be descriptive of the content, or they will be removed. \nNo clickbait such as: \"You won't believe ____!\" or \"27 things to do before you die!\" it will be removed.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No racism, bigotry, or hate speech",
+            "description": "Racism, hate speech, bigotry, homophobia, and incivility will be removed and the poster will be banned. Other variations of rude or unkind comments will also be removed.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No screenshots/memes/infographics",
+            "description": "Content must be interesting on its own. Posts that are not direct links to images/videos may be removed.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Moderator discretion",
+            "description": "Posts are at the discretion of the moderators. If we do not believe it to be interesting, is inappropriate, or is spam, we will remove it. Spam includes, but is not limited to, self-promo, YouTube, TikTok, Instagram, and more.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No reposts",
+            "description": "Posts that the moderators deem to be common reposts will be removed. Our general rule is 90 days.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No politics",
+            "description": "Political posts are no longer allowed on this subreddit. This includes war footage, propaganda, pushing agendas, and political news.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Posts making claims must be sourced in comments at time of posting",
+            "description": "Image with text posts/claims in the title must have a linked and credible source that backs up the information. Use the word \"source\" in your comment. \n\nIf the title is the only thing that makes your post interesting, you must also source it. OP is responsible for this and it must be done at time of posting.",
+            "kind": "link"
+        }
+    ]
+}

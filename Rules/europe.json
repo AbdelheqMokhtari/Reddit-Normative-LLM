@@ -1,0 +1,46 @@
+{
+    "subreddit": "europe",
+    "subscribers": 9524790,
+    "rules": [
+        {
+            "Rule_title": "No Off-Topic posts",
+            "description": "[Read our geo policy](https://www.reddit.com/r/europe/wiki/geopolicy) ",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No News articles older than 1 month",
+            "description": "",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Racism, Sexism, Homophobia, Genocide Denial etc",
+            "description": "",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No duplicate posts",
+            "description": "Including different sources covering the same story without providing new information.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Unlabeled NSFW images/videos",
+            "description": "",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Image macros, memes, reaction gifs and similar",
+            "description": "",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Personal Attacks",
+            "description": "personal attacks: Stick to the topic at hand and remain civil towards other users - attacking ideas is fine, attacking other users is not. This also includes calling somebody a racist, a SJW, a commie, a Russian-bot, a shill or similar in isolation. If you believe somebody is pushing an agenda, report it or send us a mod mail. Don't take it to the comments.",
+            "kind": "comment"
+        },
+        {
+            "Rule_title": "No non-OC photo posts on weekdays",
+            "description": "Use /r/casualeurope during the week instead.",
+            "kind": "link"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "subreddit": "nfl",
+    "subscribers": 12283127,
+    "rules": [
+        {
+            "Rule_title": "Off Topic Content",
+            "description": "[Full Rule Here](https://www.reddit.com/r/nfl/wiki/postingguidelines#wiki_1._this_sub_is_about_the_nfl)\n\nIf it's related to the NFL, but not about the NFL (such as streams, betting-related posts, video games, Fantasy Football, College Football, or NFL-related jokes), please check the sidebar.\n\nPeople who are related to the NFL have lives outside of their organization as well, and in the majority of instances these are best discussed in the subreddit associated with their particular team.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Low effort/Joke Posts/Repost",
+            "description": "[Full Rule](https://reddit.com/r/nfl/wiki/postingguidelines#wiki_2._add_new_content_or_discussion)\n\nBe sure that whatever you are submitting adds to discussion. Be sure you're creating something new, rather than relying on others to create for you. Put in your own analysis, argument, or indexing methodology, and write up a nice long post about the topic.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Editorialized Title",
+            "description": "[Full Rule](https://www.reddit.com/r/nfl/wiki/postingguidelines#wiki_3._the_title_should_describe_the_submission)\n\nThe purpose of a title is so people reading it (and looking for it) will know what they will find inside without any unnecessary clutter. Make sure that your title does that as best as possible by avoiding editorializing, misleading wording, or false titles intended as a joke.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "All news should be sourced",
+            "description": "[Full Rule with examples](https://www.reddit.com/r/nfl/wiki/postingguidelines#wiki_4._all_news_should_be_sourced)\n\nSources, in this situation, mean something you can link to. A screenshot would not qualify, nor would just a name, nor would \"I saw it\" or \"I have insider information\". If you don't have a source, please wait to post.\n\nTwitter post titles must be tagged with the author's (or service's) name - for example: \"[Schefter] Tom Brady set a record....\"",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Highlights: During Games",
+            "description": "[Random highlights not allowed on Game Days - FULL RULE HERE](https://www.reddit.com/r/nfl/wiki/postingguidelines#wiki_5._highlights.3A_only_allowed_during_tnf.2C_snf.2C_mnf)\n\n**Not Allowed**\n\n* *Untagged highlights* - Begin the title with \"[Highlight]\" so it is appropriately flaired.\n* *Low quality Highlights* - Recording of a tv or so pixelated it is hard to watch.\n* *Hype Videos* - These are video packages with excessive content from off-field.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Personal Life/Off Field, Serious illness, deaths, and arrests for current or former players",
+            "description": "[Full Rule](https://reddit.com/r/nfl/wiki/postingguidelines#wiki_6._personal_life.2C_serious_illness.2C_deaths.2C_and_arrests_for_current_or_former_players)\n\nAny official statement by anybody relating to the NFL is appropriate in situations of serious situations such as (but not limited to) those listed above. Whether it is the league, a player, an involved lawyer, the police, or a team, any serious situation will be allowed. Such posts that have nothing to do with the NFL will be removed.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Official threads are official and not unofficial",
+            "description": "[Full Rule](https://reddit.com/r/nfl/wiki/postingguidelines#wiki_7._official_threads_are_official_and_not_unofficial)\n\nThere are a number of official threads that come up throughout the year, some posted by the Moderators and some by users. Run any official thread posting by the moderators first to help prevent confusion. Simply changing the name from \"Official\" to \"Unofficial\" doesn't really do it either.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Original Content v. promotion and spam",
+            "description": "[Full Rule](https://www.reddit.com/r/nfl/wiki/postingguidelines#wiki_8._original_content_v._self_promotion_and_spam)\n\nIf you are not a contributor to this sub, please keep in mind that you may not use it as a platform for promoting your material or website, your petition, your giveaways, or your studies. If you aren't sure, please send us a message to get it approved (or discuss how to get it approved).",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Personal attack or any kind of slur",
+            "description": "Someone attacking another user that goes far beyond normal trash talk or using a racist/homophobic/ablest slur.",
+            "kind": "comment"
+        },
+        {
+            "Rule_title": "Off-Season Posting Policy",
+            "description": "These types of posts will be permitted following the conclusion of the Super Bowl, and up until the very first week of training camp. These posts will be halted during the first day of free agency, the NFL Combine and the NFL Draft. Low-effort shitposting and/or memes may result in a ban.\n\nOffseason Self-Posts: High-effort offseason self-posts presenting well thought-out ideas and interesting scenarios are permitted during the offseason, but are subject to removal at moderators' discretion.",
+            "kind": "all"
+        }
+    ]
+}

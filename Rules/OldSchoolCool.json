@@ -1,0 +1,46 @@
+{
+    "subreddit": "OldSchoolCool",
+    "subscribers": 18757442,
+    "rules": [
+        {
+            "Rule_title": "Rule 1 – Must be 25 years old or more",
+            "description": "Everything from 2000 and after will be removed.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Rule 2 – Must have year or decade in the title",
+            "description": "Submissions without a year in the title will be removed. If you don’t know the exact year, make an educated guess and put the decade.\n",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Rule 3 – No offensive comments, offensive submissions or repost spam",
+            "description": "Offensive comments include sexism, racism, homophobia and abuse.  Offensive submissions include racist, homophobic or sexist post. Repost spamming is consistently submitting reposts. Use www.karmadecay.com to check. All these will get you a permanent ban.\n\nIt is up to moderators to decide whether a comment or submission is offensive enough to warrant a ban. However, here is a good rule of thumb to follow: If you wouldn’t say it or share it with your own mother, don’t say it or share it here.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Rule 4 – Don't mention death of relative in title",
+            "description": "It is okay to submit photos of deceased relatives. It is not okay to mention that they have passed away in the title. Please include this information in a comment if you feel the need to share.\n",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Rule 5 – No reposts less than 6 months old",
+            "description": "If you are unsure whether you are about to submit a repost, check beforehand using www.karmadecay.com",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Rule 6 – Must feature a person",
+            "description": "This should be self-explanatory. No vehicles, buildings, animals, etc.\n",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Rule 7. No publicity photos of celebrities - (photos of celebs living life are fine)",
+            "description": "You can still post normal photos of celebrities living life and doing their thing, but just not publicity photos.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Rule 8 - No TV clips, movie clips or stills ( videos of live performances + home video are fine)",
+            "description": "Old School Cool is for real life coolness not fictional coolness.",
+            "kind": "link"
+        }
+    ]
+}

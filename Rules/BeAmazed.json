@@ -1,0 +1,31 @@
+{
+    "subreddit": "BeAmazed",
+    "subscribers": 8877480,
+    "rules": [
+        {
+            "Rule_title": "Post Appropriate Content",
+            "description": "+ This subreddit is a place where people come to find something amazing.   \n+ You can browse through [top submissions of this week](https://www.reddit.com/r/BeAmazed/top/?t=week) to get a better idea of what type of content is suited for r/BeAmazed.\n+ In this subreddit we also have a bot which automatically removes posts based on community feedback, whether the community is finding the content amazing or not, since amazing is a subjective term.      ",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Porn, Gore or Very Disturbing Content",
+            "description": "+ Violation of this rule can result in temporary or permanent ban.          \n+ If you think that your post doesn’t violate this rule but still mildly falls in this category then make sure to mark it as NSFW.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No War or Politics related posts",
+            "description": "+ War or Politics related posts are generally not allowed in this subreddit.         \n+ However such posts can be allowed, if their main focus is not war or politics.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Misleading Content",
+            "description": "+ Make sure the content you are posting is not fake, staged or misleading.        \n+ Make sure the title you are using is not misleading.\n+ If you are posting some CGI or AI generated content then it should be clearly mentioned in the title or the post itself.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Don’t be rude to others",
+            "description": "+ Treat others politely and do not troll or harass others.            \n\n+ Racist, sexist, homophobic, and other abusive submissions and comments will be removed and can also result in a ban. If you encounter such comments, report them.",
+            "kind": "comment"
+        }
+    ]
+}

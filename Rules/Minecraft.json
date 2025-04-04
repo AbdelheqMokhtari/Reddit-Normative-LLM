@@ -1,0 +1,71 @@
+{
+    "subreddit": "Minecraft",
+    "subscribers": 8446129,
+    "rules": [
+        {
+            "Rule_title": "Be civil",
+            "description": "We want everyone to feel welcome on r/Minecraft. Hostile behavior and derogatory language is not acceptable here, even as a joke.  \n\nPlease don't participate in drama or arguments, don't attack individuals or groups, and don't share personal information.  \n\nRemember to follow both Reddiquette and Reddit Content Policy.\n\nParticipating in or advocating for brigading or Reddit-wide chain posts will result in an immediate ban.\n\n[Detailed Rules](https://www.reddit.com/r/Minecraft/wiki/rules/)",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Don’t advertise servers or communities",
+            "description": "To find people to play with, try r/mcservers, r/realms or r/MinecraftBuddies; please don’t provide server addresses or invite links here.\n\nExcessive server names in screenshots or videos is also considered advertising.\n\n\n[Detailed Rules](https://www.reddit.com/r/Minecraft/wiki/rules/#wiki_rule_2._don.2019t_advertise_servers_or_communities.)",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No memes",
+            "description": "Yes, really. This also includes posts focusing on meme concepts (even when created in Minecraft) and \"shitposting\". Try r/MinecraftMemes if you want to post or consume meme content in a Minecraft context.  \n  Memes may feature in your post provided that they are not the primary focus. For example, sharing a redstone display by having it show a rick roll would be acceptable.\n\n[Detailed Rules](https://www.reddit.com/r/Minecraft/wiki/rules/#wiki_rule_3._no_memes.)",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Don’t post images of text",
+            "description": "If the main point of your image or video relies on text or numbers that it contains, please post it as text instead; non-text content may be embedded or linked within it if necessary. If a text post doesn't work for your topic, you will probably need to look for a different place to post it.  \n  Infographics may be exempt from this rule at moderator discretion and with the proper post flair, as long as they include a full transcription in the comments or in the post.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Do not promote illegal or unethical practices",
+            "description": "Do not ask for help doing anything illegal or unethical. Do not suggest or help somebody do something illegal or unethical.  \nThis includes piracy - asking for or posting links to pirated material is strictly forbidden and can result in an instant and permanent ban.\nTrying to circumvent the terms of service of a website or the Minecraft EULA also counts as unethical behavior, which includes NFTs/blockchain when related to Minecraft, selling/gifting accounts or capes.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Stay on topic",
+            "description": "Submission content must be clearly related to Minecraft, without requiring additional context or explanation from the title. Note that a coincidental similarity to a Minecraft feature or to its graphical style is considered off-topic.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Avoid chain posting",
+            "description": "Please wait at least 12 hours between your posts to the subreddit. If posting an update, follow-up or reference to another submission (yours or someone else’s), wait at least 1 week, or share it in the comments of the original.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Explain your suggestions with a text post",
+            "description": "A suggestion is anything that proposes a change to Minecraft. Submissions featuring a suggestion must be explanatory text posts (i.e. a post with a title and text body, and not a link, video, or image post), which describes your idea and shows why it would be a good change.   \nImages and videos may be included as part of the post in order to visualize your idea, provided they do not outweigh the written part of your suggestion.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Use a search engine, the wiki or community support before asking questions here",
+            "description": "In-depth information about almost all game features and mechanics, along with a number of tutorials, can be found on the community-created [Minecraft Wiki](https://minecraft.wiki). This also applies to questions and support requests regarding servers, which should be directed to /r/admincraft. All account issues: use https://support.xbox.com/contact-us.\n\nShort and common questions that can be answered by a quick search will be removed.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Speak English only.",
+            "description": "English is the most widely spoken language in the Reddit community and the only language spoken by every member of our moderation team. While it may seem exclusionary, prohibiting the use of other languages lets as many people as possible enjoy content on the subreddit and join discussions in the comments, and also allows us to moderate more effectively.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Keep self-promotion to a minimum",
+            "description": "Posts may be removed after excessive self-promotion, at the discretion of the mod team. As a rule of thumb, if the main purpose of your posts is to advertise or if they’re advertising any paid services, they’re not welcome here. To encourage community participation, linking content from outside Reddit is restricted for new users.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Follow our standards for quality.",
+            "description": "Be original. Submissions (and sometimes comments) featuring content that is posted frequently, is well-documented elsewhere, or is of particularly low quality or effort are liable to be removed.\n\n[More Details](https://www.reddit.com/r/Minecraft/wiki/rules/#wiki_rule_12._follow_our_standards_for_quality.)",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Don't post banned topics",
+            "description": "In order to keep the sub free from the same post over and over, some topics have been banned. Please do not make posts about topics on our ban list.  \n[Banned topics](https://www.reddit.com/r/Minecraft/wiki/rules#wiki_rule_13._banned_topics.)",
+            "kind": "link"
+        }
+    ]
+}

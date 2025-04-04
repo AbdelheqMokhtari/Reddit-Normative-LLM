@@ -1,0 +1,56 @@
+{
+    "subreddit": "CombatFootage",
+    "subscribers": 1793953,
+    "rules": [
+        {
+            "Rule_title": "Comments",
+            "description": "Verbally attacking another user, threats of violence, harassment and bullying are against Reddit's policy. \n\nWe ask that you please abide, as site rules must be enforced.\n\nCommunity rules:\n\na. No political soap-boxing, inflammatory comments, hate speech, making fun of religions, cultures, injuries or death.\n\nb. Humor is OK however jokes in poor taste are not allowed. Joke threads may be removed to prop up serious discussion.\n\nc. Please do not spam",
+            "kind": "comment"
+        },
+        {
+            "Rule_title": "Making a link or text post",
+            "description": "* In order to post or comment you must have a minimum of 25 karma points and an account age of no less than 45 days.\n\n* **Link posts:**\n\n * [A flair is needed to post a submission. All post flairs can be viewed here. ](https://www.reddit.com/r/CombatFootage/wiki/info_table_allowed_posts) (gif, photo, video, ect).\n\n* **Text posts:**\n\n * Only certain topics can be made as a text post [(request, questions, ect)](https://www.reddit.com/r/CombatFootage/wiki/text_posts)\n\nOnly 4 posts in 24hrs allowed",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Titles",
+            "description": "Submission titles must be as detailed and descriptive as possible (e.g., 'who, what, when, where') - They must be concise and objective.\n\nTitles cannot include any:\n\nwarmongering  \n\nembellishing\n\nsensationalism\n\njingoism\n\nglamorization\n\nWhile the use of other languages in the comment section is not prohibited submission titles *must* be in English.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "What's disallowed",
+            "description": "[Chart on what types of posts are allowed or disallowed.](https://www.reddit.com/r/combatfootage/wiki/info_table_allowed_posts) \n\nPlease read before posting. ",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "NSFW Tags",
+            "description": "**5 NSFW Tags**\n\n* **Submitting NSFW Content:**\n  * **Submissions where serious injuries are noticeable must be marked NSFW.** \n* **If linking NSFW in the comments, please leave a warning.**\n* **SFW Content:**\n  * **SFW content is posted on the sub regularly. Not all posts require a NSFW tag.**\n\n* **Extraordinarily graphic content may be subject to removal.**",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Music in combat footage",
+            "description": "Music is only allowed in combat footage if\n the group/persons who filmed it added it themselves. *[Exceptions to the rule.](https://www.reddit.com/r/CombatFootage/wiki/music_in_footage)*",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Combat footage to propaganda ratio",
+            "description": "All videos with propaganda from any faction in an ongoing war must consist mostly of combat footage. This goes for in comments or text posts as well.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Reposts",
+            "description": "Reposts are not forbidden however a year must pass before a submission may be reposted. [*Click here to see the exceptions to this rule*](https://www.reddit.com/r/CombatFootage/wiki/repost_rule)",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Concerning OPSEC",
+            "description": "For military folk:\nIf OPSEC applies to you then do not post opsec violating content on this sub.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Content warning",
+            "description": "Some content may be disturbing to some viewers, it is recommended sensitive viewers stick to the more sfw content or scan the comment sections first to get a description of the material. This sub's not for you? Try out a [similar subreddit.](https://www.reddit.com/r/CombatFootage/wiki/related_subs)",
+            "kind": "link"
+        }
+    ]
+}

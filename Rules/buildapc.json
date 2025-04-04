@@ -1,0 +1,81 @@
+{
+    "subreddit": "buildapc",
+    "subscribers": 7917668,
+    "rules": [
+        {
+            "Rule_title": "Be respectful to others",
+            "description": "Remember, there's a human being behind the other keyboard. Be considerate of others even if you disagree on something - treat others as you'd wish to be treated. Personal attacks and flame wars will not be tolerated.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No build-spoonfeeding requests",
+            "description": "Asking for recommendations on a single part to complete your build is fine. Requests for full parts lists should be directed to /r/buildapcforme or the subreddit Discord server.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No piracy or grey-market software keys",
+            "description": "No piracy or so-called \"grey-market\" software keys. This includes suggesting, hinting, or in any way implying to someone that piracy or the use of these licenses is an option. If a key is abnormally cheap (think $10-30), it is probably one of these, and is forbidden on /r/buildapc.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No laptop or prebuilt PC questions",
+            "description": "Submit questions or or requests for suggestions for laptops to /r/suggestalaptop, /r/gaminglaptops or /r/laptops.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No submissions about hardware news, rumors, or reviews",
+            "description": "Submit hardware news, rumors or reviews to /r/hardware.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No submissions about sales, deals or unauthorized giveaways",
+            "description": "For sales and deals, see /r/buildapcsales. Any giveaways must be approved by the moderators before being posted.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No submissions about retailer or customer service experiences",
+            "description": "Submit retailer or customer service experiences to /r/PCRetailers. This includes talk about RMAs, retailers, sales people and all other things retail.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No titles that are all-caps, clickbait, PSAs, pro-tips or contain emoji.",
+            "description": "This includes titles containing emoji, asking to be upvoted or not upvoted, PSAs, LPTs, \"protips\", \"reminders\" and all other common tactics attempting to draw extra attention to the title.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No submissions that are low-effort, memes, jokes, meta, or hypothetical / dream builds.",
+            "description": "Memes and jokes are permitted as comments, but not as submissions. No joke advice (See Rule #13).",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No self-promotion, advertising or surveys",
+            "description": "This includes self-serving/affiliate links, advertisements of your own services/content/fundraising, or begging of any form.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No selling, trading or requests for valuation",
+            "description": "If you want to buy, sell or trade hardware you should do so on /r/hardwareswap. Price evaluations should be requested through /r/hardwareswap's Discord server. Discussions of privately buying, selling or trading hardware and/or software are not permitted.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No excessive posting (more than one submission in 24 hours)",
+            "description": "To prevent spam and allow everyone to receive they help they want, only one post per 24 hours is permitted. If you are unhappy with the attention your post got, you can make a top level comment in the daily questions thread, otherwise wait until 24 hours have passed before posting again.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No intentionally harmful, misleading or joke advice",
+            "description": "",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No bots or automated accounts",
+            "description": "",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Ban Appeal",
+            "description": "[Ban appeals must be conducted via modmail](https://old.reddit.com/message/compose?to=%2Fr%2Fbuildapc).  Any public appeals will be removed and rejected.",
+            "kind": "all"
+        }
+    ]
+}

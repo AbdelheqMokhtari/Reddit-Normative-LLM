@@ -1,0 +1,71 @@
+{
+    "subreddit": "pcgaming",
+    "subscribers": 3813901,
+    "rules": [
+        {
+            "Rule_title": "Rule #0: Be civil",
+            "description": "No personal attacks, witch-hunts, inflammatory or hateful language.\n\nNo bigotry, racism, sexism, homophobia or transphobia. If you make any negative comments regarding someone's race, creed, nationality or sexuality identity you will be permabanned.\n\nNo trolling or baiting.\n\nNo calls for violence against any groups or individuals.\n\nAny account less than 90 days old may be permanently banned on the first infraction of this rule.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Rule #1: No spam, porn, or facilitating piracy",
+            "description": "Self promotion is allowed but must be balanced out by a larger amount of non-promotional posting. Read our full rules [here](https://www.reddit.com/r/pcgaming/wiki/selfpromotion).\n\nFacilitating piracy is prohibited. Discussion of emulators is fine. See our [full rules](https://www.reddit.com/r/pcgaming/wiki/piracy) in the wiki.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Rule #2: No Advertisements",
+            "description": "* Ads include, but are not limited to, chat/game server/community recruitment (i.e. Discord, TeamSpeak), contextless website or subreddit links, and listings on eBay or other sales platforms.\n\n* No affiliate/referral links: This includes Amazon, GMG tap links, Star Citizen, etc.\n\n* Developers must be [verified](https://www.reddit.com/r/pcgaming/wiki/developers) before posting about their projects and, once they are, are not bound by rule #2.\n\nhttps://www.reddit.com/r/pcgaming/wiki/postingrules",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Rule #3: No memes, PCMR language, and low-effort posts/comments",
+            "description": "This includes memes and contextless images/screenshots/GIFs as well as anti-platform or PCMR language. Applies to threads and comments.\n\nAll submissions should seek to create a discussion.\n\nhttps://www.reddit.com/r/pcgaming/wiki/postingrules",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Rule #4: No tech support or game help questions",
+            "description": "Tech support questions can be posted in our stickied tech support thread.\n\nGeneral game related discussion is allowed, but game-specific help requests (how to defeat a certain boss or level, what loadout is best for my character, etc) and basic questions (is a game co-op, does this game have controller support, etc) aren't. Those questions would be more appropriate for the game's subreddit if it exists.\n\nhttps://www.reddit.com/r/pcgaming/wiki/postingrules",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Rule #5: No questions about buying/building computers, hardware, peripherals, furniture, etc",
+            "description": "This includes \"Can my PC run this?\" type questions and links showing off your computer build or asking questions about it.\n\nUse /r/buildapc for all PC building questions. You can also try /r/buildapcforme, /r/SuggestALaptop, /r/headphones, /r/monitors, /r/mechanicalkeyboards, and /r/mousereview for more specific questions.\n\nhttps://www.reddit.com/r/pcgaming/wiki/postingrules",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Rule #6: No game suggestions, friend requests, surveys, or begging",
+            "description": "Game suggestions and all their variations belong in the weekly sticky that runs Fri - Sun.\n\nThis includes friend/group/clan recruitment. You can use our Discord channel find people to play with.\n\nWe no longer allow surveys, polls or requests for feedback. You can try /r/samplesize.\n\nPlease don’t make requests for spare game keys or PC parts. GoFundMe and other fundraising posts are also prohibited.\n\nhttps://www.reddit.com/r/pcgaming/wiki/postingrules",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Rule #7: No Let's Plays, streams, highlight reels/montages, random videos or shorts",
+            "description": "In addition to this, Youtube links posted by new accounts are filtered due to channel spamming.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Rule #8: No off-topic posts/comments",
+            "description": "Keep posts and comments related to the topic being discussed.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Rule #9a: Use the original source",
+            "description": "All submissions must use the original source when available. **EXCEPTIONS**: Twitter/X, pay-walled, non-english sources and corporate earnings calls.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Rule #9b: No Editorialized Posts",
+            "description": "Don't editorialize your titles. In the case of clickbait, or content lacking context, you may **lightly** edit the title. Read more [here](https://www.reddit.com/r/pcgaming/wiki/postingrules#wiki_rule_9.3A_use_the_original_source.2C_no_editorialized_titles.2C_no_duplicates).",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Rule #9c: No Duplicates",
+            "description": "No Duplicate submissions. Any news article or event should have one submission covering it. However, sources that provide new information on developing stories are allowed.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Self Promotion Spam",
+            "description": "No source may account for more than 10% of your Reddit-wide submissions.",
+            "kind": "all"
+        }
+    ]
+}

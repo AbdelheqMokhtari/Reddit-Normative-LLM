@@ -1,0 +1,71 @@
+{
+    "subreddit": "discordapp",
+    "subscribers": 1260276,
+    "rules": [
+        {
+            "Rule_title": "Full List of Rules",
+            "description": "This rule list is a summary of consistent ones that pop up, so please check out the full rules list [here](https://www.reddit.com/r/discordapp/wiki/rules/).",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Personal Attacks",
+            "description": "Comments and posts that are intended to attack or insult other users are not allowed. It's okay to disagree with someone, but using ad hominem attacks instead of having an actual discussion is not acceptable.\n\nIf someone attacks you personally, please don't retaliate by returning insults or personal attacks. Instead, report it to the moderators so that they can take appropriate action.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Discrimination",
+            "description": "Attacks based on gender, sexual orientation, disability, race, nationality, ancestry, or religion are prohibited. Civil discussion is permitted, but using these traits as weapons is not.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Witch-Hunting",
+            "description": "Spreading a negative campaign against a particular group of people or a specific individual by sharing their information with others is not allowed. This includes raiding servers/users.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Calls to Action",
+            "description": "Any attempts to rally the community for a particular purpose, such as voting for a poll, promoting a boycott, seeking funding or support for a cause, or advertising a petition, will be removed as it is considered a \"call to action\". This also includes requests to find certain people. However, please note that polls or contests created specifically for the subreddit are allowed.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Low-effort Submissions",
+            "description": "Moderators may remove content that is deemed as low effort. This includes but is not limited to:\n\n- Quality, memes, rants, screenshots lacking info/context, vague titles, &amp; irrelevant topics\n\n***[Full description](https://www.reddit.com/r/discordapp/wiki/rules/#wiki_2.1_low-effort_submissions)***",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Recently Posted Topics",
+            "description": "Reposted topics are not allowed. Threads that focus on topics that have been discussed at high frequency, cover information from the same angle, or are covered in our FAQ pages may be removed. Please use the Reddit [search bar](https://www.reddit.com/r/discordapp/search), check /new, or the front page as this is a topic that has been largely posted/discussed recently.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Account Support",
+            "description": "This subreddit is not the appropriate place to post account-related issues/requests/complaints. If you are having an issue with Discord's product or need to contact them for any reason, please [search their support knowledge base](https://support.discord.com/hc/en-us) for answers or send a ticket to Discord’s [support team](https://dis.gd/contact). If you've already sent a ticket, please be patient and wait for an answer. The support team often has a slow response time.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Advertising/Self-Promotion",
+            "description": "No advertising/self-promoting servers, selling/buying accounts, trading, or nitro begging.\n\n- Server self-promotion will result in an immediate perm ban.\n- Asking for or providing invites to non-official servers is not allowed. Consider looking in the sidebar of subreddits you enjoy, reading the bios of your favorite content creators, or utilizing Server Discovery to find communities!\n- Advertising personal bots/projects is allowed if it does not make up a notable portion of your post history.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Client Modifications",
+            "description": "Client modifications such as Better Discord and BeautifulDiscord are not supported and are considered a violation of Discord's Terms of Service. Therefore, we do not discuss these matters on the subreddit. Installing any third-party software that modifies the Discord client can create vulnerabilities that may expose you to malicious code or result in the loss of your account. It is highly recommended to avoid using such software to ensure the security of your Discord account.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Third-Party Bot Support",
+            "description": "If you are having trouble with a third-party bot, we recommend you contact their support team. Try searching the bots name on Google as most bots have a support website or server. Some of the more popular ones are [Dyno](https://dyno.gg/discord), [Mee6](https://discord.gg/mee6), [YAGPDB](https://discord.gg/4udtcA5), &amp; [Carl-bot](https://discord.gg/S2ZkBTnd8X)",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Safe For Work Content Only",
+            "description": "Excessively violent or sexual content, including but not limited to death threats, explicit content, gore, or content that sexualizes or harasses other users is not allowed. However, discussing NSFW (Not Safe For Work) content is allowed as long as it is tagged appropriately and is relevant to the discussion.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Bug Reporting Or Feature Requests",
+            "description": "Bug reports should be shared directly with Discord. You can use the Bug Megathread pinned to the front page or submit a [bug report](https://dis.gd/bugreport) Learn about bugs [here](https://dis.gd/bugs) for instructions! While feature requests and feedback inspire awesome discussions on the subreddit, we encourage sharing them with Discord directly via a [Discord Feedback](https://dis.gd/feedback) submission.",
+            "kind": "all"
+        }
+    ]
+}

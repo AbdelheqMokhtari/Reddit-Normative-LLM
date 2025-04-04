@@ -1,0 +1,81 @@
+{
+    "subreddit": "politics",
+    "subscribers": 8799362,
+    "rules": [
+        {
+            "Rule_title": "General: No hateful speech",
+            "description": "See our hate speech rule [here](https://www.reddit.com/r/Politics/wiki/index#wiki_no_hateful_speech).",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "General: No novelty accounts or bots",
+            "description": "\"Novelty\" and \"gimmick\" accounts or bots are not allowed on /r/politics",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "General: No spam or solicitation",
+            "description": "Polls and petitions are not allowed here. This rule is applied to, but not limited to, any link or text post that is attempting to solicit money, signatures, poll responses, volunteer hours, or sign ups from users. \n\n\"Solicitation\" can include advertising a subreddit. \n\nArticles about polls or petitions are allowed as long as they are newsworthy.\n\nAdvertisements as submissions are not permitted.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Comments: No incivility or personal attacks towards users",
+            "description": "[Our full civility rule is here](https://www.reddit.com/r/politics/wiki/index#wiki_no_personal_attacks).\n\nBe civil and constructive at all times. Attack ideas, not users. \n\nPersonal attacks are not permitted. This includes calling a user a shill/troll, or any other attack. [This is a broad rule](https://www.reddit.com/r/politics/wiki/index#wiki_no_personal_attacks).",
+            "kind": "comment"
+        },
+        {
+            "Rule_title": "Comments: No flaming, baiting, or trolling",
+            "description": "Participate in discussions here in good faith. Do not flame, bait, or troll. See our trolling rule [here](https://www.reddit.com/r/politics/wiki/index#wiki_no_trolling.2C_baiting_or_flaming).",
+            "kind": "comment"
+        },
+        {
+            "Rule_title": "Comments: No witch hunts or personal information",
+            "description": "Do not make calls to action directed at non-public persons, or post information with the purposes of causing harm or harassment. This includes but is not limited to: names, telephone numbers, street or email address, or hinting that you have this information.\n\nIf you have evidence that someone is a shill, spammer, manipulator or otherwise, message the moderators so we can take action. Public accusations are not okay.\n\nDo not use a username mention, regardless of context.",
+            "kind": "comment"
+        },
+        {
+            "Rule_title": "Comments: Follow AMA specific rules",
+            "description": "* Top level comments should be a question or supportive statement for the AMA guest.\n\n* Civility rules apply to all users including AMA guests. You may ask critical questions, but keep things respectful. \n\n* Discussion about Reddit, individual subreddits, or moderation is not allowed.\n\n* Comments such as \"they won't answer this\" or \"why haven't you started answering\" are not allowed.\n\n* No requests for personal favors from the AMA guest\n\n* Do not spam the same or similar comments",
+            "kind": "comment"
+        },
+        {
+            "Rule_title": "Posts: Submissions must be explicitly about US politics",
+            "description": "[Full on-topic rules here](https://www.reddit.com/r/politics/wiki/index#wiki_articles_must_deal_explicitly_with_us_politics).\n\nAll submissions to /r/politics need to be explicitly about current US politics.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Posts: Submissions must be published within the last 7 days",
+            "description": "All submissions to /r/politics must be published within the last 7 days.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Posts: Submissions must be from the Approved Domain List",
+            "description": "All submissions to /r/politics must be from domains on the [approved domains list.](https://www.reddit.com/r/politics/wiki/approveddomainslist) Submissions from domains not on the approved domains list will be removed.\n\nAdditionally, users with young account ages are restricted to submissions from only wire services on the approved domains list.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Posts: Titles must be the exact headline from the article with minor exceptions",
+            "description": "[Full rule here](https://www.reddit.com/r/politics/wiki/index#wiki_do_not_create_your_own_title).\n\nA title must be comprised only of the copied and pasted headline of the article.\n\nDo not add, remove, or change words, **except** when the actual title uses \"breaking\" or ALL CAPS.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Posts: Do not flood the new queue",
+            "description": "Please make sure that you allow at least 10 minutes to pass between each submission, and submit no more than 5 articles within a 24 hour period.  Deleted posts are included in this rule. Moderator removed posts are not.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Posts: No copy-pasted submissions or non-English articles",
+            "description": "Please do not submit articles or videos which are either entirely copy-pasted from the original reporting.\n\nAll submissions must be **primarily** written in English for us to be able to moderate it and enforce our rules in a fair and unbiased manner.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Posts: Disallowed submission types",
+            "description": "[Full rule here](https://www.reddit.com/r/politics/wiki/index#wiki_submission_content_types).\n\nArticles that require users to take a survey, or to enter any information, or to become a paid subscriber, are not allowed.\n\nWe disallow solicitation of users (petitions, polls, requests for money, etc.), personal blogs, satire, images, social media content (Facebook, twitter, tumblr, LinkedIn, etc.), wikis, memes, and political advertisements.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Posts: Disclose employment or affiliation with a source",
+            "description": "r/politics expressly forbids users who are employed by a source to post link submissions to that source without broadcasting their affiliation. Please contact the moderators to get started on our verification process. [More info.](https://www.reddit.com/r/Politics/wiki/index#wiki_disclosure_of_employment)",
+            "kind": "link"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "subreddit": "explainlikeimfive",
+    "subscribers": 23191616,
+    "rules": [
+        {
+            "Rule_title": "Be Civil",
+            "description": "Stay respectful, polite, and friendly. ELI5 is a for requesting help understanding complex concepts and sharing explanations [without fear of judgement](/r/explainlikeimfive/comments/j28z5/welcome/). Don't insult people or their good intentions in a post, comment, or otherwise, even if a person seems rude or ill-informed. Remember the positive spirit of ELI5. \n\nThis includes plagiarism - acknowledge your sources! \n\nUse of bigoted slurs, directed at other users or not, is uncivil.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "All submissions must seek objective explanations",
+            "description": "ELI5 is not meant for any question that you may have. It is meant for simplifying complex *concepts*. \n\nNotably, posts will be immediately removed that ask for:\n\n- Information about a specific issue (personal experience, legal/relationship questions, medical questions, etc.)\n- Subjective/speculative replies\n- Straightforward answers/facts\n- Recent/current events\n- Religion/Politics\n- Hypotheticals\n- Reddit questions (itself/help). \n- Whole topic overviews\n- Business/Group/Individual motivations",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Top-level comments must be written explanations",
+            "description": "Replies to OP must be written explanations or relevant follow-up questions. They may not be jokes, anecdotes, etc. Short/succinct answers are not explanations, even if factually correct. \n\nLinks to outside sources are allowed and encouraged, but must include an original explanation (not just quoted text) or summary. \nLinks to relevant previous ELI5 posts or highly relevant other subreddits may be excepted.\n\nNo plagiarism. All quoted text must be cited.\nNo Bots/GPT\n\nThis list is not comprehensive",
+            "kind": "comment"
+        },
+        {
+            "Rule_title": "Explain for laypeople (but not actual 5-year-olds)",
+            "description": "Unless OP states otherwise, assume no knowledge beyond a typical secondary education program. Avoid unexplained technical terms. Don't condescend; \"like I'm five\" is a figure of speech meaning \"keep it clear and simple.\"",
+            "kind": "comment"
+        },
+        {
+            "Rule_title": "ELI5 is for factual information, not opinions",
+            "description": "All comments must explain, ask about, correct or address facts. Trying to change someone's opinion or influence them with yours is not appropriate.\n\n\nIf you are not able to submit, discuss or correct factual information without implicitly or explicitly involving your personal view on the matter, do not post.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Loaded questions are not allowed",
+            "description": "A loaded question presumes a controversial or not obviously true statement as fact. \"ELI5: Why was Obama the president when he wasn't born in the US?\" is loaded. \"ELI5: The controversy about where Obama was born\" is a non-loaded way to ask about the same topic.\n\nIf your question boils down to: \"Why isn't this thing I believe (or is self evidently true) the case?\" your question is loaded and belongs in another subreddit.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Search before posting; don't repeat old posts",
+            "description": "To avoid repeats, search key words (\"storm\" for \"How do Thunderstorms Form?\"), not the whole title. If you found only explanations that weren't clear on your point, explain that, and state what you're still trying to understand.\n\n“Old posts” refers to questions older than six months.  If there are unarchived posts on the topic you must explain why those posts do not answer the question. \n\nYou can read more on our reposts policy [here](https://www.reddit.com/r/explainlikeimfive/wiki/reposts).",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Don't guess",
+            "description": "If you don't know how to explain something, you don't need to reply. If you have a partly educated guess, only comment on the parts you are sure of.",
+            "kind": "comment"
+        },
+        {
+            "Rule_title": "Don't try to trick the bot",
+            "description": "If the automatic moderator removes your post, read the whole message it gives you, and follow its advice. It's there to help, not to be evaded — evasion will result in a ban.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Posts must begin with \"ELI5:\"",
+            "description": "This is meant to help identify ELI5 posts on the frontpage or /r/all or any other collection. \n---\nQuestions *must* be clear from the post title. If you need to explain it in the text body, you probably need to rephrase. \n---\n\nModeration decisions are ultimately left up to the discretion of the ELI5 modteam. Do not try to find loopholes in the rules and sneak through them. Above all else, respect the spirit of the subreddit.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Link to the Detailed Rules",
+            "description": "https://www.reddit.com/r/explainlikeimfive/wiki/detailed_rules/\n\nHere is a link to the detailed rules which are not character constrained. The above rules are a summary.",
+            "kind": "all"
+        }
+    ]
+}

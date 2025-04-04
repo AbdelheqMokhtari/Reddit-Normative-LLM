@@ -1,0 +1,51 @@
+{
+    "subreddit": "WhitePeopleTwitter",
+    "subscribers": 3130642,
+    "rules": [
+        {
+            "Rule_title": "Participate in good faith",
+            "description": "We require users to participate in good faith.  No trolling, sealioning, \"just asking questions\" or denial of reality. \n\nNo hate or mean-spirited posts. No racism, sexism, bigotry, etc.\n\nPlease keep all comments civil and do not wish death on other people, breaking this rule may result in an account ban at the moderator's discretion. \n\n\n\n*REMEMBER THE HUMAN*",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Posts must have visible timestamps",
+            "description": "Please try to maintain a level of quality and honesty while posting. Posts without a timestamp and posts that we believe to be too low-effort will be removed.\n\nOnly content from 2019 and up please.\n\n*WE KNOW RECENT CONTENT vs OLD CONTENT WHEN WE SEE IT!*",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No bullying or witch-hunting",
+            "description": "Don't bully people by calling them profane names or starting flame wars. No hatespeech or defending bigots. We reserve the right to bar entry to participants of subreddits known to harass our userbase.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No doxxing of private individuals. ",
+            "description": "Seeking personal information will result in the post/comment being removed and a possible ban. This includes seeking info for yourself or others, and refers to, but is not limited to, real names, phone numbers, email addresses, or private social media accounts.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Mark NSFW content",
+            "description": "All NSFW must have the appropriate flair otherwise they will be removed.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Must be a Tweet or a Toot",
+            "description": "All posts must be screenshots from Twitter. \n\nAll posts should be tweets, THREAD, or from BlueSky. Satire must be flaired as such.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Rule 9 is The One True Rule",
+            "description": "Long time use of Mod created Rule 9 is the One True Rule of Reddit",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Meow",
+            "description": "Meow",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Reddit's One True Rule",
+            "description": "Moderator Discretion: We reserve the right to remove/approve any post and ban anyone that we may think will ruin/devalue the community.\n\nParticipate at your own risk. We might ban you just because we feel like it.\n\n( You will usually see this rule using Old.Reddit )",
+            "kind": "all"
+        }
+    ]
+}

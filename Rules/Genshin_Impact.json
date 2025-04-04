@@ -1,0 +1,66 @@
+{
+    "subreddit": "Genshin_Impact",
+    "subscribers": 3569818,
+    "rules": [
+        {
+            "Rule_title": "Be respectful and civil",
+            "description": "It is natural that people have different opinions. Please stick to basic discussion etiquette and refrain from insulting or harassing others.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Relevance to Genshin Impact",
+            "description": "All submissions should be primarily relevant to Genshin Impact. Posts that primarily reference other games or topics will be moderated on a case-by-case basis. Comments are not subject to this rule.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Megathread",
+            "description": "Use the megathread(s) whenever appropriate. Please refer to the active megathreads on sidebar for relevant topics.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No account trading or commercial promotion",
+            "description": "Account trading, commercial promotion, and any forms of activities that involve virtual or real-life monetary transactions are strictly prohibited in this subreddit and will subject the poster to permanent ban.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "NSFW rules",
+            "description": "* **Prohibited Content:** Gore, Exposed or Accentuated Genitilia (including if covered by clothing), Excessively Exposed Breasts, Express or Strongly Implied Sexual Activity, Posing or Context (Including text), Cropped/Censored versions of any of the above content or any other pornographic material. Overly Strong use of Profanity (In quantity or effect).\n\n * **Permissible Content when tagged NSFW:**  https://www.reddit.com/r/Genshin_Impact/wiki/nsfw",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Non-OC art rules",
+            "description": "All non-OC (non-original-content) artwork posts should be in the form of a direct link(URL) to the source (the original post by the artist). Artist name should be included in the title.\n\nAt most **ONE** non-OC artwork is allowed per **WEEK** for every submitter.\n\nSee [this visual guide](https://www.reddit.com/r/Genshin_Impact/comments/mubqek/how_to_submit_a_nonoc_fanart_post_to_rgenshin/) for more info about how to submit a non-OC fanart.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "OC rules",
+            "description": "The OC (Original Content) flair is reserved for creators submitting their original artwork or handicraft only. At most **one** OC artwork can be posted per **three days** for every submitter. No self-promotion is allowed in the title or artwork (e.g. open commissions). (Note: Inclusion of artist name as a watermark is not considered as self-promotion).\n\nOther forms of self-made content (such as screenshots or videos) should be tagged with the “Media” flair.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Mark spoilers",
+            "description": "**Do not include spoilers in the title. Submissions that involve spoilers (storylines etc.) should be marked as such.**\n\nDetails about what is considered as spoilers can be found here: https://www.reddit.com/r/Genshin_Impact/wiki/spoilers",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Post quality",
+            "description": "Low quality/effort posts are subject to removal. The quality of a post is primarily judged by how much it contributes to a constructive discussion. Low-quality/effort posts may include:\n\n(1) Reaction images, basic meme templates, etc (They belong in /r/Genshin_Memepact);\n\n(2) Posts with repetitive content or certain generic topics;\n\n(3) Others determined on a case-by-case basis.\n\nFor every submitter, at most one art/meme/screenshot post is allowed per day.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Self-promotion rules",
+            "description": "Self-promotion is not prohibited but is subject to removal and the following limitations:\n\n(1) No plain playthroughs, news reading, and low-quality/effort video;\n\n(2) For Guides &amp; Tips videos, all submissions should be **text posts** with a detailed-write up about the information presented in your video along with time-stamps, if needed. **Do NOT make a link post that redirects to your video.**\n\n(3) Self-promotional videos can only be posted once every five days.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Overall subreddit quality",
+            "description": "Moderators may remove submissions with repetitive content or certain generic topics to help maintain subreddit quality.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Cosplay Rules and guidelines",
+            "description": "https://www.reddit.com/r/Genshin_Impact/wiki/cosplay",
+            "kind": "link"
+        }
+    ]
+}

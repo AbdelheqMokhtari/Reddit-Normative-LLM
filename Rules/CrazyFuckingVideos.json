@@ -1,0 +1,61 @@
+{
+    "subreddit": "CrazyFuckingVideos",
+    "subscribers": 2235301,
+    "rules": [
+        {
+            "Rule_title": "Follow Reddit's TOS",
+            "description": "Especially with subs with... our type of content, reddit keeps a close eye on them. Violations of Reddit's Terms of Service is strictly prohibited. When in doubt, ask a mod.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Be civil",
+            "description": "We are all here to watch crazy videos and have fun. Please refrain from arguing or being toxic in your posts or comments. This includes certain blatant acts of racism, sexism, and other \"ism\"s.\n\n[READ MORE HERE](http://www.reddit.com/r/crazyfuckingvideos/wiki/rule2)",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Must be a Crazy Fucking Video",
+            "description": "Videos should be relevant to the sub. Simple as that.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No recent reposts",
+            "description": "Please do some searching before posting, no one wants to see the same posts over and over.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Mark NSFW",
+            "description": "If it is NSFW, you better mark it. If you even think it might be NSFW, mark it anyway. Better to be safe than sorry.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Minors",
+            "description": "Submissions and comments must not involve sexualization of, neglect of or harm to minors. This includes the subtle implication or consequence of minor involvement in sexual content, even indirectly in cases where age isn't directly stated.\n\nAccording to the new Reddit content policy, this also includes videos of school fights and videos involving bullying of a minor by other minors.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Prohibited content",
+            "description": "• No death\n\n• No torture\n\n• No animal abuse\n\n• No porn\n\n• No gore",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No spam or flooding",
+            "description": "No self promotion.  No flooding - no more than 4 posts in a 24 hour period of time.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Glorifying Violence/Tragedies",
+            "description": "Do not glorify, praise, or joke about violent acts or tragedies. Doing so could result in a ban.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Violence, looting, or serious crime may be removed",
+            "description": "Posts showing violence, looting, or serious crime may be removed per the mod discretion.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No content related to Israel, Palestine or Gaza",
+            "description": "All these posts and comments lead to are insults, hatred, threats and misinformation. Do not make posts on this topic or bring it up in the comments.",
+            "kind": "all"
+        }
+    ]
+}

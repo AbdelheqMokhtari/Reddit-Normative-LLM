@@ -1,0 +1,31 @@
+{
+    "subreddit": "antiwork",
+    "subscribers": 2865982,
+    "rules": [
+        {
+            "Rule_title": "Respect that Antiwork is a workers' space",
+            "description": "Do not post pro-capitalist content. Do not post content in support of employers, landlords, or police. This includes posts about \"good\" bosses. Do not post content in support of politicians or their campaigns.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Participate in good faith",
+            "description": "No discriminatory language. No unauthorized self-promotion. Meta posts may be removed at the moderators' discretion.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No spam, no low-effort content",
+            "description": "Screenshots of text SMS (text-message/shortmessage) correspondance, WhatsApp, social media, images (not links) of news articles, and procedurally generated content such as ChatGPT are prohibited.  Memes are prohibited.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Contribute original content",
+            "description": "Do not repost content from within the previous 30 days. Crossposts may be removed at moderator discretion.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Follow sitewide terms of service",
+            "description": "Sitewide terms of service apply, including but not limited to: Do not post personal information of yourself or others, do not leave Reddit usernames visible in screenshots, and do not post calls for violence.",
+            "kind": "all"
+        }
+    ]
+}

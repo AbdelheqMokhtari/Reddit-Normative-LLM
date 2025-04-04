@@ -1,0 +1,81 @@
+{
+    "subreddit": "formula1",
+    "subscribers": 5250558,
+    "rules": [
+        {
+            "Rule_title": "Keep it civil",
+            "description": "**⚠️ These are the *abridged* rules. Please read the [full r/formula1 rules](https://www.reddit.com/r/formula1/wiki/userguide)!**\n\n* We strive to foster a community where discussions are lively and possibly even heated, especially during contentious races and events, but personal attacks will not be tolerated.\n\n* Don't be abusive. Fair criticism of teams, drivers, and other personalities is allowed, but this is not a place for blind hatred and prolonged or excessive attacks.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No gatekeeping/provocation",
+            "description": "* r/formula1 is an open and welcoming community for everyone. Do not comment with the sole purpose of baiting, trolling, or inciting reactions from other users.\n\n* Any threads initiated as a way to gatekeep the subreddit or vent against other members will be removed and can result in disciplinary action.\n\n* Responding to content that violates these rules by retaliating in kind also violates these rules and will subject members to disciplinary action.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Fan warring/attacking fan groups is not okay",
+            "description": "* Flareups between passionate fans are always going to happen, but the way a minority of fans choose to communicate that passion can be problematic.\n\n* No fan wars. Tribalistic behaviour produces toxic and bad faith interactions between users. Don't generalise or stereotype fan groups, or pejoratively highlight other users' flairs.\n\n* Don't be a toxic fan. It is expected that not everyone will like every team or driver. Disagreements are okay, but there are acceptable ways to express this.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No racism, sexism, homophobia, stereotyping, prejudice, etc",
+            "description": "* Racist, sexist, homophobic, transphobic, xenophobic, ableist, and other discriminatory language and sentiment will result in strong disciplinary action, up to and including a permanent ban for a first offence. This includes dogwhistling language and jokes containing such sentiment.\n\n* Comments which generalise or stereotype fellow users or personalities on the basis of nationality will also be met with immediate bans. Respect people's individuality without engaging in prejudice and tribalism.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No concern trolling/whataboutism",
+            "description": "* Occasionally, drivers or other figures will make statements or gestures in support of human rights, equality, the environment, science, the improvement of society, etc.\n\n* Do not post counterproductive or whataboutist comments designed to silence or discredit these common sense messages.\n\n* Users are expected to engage constructively with these topics. Do not concern troll or derail these discussions with nonsense. Bad faith commentary in response to such posts will be met with harsh bans.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No inappropriate/tasteless content",
+            "description": "* Try to be considerate and maintain some decorum. Avoid comments or jokes designed to offend.\n\n* All content is tagged NSFW.\n\n* This sub is not the appropriate place to objectify drivers or other individuals. Comments which are lewd or focused on appearance and do not add to the discussion may be removed.\n\n* Do not post comments excusing/justifying creepy or terrible behaviour.\n\n* Fake news/rumours, misinformation, and unfounded conspiracy theories are also considered inappropriate/tasteless.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No advertising, buying, selling, trading, gambling, etc",
+            "description": "* We strive to encourage high quality, original content, but excessive self-promotion is not allowed. We want the users to be members of the sub first - promoters second.\n\n* No advertising, buying, selling, trading, or begging for stuff. This includes but is not limited to tickets, merchandise, memorabilia, autographs, artworks, and games.\n\n* Exceptions can be made for giveaways or competitions, but these must be cleared by the mod team in advance.\n\n* No gambling posts or links permitted.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No low quality posts",
+            "description": "* Posts must rise to the level of a good submission. Low-quality and low-effort posts will be removed.\n\n* Text posts must be longer than a tweet on Twitter (280 characters). Appreciation posts, tier lists, impossible hypotheticals, selfies with personalities, screenshots, photos of your kids or pets watching Formula 1, etc, are some examples of low quality posts.\n\n* Memes, reaction gifs, rage comics, parody videos, or posts that are entirely jokes will be removed in almost all circumstances.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Use the sticky threads",
+            "description": "* As a general rule, an individual post should be...\n * ...of interest to the sub in general, and not a specific userbase (e.g. new users, GP attendees, just yourself)...\n * ...able to generate discussion (e.g. no yes/no or easily answerable questions)...\n * ...with reasonable input and effort from the OP\n* If not, use the Daily Discussion or another relevant sticky thread before submitting a new post. Posts which are more suitable as comments in a sticky thread will be removed.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Posts should be relevant",
+            "description": "* In general, content on r/formula1 should reflect news and discussion about the sport, but we do make allowances for loosely-relevant content and content related to other racing series under certain conditions.\n\n* Random images, throwbacks, social posts, etc are susceptible to removal. Art posts are allowed only on Tuesdays. Any post may be removed if deemed too irrelevant to F1.\n\n* F1TV, the video games, and race attendance are some examples of topics considered beyond the scope of the sub.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No repost/duplicate content",
+            "description": "* Reposts are highly susceptible to removal - always check the \"new\" post feed before submitting.\n\n* Duplicate content will include content that has already been shared from a different source but is not a verbatim copy, posts which piggyback off of others, etc.\n\n* If the original post breaks other rules, or if a repost is somehow superior to the original and/or better received by users, the repost may be retained as the primary post according to common sense discretion.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Do not editorialise titles",
+            "description": "* When posting news or videos, do not alter the original headline or title. Stick to the facts. Add your commentary in the comments.\n\n* Hashtags and emojis in post titles are not allowed. If the original title is non-English, a translation of that title should be used.\n\n* If an uneditorialised title would be counterproductive, some exceptions may be permitted (e.g. when using the Quotes flair).\n\n* Posts with titles which make little or no effort to summarise their content will be removed.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Link to the source",
+            "description": "* Always link to the source. Instead of posting a link to a tweet linking to an article, post a link directly to the article instead. Instead of posting a screenshot of an article, link to the article itself. Make an effort to find the original source.\n\n* Instagram posts are an exception - screenshots are allowed.\n\n* Don't post large excerpts from articles in the comments. These will be removed as they deprive content creators of page hits. Translations are the only exception to this rule.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Spoilers for other series must be properly marked",
+            "description": "* When posting about different racing series, do not include spoilers (who, when) in the title for a minimum of 24 hours after the event has ended, including spoilers that can be inferred/implied. Use spoiler tags where appropriate.\n\n* This only applies to other racing series. Fans of other series visiting r/formula1 shouldn't expect to see spoilers for other series here, but to avoid spoilers for Formula 1 itself, you will have to avoid the sub until you have caught up on the latest event.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Other rule violations",
+            "description": "* It is important to read the full r/formula1 rules page.\n\n* Other cases where moderator intervention should be expected are described in the full r/formula1 rules, along with explanations and clarifications of the rules listed above.\n\n* Mods reserve the right to act on any account, post, or comment for any reason we believe is in the best interests of the community.\n\n**⚠️ These are the *abridged* rules. Please read the [full r/formula1 rules](https://www.reddit.com/r/formula1/wiki/userguide)!**",
+            "kind": "all"
+        }
+    ]
+}

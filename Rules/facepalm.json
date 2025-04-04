@@ -1,0 +1,56 @@
+{
+    "subreddit": "facepalm",
+    "subscribers": 8157701,
+    "rules": [
+        {
+            "Rule_title": "No uncivil, bigoted, misogynist, misandrist, racist comments or posts.",
+            "description": "No namecalling or personal attacks.  No bigotry including but not limited to racism, homophobia, transphobia, sexism, etc.  [READ MORE HERE](https://www.reddit.com/r/facepalm/wiki/rule9)",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Misinformation",
+            "description": "Comments or posts that actively counter a plurality of scientific consensus or other well established facts.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Memes",
+            "description": "",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No language error posts",
+            "description": "Errors of language are not Facepalms.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No jokes/satire/trolls posts",
+            "description": "",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Remove identifying personal information",
+            "description": "Please obscure/remove: names, usernames, business names, and other identifying elements from posts. (Only applicable to possible witch-hunt posts)",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No 'likes\"/\"shares\" posts",
+            "description": "\"This was shared x times\", \"This received x up/downvotes/likes\", etc, are not Facepalms",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No \"Reddit Meta\" Posts",
+            "description": "No beefing about Reddit bans, posts, mods or subs.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No posts about politicians being politicians",
+            "description": "",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No posts attacking a political party or side",
+            "description": "",
+            "kind": "link"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "subreddit": "wow",
+    "subscribers": 3017534,
+    "rules": [
+        {
+            "Rule_title": "Be Civil and Respectful",
+            "description": "Always engage respectfully with others. Hate speech, personal attacks, and derogatory comments will not be tolerated. \nPlease note that some common terms in the WoW community are ableist. Examples of these include, but are not limited to: 'huntard', 'wheelchair class', or variations of these.\nDo not create posts or comments just to incite a negative reaction. Do not try to make someone angry, scared, sad or embarrassed. Purely unconstructive negative posts are subject to removal.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No ToS Violations",
+            "description": "Do not engage in or promote activities like account trading, real money trading (RMT), exploits, or third-party programs that violate Blizzard’s Terms of Service.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Real-World Politics",
+            "description": "Politics in the real world are often divisive, polarizing, and unrelated to WoW. Whilst many fantasy stories often contain elements of real historical events, bringing real-world political figures into analysis of WoW lore will more often than not derail the conversation into a political argument.\n\nWe may make an exception for discussions directly related to Activision-Blizzard.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Call-Outs or Witch Hunts",
+            "description": "Do not post to shame, target, or call out specific individuals or guilds. This includes smear campaigns or encouraging others to boycott or support specific people.\nIf posting a screenshot of your game, please block out all character and guild names unless the post is not negative and the names are required to understand your submission, such as puns or coincidental names.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Spoilers Must Be Marked",
+            "description": "Any spoilers related to unreleased content must be properly marked with a spoiler warning. This includes story content, cinematics, and datamined items.\nIf your post contains spoilers, your title must be spoiler-free.\nContent relating to the story of World of Warcraft (for example - in-game cinematics, story reveals during questlines) is considered a spoiler until 7 days after American and Oceanic release. This is to give players in all time zones plenty of time to access that part of the story.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Posts must be about WoW",
+            "description": "Posts must be about World of Warcraft. In the case of images or videos, we consider the content without text (title, caption) to decide if a post is related. If the relevance is debatable, we moderate to the spirit of our subreddit values.\nReal life photos that look like WoW must be posted with a side by side comparison.\nFor posts related to WoW personalities and esports, the content must focus on players' interactions with WoW, not their lives outside of the game.\nMemes must contain WoW imagery",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Misrepresentation and Clickbait Prohibited",
+            "description": "Submission titles that are vague, memetic, inaccurate or contain no context will be removed. Your title should accurately describe the content of your post.\nAny posts intended to spread misinformation will be removed.\nDo not use titles such as 'DAE, ELI5, AITA, unpopular opinion or other \"give me karma/gold\" Reddit titles. Do not ask for upvotes or gold in your title.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Spam or Excessive Self-Promotion",
+            "description": "Excessive self-promotion or spam is not allowed. Limit promotional content to once every 7 days, and do not post low-effort content. For more information on what is and isn't counted as spam, [read our longer rules](https://www.reddit.com/r/wow/wiki/rules#wowbtn:~:text=in%20your%20title.-,Spam/Self%20Promotion,-Excessive%20submissions%20or).",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Reposts",
+            "description": "We will remove a post if it is a frequent or blatant repost of previous content.\n\nCommon issues are subject to removal - Such as typos, textures that failed to load, failed 100% missions, bugged fire giants, weird characters, failed missions in the mobile app, stuck character torsos, loading screen tips, or corrupted item tooltips (delete your cache).\n\nAt the discretion of the moderators we may put a moratorium on a particular type of post or meme-of-the-week for a period of time.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Respect Art and Creative Work",
+            "description": "When posting art, always credit the original creator. For your own work, use titles like [OC] or [I Made] to avoid confusion.\nTattoo posts require an artist's name and studio in the title.\nWe are not currently allowing AI content of any kind on our subreddit.\n",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Recruitment / LFG / Find My Friend",
+            "description": "Guild, group, and Discord advertisements are limited to the Reset Recruitment Sticky (every Tuesday) Check out /r/wowguilds or the [wiki page for related Discord servers](https://www.reddit.com/r/wow/wiki/discord) for further resources. Recruit a Friend posts belong in /r/wowraf.\nWe cannot allow 'find my friend' posts - we can't make a decision on whether you’re really an old friend, or a crazy stalker.\nCommunity Raids are the exception to this rule.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Petitions / Polls / Giveaways",
+            "description": "No petitions, StrawPolls, or fundraisers. Academic or Research surveys may be allowed at the mod team's discretion with prior approval (send us a Modmail).\nNo giveaways by individuals. Due to concerns over user privacy and security, we only allow giveaways from verified organizations. The mod team lacks the necessary tools to confirm individuals are who they say they are, that their advertised prize is real, and it is not some form of scam.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "NSFW / Porn",
+            "description": "Sexually explicit content, smut, or other content that is racier than in-game depictions is not allowed.\n\nIf your submission isn't racier than the game but you still wouldn't want your boss to see it, flag it as NSFW.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Transmog",
+            "description": "Transmog posts require an item list. Warband pictures are considered transmog and are also subject to these rules.\n\nItem lists should be top level comments (i.e. not a reply to some other comment) and actually in list form (i.e. do not write \"it's mostly t6, but t8 shoulders and pvp tabard\").\n\nIncluding the item list in the image alone is not sufficient for accessibility reasons. You will still need to provide a top level comment.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "For more info and our other rules, follow this link",
+            "description": "Due to limitations on how many rules we can have on the newer version of Reddit, to read the rest of our rules please follow [this link](https://www.reddit.com/r/wow/wiki/rules#wowbtn:~:text=top%20level%20comment.-,Quick%2DFire%20Rules,-Pictures%20of%20chat).",
+            "kind": "all"
+        }
+    ]
+}

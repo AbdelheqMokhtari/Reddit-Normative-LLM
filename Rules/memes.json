@@ -1,0 +1,36 @@
+{
+    "subreddit": "memes",
+    "subscribers": 35420658,
+    "rules": [
+        {
+            "Rule_title": "Rule 1 - ALL POSTS MUST BE MEMES and FOLLOW A GENERAL MEME FORMAT",
+            "description": "All posts must follow typical meme setup/design: an image/gif/video with some sort of caption; mods have final say on what is (not) a meme; tldr:\n\n- No titles as meme captions\n- A GIF/video alone (without caption) is not a meme [especially screen recording / scrolling]\n- Do not post screenshots of people saying something funny on Twitter/Tumblr/Reddit/TikTok/text messages\n- No unedited webcomics\n- No text-only memes\n- No IRL recreations or creepshots; no selfies or making friends into a meme",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Rule 2 - NO MEMES ABOUT POLARIZING/POLITICAL TOPICS, VULNERABLE GROUPS, VIOLENCE, ETC. [SEE LIST]",
+            "description": "- No violation of Reddit Content Policy/TOS\n- No memes involving race, ethnicity, color, nationality, gender, sexual orientation/identity, religion, disability, etc. (can have a character, but that part cannot be integral)\n- No mention of gore, murder, suicide, death, terrorism, shootings, war, tragedies, sexual harassment/assault, pedophilia (even implied), incest, etc.\n- No politics/political topics/agendas; absurd memes featuring politicians are allowed if said status is merely incidental",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Rule 3 - NO SPAM/CHAINPOSTING and NO OVERUSED/PROHIBITED MEME TEMPLATES [SEE LIST]",
+            "description": "- [List of overused/prohibited meme types/templates](https://www.reddit.com/r/memes/wiki/overused) READ THE LIST (monthly)\n- Reaction Memes are not allowed. Do not post a top/bottom image onto a screenshot, headline, comic, meme, or other content. [See guide.](https://imgur.com/a/CRwobws)\n- No split/linked posts (either between yourself or others), no chainposting. Do not flood the sub\n- NSFW posts must be marked; the central focus of the meme cannot be porn\n- Do not post over 5 times per 24 hrs",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Rule 4 - NO INTERACTION-BAITING POSTS/TITLES and NO IDENTIFYING INFO/WATERMARKS",
+            "description": "- No usernames (other than your Reddit u/); do not show/link any social media/self-promote\n- Other than soft identifiers like mematic, no watermarks (iFunny is not allowed)\n- Do not post/request identifying info.\n- No posts relying on audience interaction (karma farms); examples: petitions, AMAs, \"Comment X and I'll do Y\", \"wrong answers only\", guessing/writing/rating songs, etc. [rhetorical questions may be OK, subject to mod judgment]\n- No mention of votes/cake days/karma/followers, etc.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Rule 5 - NO VIDEOS LONGER THAN 15 SECONDS and DIRECT REDDIT UPLOADS ONLY (NO LINKS)",
+            "description": "- Upload directly to Reddit; do not link to hosting sites like imgur\n- No videos longer than 15 seconds (and must include captions/meme text overlay)\n- No intentionally loud audio\n- Videos should not be TikToks or other non-meme content: Not every image/gif/video is a meme. This is what r/pics, r/gifs, or r/videos are for. Even if an image is comedic, it still may not be a meme if it's missing a caption/commentary\n- Gifs (w/ captions) are always allowed, as long as they don't violate other rules",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Rule 6 - ONLY POST MEMES YOU ACTUALLY MADE YOURSELF/NO REPOSTS and NO BAD CROPPING/LOW-RES MEMES",
+            "description": "- If you found a meme somewhere else, do not post it here\n- If you want to post across other sites/subs, post to r/memes first. We will not look into your Instagram, TikTok, Facebook, etc. to verify the creator\n- Do not repost your same meme again later. Even mentioning the word \"repost\" is grounds for removal\n- Mods have discretion to remove posts which are poorly cropped (inc. aspect ratio), low resolution, grainy, artifacted, or pixelated. The mod team doesn't have to prove it is a repost",
+            "kind": "link"
+        }
+    ]
+}

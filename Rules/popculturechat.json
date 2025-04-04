@@ -1,0 +1,81 @@
+{
+    "subreddit": "popculturechat",
+    "subscribers": 5124268,
+    "rules": [
+        {
+            "Rule_title": "CIVIL DISCUSSION ONLY",
+            "description": "This subreddit is for civil discussion only. While shade, wit &amp; snark are welcome, bullying, harassment, bigotry &amp; personal attacks are not. This applies to celebrities too. Remember the human.\n\nDon't attack other users for their fandom. Don't use someone's post history to attack them. Don't bait users. Treat everyone with respect. Attack the argument, not the person.\n\nThis is not \"Mean Girls.\" Everyone can sit with us if they are respectful &amp; engage in good faith. Keep it cute or keep it mute!",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "NO ISMS / PHOBIAS / HATE SPEECH",
+            "description": "While we support marginalized communities' rights to reclaim slurs, we do NOT support bigotry or using bigoted language to denigrate anyone. This includes but is not limited to: racism, sexism, ableism, ageism, homophobia, transphobia &amp; xenophobia.\n\nThis subreddit is an inclusive LGBTQ+, BIPOC woman-dominated space. Bigotry is not welcome here.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "RUMORS &amp; GOSSIP",
+            "description": "Do not mislead or use poor sourcing. Any unverified rumors should be clearly labeled as such &amp; only cite from respected &amp; reputable sources. Anything else will be removed. Absolutely no QAnon content allowed.\n\nWe provide a weekly tea discussion post where you can discuss unverified gossip. Please keep it in the space we provide for you.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "APPEARANCE &amp; OBJECTIFICATION",
+            "description": "No objectification, slut shaming, victim blaming, slurs, or derogatory insults on appearance and/or weight. A lot of celebrities have had work done, and many may alter their online appearances with photoshop and other filters. It’s fine (and healthy!) to discuss these things in a world obsessed with beauty standards but we don’t need to be overly negative and tear someone down to do that.\n\nIf someone can't change their appearance within minutes, don't make negative comments. Be kind!",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "CELEBRITY CHILDREN",
+            "description": "Self-explanatory. Immediate bans for any negative comments directed to or about anyone under the age of 18.\n\nPhotos of celebrity children without their parents (yes this includes bday posts or creepy fan sites for celeb children) will be removed &amp; the post authors will be suspended pending review.\n\nWe do allow photos that have been posted publicly by the parents on social media. However, be very respectful &amp; don't make an entire post dedicated just to the child.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "SOCIAL MEDIA POSTS",
+            "description": "It’s fine to share social media posts but we require the names to be blocked out unless it’s a verified account, meme, a celebrity or the name has appeared in the news (public). Posts that violate this rule will be removed until the information is hidden.  \n\nDo not post direct links, please screenshot or screen record and upload the media directly to reddit.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "USE THE SPOILER FLAIR",
+            "description": "Since this is a pop culture sub we will talk about new releases &amp; spoilers. However, we require all spoilers to use the spoiler flair. Comments with spoilers not in a flaired spoiler post must be covered. No spoilers in the title.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "NO META DISCUSSION",
+            "description": "No meta discussion allowed! We will have regular meta &amp; off-topic posts where members of the sub can talk about everything under the sun that is not celeb-related. Every other time? Stay on topic &amp; keep it cute.\n\nIf you have suggestions or wish to vent you can always use modmail or discuss it in the areas we provide for meta chat. Repeatedly ignoring this rule will result in a ban.\n\nIf you decide to leave the sub, you don’t need to make a post to say goodbye.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "NO LOW EFFORT POSTS",
+            "description": "No low-effort/low-quality posts or post titles.   \n\n**ALL POSTS REQUIRE THE CELEBRITY’S NAME IN THE TITLE!**  \n\n* Name subjects in the post title. The more context, the better!\n* Descriptive title\n* Submit articles as link posts unless shared within a descriptive text post.\n* Links require context (title/comments)\n* Content originating from social media platforms must be directly uploaded to Reddit. No social media link posts.\n* Paparazzi pictures must contain date + location\n* HQ photos\n",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "NO REPOSTS",
+            "description": "To keep the conversations fresh &amp; interesting, similar posts may be removed. All reposts of megathread questions/topics or pinned content will be removed.\n\nReposts are defined as posting the same meme, content, question, news article, etc. with similar titles, discussion questions, or the like. Do not rehash the same topic by posting something that could be a comment in a current thread.\n\nIf there's already a current post for the topic, you can provide updates with images/links in the comments.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "HEALTH ANALYSIS &amp; TRIGGERS",
+            "description": "No overly invasive diagnoses of strangers or suggestive commentary about their physical or mental health, including addiction. No armchair diagnosing. Be extremely mindful of the language you use.\n\nRespect boundaries &amp; respect that your experiences are not everyone’s. Most importantly respect your own energy and know when to step back.\n\nFor posts with triggering content, a brief description is required in the first line of the text post (e.g. TW: Reason). Use the trigger warning post flair.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "DEADNAMING &amp; PRONOUNS",
+            "description": "No deadnames. Respect this always, regardless of the context or if referring to someone pre-transition. If you are unsure they/them will suffice. Any &amp; all wilful disrespect with this rule is a ban-worthy offense. No excuses.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "NO SPAM OR SELF-PROMOTION",
+            "description": "No links to your own social media, companies, blogs, brands, unverified news sources, etc.\n\nSelf-created content, such as fan art/fan edits, is allowed &amp; encouraged! There are exceptions if a video or article is a deep dive or informational. In these cases, we ask for context to open discussion on said post. Moderator discretion applies.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "POLITICAL &amp; SOCIETAL DEBATE",
+            "description": "No overly political posts or comments. While we do allow discussions around politics, this isn't a political sub. If it doesn't fit in pop culture, it doesn't belong here.\n\nThere will be times when societal discussions happen. Healthy discussions around societal topics are fine as long as you engage in good faith.\n\nBe respectful to others who do not share your viewpoint. If someone is purposely trolling, do not engage! Report any rule violations to the mods via the report button or modmail.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "NO REPOSTING LUIGI MANGIONE'S MANIFESTO OR SHOWING SUPPORT FOR VIOLENCE",
+            "description": "\n*Any posts or comments that repost or encourage the manifesto will be removed.\n\n*Any posts or comments that show support for violence, including expressing positive feelings toward the death of Brian Thompson or similar content, will be removed.\n\nWe have been tasked by Reddit to crack down on any form of \"encouraging violence\". This includes Luigi Mangione's manifesto.  We understand that this is frustrating, but we must comply in order to protect our subreddit. ",
+            "kind": "all"
+        }
+    ]
+}

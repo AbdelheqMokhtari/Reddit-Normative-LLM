@@ -1,0 +1,81 @@
+{
+    "subreddit": "Helldivers",
+    "subscribers": 1963554,
+    "rules": [
+        {
+            "Rule_title": "Be Civil",
+            "description": "No insults, racism, toxicity, trolling, rage-bait, harassment, inappropriate language, NSFW content, etc. Remember the human and be civil!",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No reposts",
+            "description": "To avoid cluttering the subreddit, reposts and posts that follow a trending topic is not allowed. Please use the search function.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No spamming",
+            "description": "Spamming the same posts/comments is not allowed. ",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No begging",
+            "description": "No posts/comments begging for free games, giveaways, discounts... Asking for upvotes (and downvotes!) is also not allowed",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No naming and shaming",
+            "description": "No witch-hunts, public shaming or negatively naming other people. Please refer to [this post](https://www.reddit.com/r/Helldivers/comments/1b308j9/witchhunting_is_against_the_rules_of_this/).",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Credit the original creator",
+            "description": "Please tag or credit the original creator of the fanart or image you are sharing.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No low efforts posts/comments",
+            "description": "Posts/comments should spark, facilitate, or contribute meaningful discussion and content. Submissions consisting of one word, emojis only, misinformation, player count, or AI-generated content are also considered low-effort.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No LFG request posts (use the megathread)",
+            "description": "[LFG MegaThread](https://www.reddit.com/r/Helldivers/comments/1asxs8e/lfg_megathread/?utm_source=share&amp;utm_medium=web2x&amp;context=3) to find players or [Helldivers Recruitment](https://www.reddit.com/r/Helldivers/s/5QtNUQq2go) if you want to promote your discord server.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Posts/comments must be related to Helldivers",
+            "description": "All submissions must be related to Helldivers and comments must be related to the topic being discussed.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No leaks/cheats/exploits discussions",
+            "description": "Discussing [leaks](https://www.reddit.com/r/Helldivers/comments/1hhyv06/moderation_reminder_leaks_are_prohibited_and/), leaking images, videos or other types of media of upcoming content is not allowed. Discussions of cheats and exploits are not allowed.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Limited Self-promotion is allowed",
+            "description": "Follow Reddit's [guidelines on self promotion](https://www.reddit.com/r/reddit.com/wiki/selfpromotion), do not post links to your own content more than once every 7 days, or it will be considered spam. Links to shops, livestream channels and let's play-type videos will always be considered spam.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No real-world political discussions",
+            "description": "",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No low-quality rants/vents",
+            "description": "Post in the [Rant &amp; Vent Megathread](https://www.reddit.com/r/Helldivers/comments/1b9k51r/rant_and_vent_megathread/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button) instead.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Use the Q&amp;A Megathread for simple questions",
+            "description": "[Q&amp;A Megathread](https://www.reddit.com/r/Helldivers/s/x7ticZlVVQ)",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Submissions must be in English",
+            "description": "Posts/comments must be in English.",
+            "kind": "all"
+        }
+    ]
+}

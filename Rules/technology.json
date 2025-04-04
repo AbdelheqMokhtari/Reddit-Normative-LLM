@@ -1,0 +1,51 @@
+{
+    "subreddit": "technology",
+    "subscribers": 18666751,
+    "rules": [
+        {
+            "Rule_title": "Submissions must be about technology",
+            "description": "Submissions must be primarily news and developments relating to technology.\n\n[Self posts](https://www.reddit.com/r/technology/wiki/self-post-guide) must contribute positively to /r/technology and foster reasonable discussion. Cross-post self posts are not acceptable. \n\nSubmissions relating to business and politics must be sufficiently within the context of technology in that they either view the events from a technological standpoint or analyse the  repercussions in thetechnological world.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No images, audio, or video",
+            "description": "Articles with supporting image and video content are allowed; if the text is only there to explain the media, then it is not suitable. A good rule of thumb is to look at the URL; if it's a video hosting site, or mentions video in the URL, it's not suitable.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Titles must be taken directly from the article",
+            "description": "Submissions **must** use either the articles title and optionally a subtitle, or, ***only***  if neither are accurate, a suitable quote,  which must:\n\n* adequately describe the content\n* adequately describe the content's relation to technology\n* be free of user editorialization or alteration of meaning.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No technical support or help questions",
+            "description": "Requests for tech support, asking questions or asking for help: submit to /r/techsupport, /r/AskTechnology, another relevant community or our weekly [Support Saturday threads.](https://www.reddit.com/r/technology/search?q=flair%3ATechSupport%26sort%3Dnew%26author%3AAutoModerator%7Cveritanuda&amp;restrict_sr=on&amp;sort=new&amp;t=all)",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No petitions, surveys, or crowdfunding",
+            "description": "Please do not submit any petitions, surveys, crowdfunding, or any other call to action or fundraising.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No customer support or feedback",
+            "description": "Please do not submit discussions of one or more incidents of customer support or customer feedback.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No directed abusive language",
+            "description": "You are advised to abide by [reddiquette](https://www.reddit.com/wiki/reddiquette); it will be enforced when user behavior is no longer deemed to be suitable for a technology forum. Remember; personal attacks, directed abusive language, trolling or bigotry in any form, are therefore not allowed and will be removed.",
+            "kind": "comment"
+        },
+        {
+            "Rule_title": "Reposts",
+            "description": "Please do not submit articles that are already covered by submissions currently in r/technology. Please doublecheck reddit.com/r/technology/new to make sure the topic you're submitting is unique.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Spam",
+            "description": "Do not submit anything you have personally written or any projects, websites, or companies you are affiliated with or represent. You are to abide by the site-wide Terms of Service and Content Policy regarding Spam and Self Promotion. No exceptions.",
+            "kind": "all"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "subreddit": "Overwatch",
+    "subscribers": 6057846,
+    "rules": [
+        {
+            "Rule_title": "Must be relevant to Overwatch.",
+            "description": "These are **not** our complete rules. We utilize the page so our users have proper reporting reasons. To read our rules, please visit the [rules page on our wiki](https://www.reddit.com/r/Overwatch/wiki/rules).",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Titles must be clear and accurate.  No spoilers in titles.",
+            "description": "These are **not** our complete rules. We utilize the page so our users have proper reporting reasons. To read our rules, please visit the [rules page on our wiki](https://www.reddit.com/r/Overwatch/wiki/rules).",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No low-quality, low-effort, or repetitive content.",
+            "description": "These are **not** our complete rules. We utilize the page so our users have proper reporting reasons. To read our rules, please visit the [rules page on our wiki](https://www.reddit.com/r/Overwatch/wiki/rules).",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No NSFW/NSFL content.",
+            "description": "These are **not** our complete rules. We utilize the page so our users have proper reporting reasons. To read our rules, please visit the [rules page on our wiki](https://www.reddit.com/r/Overwatch/wiki/rules).",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Be civil. No personal attacks or hateful speech.",
+            "description": "These are **not** our complete rules. We utilize the page so our users have proper reporting reasons. To read our rules, please visit the [rules page on our wiki](https://www.reddit.com/r/Overwatch/wiki/rules).",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Terms of Service Violations",
+            "description": "These are **not** our complete rules. We utilize the page so our users have proper reporting reasons. To read our rules, please visit the [rules page on our wiki](https://www.reddit.com/r/Overwatch/wiki/rules).",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No Witchhunting or Cheating Accusations.",
+            "description": "These are **not** our complete rules. We utilize the page so our users have proper reporting reasons. To read our rules, please visit the [rules page on our wiki](https://www.reddit.com/r/Overwatch/wiki/rules).",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Site Violations",
+            "description": "These are **not** our complete rules. We utilize the page so our users have proper reporting reasons. To read our rules, please visit the [rules page on our wiki](https://www.reddit.com/r/Overwatch/wiki/rules).",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Use Correct Flair.",
+            "description": "These are **not** our complete rules. We utilize the page so our users have proper reporting reasons. To read our rules, please visit the [rules page on our wiki](https://www.reddit.com/r/Overwatch/wiki/rules).",
+            "kind": "link"
+        }
+    ]
+}

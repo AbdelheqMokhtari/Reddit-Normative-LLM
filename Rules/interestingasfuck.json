@@ -1,0 +1,66 @@
+{
+    "subreddit": "interestingasfuck",
+    "subscribers": 13686727,
+    "rules": [
+        {
+            "Rule_title": "Posts MUST be INTERESTING AS FUCK!",
+            "description": "All content must show something that is objectively interesting as fuck. Just because you find something IAF doesn't mean anyone else will. It's impossible to define everything that could be considered IAF, but for a general idea browse the [top posts of all time](https://www.reddit.com/r/interestingasfuck/top/?t=all) from this subreddit.\n\nFor more information check [here](https://www.reddit.com/r/interestingasfuck/wiki/index#wiki_rule_1_-_posts_must_be_interesting_as_fuck).",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Politics",
+            "description": "To maintain the quality of content and the positive vibe in this community, we will no longer allow political posts.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Titles must be descriptive and directly related to the content",
+            "description": "Titles should describe the content of the post. If you're going to claim facts/interesting as fuck stuff in the title the image/gif/video/article/content should show that claim in some way. Do **NOT** put anything in the title that isn't clearly visible in the content of your post.\n\nFor more information check [here](https://www.reddit.com/r/interestingasfuck/wiki/index#wiki_rule_2_-_titles_must_be_descriptive_and_directly_related_to_the_content).",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No porn or gore",
+            "description": "Neither porn nor gore is interesting as fuck. Some nudity might be tolerated if it is correctly labeled as NSFW and if it isn't the main point of the content.\n\nhttps://www.redditinc.com/policies/content-policy",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No doxing/witch hunts or meta related posts",
+            "description": "Personal information includes (but is not limited to) names not in the public domain.\n\nNo linking to any social media account/content(even if the account is public) with the purpose of doxing or brigading.\n\n**Subreddit-related meta-drama is not allowed.** Any stalking, harassment, witch-hunting, or doxing will not be tolerated and will result in a ban.\n\nFor more information check [here](https://www.reddit.com/r/interestingasfuck/wiki/index#wiki_rule_4_-_no_doxing.2Fwitch_hunts).",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Provide a source when the title is in doubt",
+            "description": "If you can't completely explain why the content of the post is IAF please comment with more explanation. \n\nIf your post claims something that almost everyone can't easily confirm from reading your title and viewing your content please provide some type of proof of what you claim.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No FCoO/flooding",
+            "description": "False claims of ownership(FCoO), posting a picture that isn't yours but pretending like it is, will result in a ban.\n\nFlooding (more than three posts in a rolling twenty-four-hour window) will also result in a ban.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No self-promotion",
+            "description": "Content creators, that are also normal users, are only allowed to post content that is not connected to their own content. Anything more may result in temporary or permanent bans.\n\nAccounts that exist solely to advertise or promote will be banned, regardless of how or where the promotion itself occurs.\n\nFor more information check [here](https://www.reddit.com/r/interestingasfuck/wiki/index#wiki_rule_7_-_no_self-promotion).",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Be civil",
+            "description": "Inappropriate behavior or content will be removed and can result in a ban. This includes (but is not limited to) personal attacks, fighting words, or comments that insult or demean a specific user or group of users.\n\nBigotry, hate, and racism are not allowed. We are a strictly anti-bigotry community. \n\nFor more information check [here](https://www.reddit.com/r/interestingasfuck/wiki/index#wiki_rule_8_-_civility).",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Repost limitations",
+            "description": "To keep our sub fresh and avoid having the same content constantly pop up we currently remove reposts of content that are currently on the front page of /r/Interestingasfuck.\n\nAdditionally, we remove reposts of the top 25 content of this year, and the top 50 of all time.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No gossip or tabloid-type material",
+            "description": "This isn't the place for celebrity news or general \"TIL\" type posts.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Additional/temporary rules",
+            "description": "* **Do NOT private message individual mods or you will be banned.**\n\n* Serial reposters may be filtered or banned.\n\n* Established accounts will get escalating bans if they willfully ignore the posting rules\n\n* We require new users to post original content, not lazy reposts. Reposting as a very new account might get you banned\n\n* All posts by new users require mod approval in order to weed out spammers.\n\n* Please mark spoilers like this:  `&gt;!text here!&lt;` Click/tap to &gt;!read!&lt;.",
+            "kind": "all"
+        }
+    ]
+}

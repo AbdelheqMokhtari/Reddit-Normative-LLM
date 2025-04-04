@@ -1,0 +1,81 @@
+{
+    "subreddit": "leagueoflegends",
+    "subscribers": 8112154,
+    "rules": [
+        {
+            "Rule_title": "Please Read the full Rules on the sub. These are just several important ones",
+            "description": "[Link to Full Subreddit Rules here](https://www.reddit.com/r/leagueoflegends/wiki/subredditrules/)",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Personal Attacks",
+            "description": "Do not insult, personally attack, or tell other people to hurt themselves or others. \"The other guy started it\" or \"I was just joking\" is not justification for insulting other users.\n\nHate speech is prohibited. Racist, sexist, homophobic, transphobic, and other discriminatory speech will be removed.\n\n[Full description](https://reddit.com/r/leagueoflegends/wiki/subredditrules#wiki_no_personal_attacks)",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "All Claims Require Evidence",
+            "description": "News on information unavailable or inaccessible to the wider public requires sources.\n\nClaims about or against distinct entities must have sources or proof supporting them and present them in an unbiased manner. Falsification of evidence will be dealt with severely.\n\n[Full Description](https://www.reddit.com/r/leagueoflegends/wiki/subredditrules#wiki_claims_require_evidence)",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Excessively Sexual or Violent Content/No NSFW",
+            "description": "Pornographic content, smut, or other content that is racier than in-game depictions is not allowed.\n\nContent that depicts gratuitous and graphic physical violence or gore is not allowed.\n\nWhen linking to NSFW subreddits or websites mark them as NSFW.\n\n[Full Description](https://www.reddit.com/r/leagueoflegends/wiki/subredditrules#wiki_no_excessively_sexual_or_violent_content)",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Don't Discuss or Advertise Cheats or Exploits",
+            "description": "DO NOT:\n\nAdvertise buying, selling, trading, sharing, or giving away of League of Legends accounts.\n\nAdvertise buying or selling of boosting services, win trading, or leveling bots.\n\nAdvertise or discuss scripting or exploits of the game, code, or where to find them.\n\nDiscuss or post content showing how to use hacks or disallowed third party programs.\n\n[Full description](https://reddit.com/r/leagueoflegends/wiki/subredditrules#wiki_don.27t_share_how_to_cheat)",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Posts Must Be Directly Related To League of Legends",
+            "description": "Posts must focus on and be directly related to League of Legends: the game, the league community (fanart, cosplay, fanfiction, etc), and league esports. For posts related to personalities and esports, the content must focus on players/orgs interactions with the game and not their lives outside of it.\n\n[Full description](https://www.reddit.com/r/leagueoflegends/wiki/subredditrules#wiki_must_be_directly_related_to_league_of_legends)",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Specific restricted content (see rules for list)",
+            "description": "Short jokes, puns, or similar posts are not allowed. Longer, humorous content and relevant satire are allowed.\n\nAll text submissions must have a minimum 100 characters in the body text. Posts that only consist of short title references like \"Title\", \"^\", etc will be removed.\n\nNo tech support or account-related support requests/questions. This includes posts about personal bans.\n\n[Full description](https://www.reddit.com/r/leagueoflegends/wiki/subredditrules#wiki_specific_content_restrictions)",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Don't Address Individuals or Distinct Entities",
+            "description": "This subreddit is here for users to communicate with each other and not just pass a message to an organization or individual without involving a major subset of the community. Posts must be made so that any user can participate in the discussion in a relevant manner. As such, you cannot directly address individuals, entities, or organizations in the entirety of posts made.\n\n[Full description](https://www.reddit.com/r/leagueoflegends/wiki/subredditrules#wiki_don.27t_address_individuals)",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Feature Suggestions",
+            "description": "Feature suggestions regarding what should or should not be in the game are allowed, provided they aren't directly addressing Riot or using titles leading to a \"Yes, No\" answer that can only be replied in an official manner by Riot. As such, using wording like \"Can we have X\" or similar is not allowed.\n\nFeature suggestions must also be at least 250 characters in length.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Personal Stories",
+            "description": "Personal stories must follow our relevancy rules and exceed 500 characters in length. Sob stories and rant posts are not allowed. \"Rants\" are defined as hyperbolic, acerbic, or otherwise inflammatory expressions of dissatisfaction.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Spoilers have to be tagged",
+            "description": "Spoilers for the results of professional games are not allowed in titles for 24 hours following the match. Posts that contain spoilers in the body must have the spoiler tag.\n\nIn the case of Bo3/Bo5 games in a tournament setting the spoiler rule will be lifted on the next day when either team begins their next game.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Esports Content Restrictions",
+            "description": "LEC, LCS, and major international event live discussion threads will be stickied automatically at the start of a game day.\n\n[Full description](https://www.reddit.com/r/leagueoflegends/wiki/subredditrules/#wiki_esports_content_restrictions)",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No Vague or Misleading Titles",
+            "description": "Vague, contextless, memetic, or inaccurate titles are not allowed. Titles should represent or describe the content of a post.\n\nSingle word titles or titles that are majority capital letters are not allowed.\n\nText posts must have a minimum of 100 characters that accurately describe the content of the post. Irrelevant content and text posts that are just links will be removed.\n\n[Full description](https://reddit.com/r/leagueoflegends/wiki/subredditrules#wiki_titles_require_context)",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Short duration content belongs in a text post",
+            "description": "Short duration content can only be submitted in a text post. This includes:\n\n* All images and GIFs, excluding infographics.\n* Videos under 15 seconds.\n* Tweets are only allowed in a text post containing at least 250 characters.\n* Direct links to Reddit comments.\n\n[Full Description](https://www.reddit.com/r/leagueoflegends/wiki/subredditrules/#wiki_short_duration_content_belongs_in_a_text_post)",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Reposts",
+            "description": "A post may be considered a repost if it covers the topic from nearly the same angle as existing posts.\n\nFrequently asked questions and topics will be removed. Please use the search function.\n\nPosts will no longer count as a repost at 1 month for posts over 300 upvotes and 1 week for posts between 50 and 300 upvotes.\n\nPlease note that when multiple people attempt to post the same content in a short period, we may approve the one with the most traction and remove others.",
+            "kind": "link"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "subreddit": "rareinsults",
+    "subscribers": 2905536,
+    "rules": [
+        {
+            "Rule_title": "Don't be a dick",
+            "description": "It's not that hard, just be nice to eachother",
+            "kind": "comment"
+        },
+        {
+            "Rule_title": "No hateful insults",
+            "description": "Don't post hateful insults",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Repost",
+            "description": "Dont repost. Please refer to our [common repost album.](https://imgur.com/a/8XDVQtt)",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Not an insult/threat or rare insult/threat",
+            "description": "/r/rareinsults is not for unfunny/common insults, this includes insults that follow the random [adjective]+[noun] formula. It is only for rare insults. No other post types are allowed.\n\nCorporate insults also fall under this category. [Click here to learn more!](https://redd.it/ghj57g)",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No personal information",
+            "description": "Personal information includes: full names, phone numbers, emails, and addresses.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No politics",
+            "description": "Political submissions will be removed and posters will be permanently banned.\n\nThis includes mention of politicians, political commentators, unelected public officials, and political movements.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "All posts require a proper title",
+            "description": "No low effort titles or titles that contain the insult. Examples are \"for those sorting by new\" or \"lmao he called this dude a deformed shrimp.\"\nIf your post is removed for another reason and you repost, do not title your post \"reposting because it was removed.\"",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No long videos (&gt;10s) or long texts",
+            "description": "Don't post long videos and don't post long texts. If the entirety of the long text is an insult, then it belong on /r/murderedbywords, and if it is a long text with only a small insult buried inside the text, it will be removed.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No image macros/memes",
+            "description": "Posting memes or images with text on them(image macros) aren't allowed as they detract from the main point of the subreddit, which is rare insults. Memes are off-topic and belong in other subreddits.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No crossposts",
+            "description": "No crossposts",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No r/RoastMe",
+            "description": "Insults from r/RoastMe are not allowed, as people have time to sit and think of clever insults rather than coming up with them in the moment.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Moderators Discretion",
+            "description": "Moderators reserve the right to remove any post they deem unfit for the subreddit, even if it doesn't explicitly break any rules. This rule will only be used in specific ways, such as one/two word posts, posts in different languages, etc. This is extremely subjective and mostly up to the judgement of the mods using it, so if you disagree with this rule being used to remove your post, let us know using modmail",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Do not post your own insults",
+            "description": "These insults are typically very low quality and not rare. If you insult someone and it is truly a rare insult, someone else will post it for you.",
+            "kind": "all"
+        }
+    ]
+}

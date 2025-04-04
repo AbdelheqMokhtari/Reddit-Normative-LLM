@@ -1,0 +1,46 @@
+{
+    "subreddit": "2007scape",
+    "subscribers": 1189619,
+    "rules": [
+        {
+            "Rule_title": "Body of submission must be related to OSRS",
+            "description": "Submissions of links or images that are completely unrelated to Old School RuneScape (e.g. generic reaction gifs) will be removed.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Do not break Jagex/OSRS rules",
+            "description": "Do not break, promote breaking or submit content which breaks [Jagex's Terms and Conditions](https://www.jagex.com/en-GB/terms) or the [Rules of Old School RuneScape.](https://www.jagex.com/en-GB/terms/rules-of-old-school-runescape)  This includes naming, linking to or asking for websites related to botting, RWT, unauthorised clients, gambling, private servers, etc.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No flaming/trolling - keep things civil!",
+            "description": "Be nice! Help make /r/2007scape a welcoming place for all players by avoiding insults and personal attacks.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No \"Advice Animals\" or other image macros",
+            "description": "Image macros are images with automatically generated text that looks like [this](http://i.imgur.com/omjG34D.jpg).",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No posts asking for items/money",
+            "description": "Click [here](https://oldschool.runescape.wiki/w/Money_making_guide) for a guide on how to make money.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No accusing players of wrongdoing",
+            "description": "This is not the place to accuse players of wrongdoing. Report abuse in game and [contact Jagex](https://www.reddit.com/r/2007scape/w/faq#wiki_contacting_jagex) for serious issues. Feel like sharing? Please censor names wherever possible.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Self-promotion",
+            "description": "We welcome and encourage original content! Posts should feature a specific creation (e.g. artwork, video, or clip, rather than a general channel link), and not direct users to sites for donations or sales.",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No mute/ban appeals",
+            "description": "For more information about permanent game bans, click [here](https://goo.gl/pcFHwC).",
+            "kind": "link"
+        }
+    ]
+}

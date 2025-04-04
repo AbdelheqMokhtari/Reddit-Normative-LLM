@@ -1,0 +1,56 @@
+{
+    "subreddit": "DIY",
+    "subscribers": 26472993,
+    "rules": [
+        {
+            "Rule_title": "All content must be DIY",
+            "description": "Anything you submit must be a project that you yourself completed. Not your sister, father, uncle or best friend. You may only make your own posts, and you may only submit it once.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Basic Community Rules",
+            "description": "1. Original content only.\n2. Only completed projects are allowed. Incomplete projects may be removed.\n3. Submissions must include progress photos\n4. Submissions (including videos) must include details and instructions\n5. All content must be present without cost\n6. Please do not abandon your submission.  Be available to answer questions.\n7. Research before posting a help request in /r/DIY. Check Google; also search this subreddit's history.\n8. No Low Effort Questions (What Color?, Should I?, etc)",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "NSFW / Reddiquette / Civility",
+            "description": "Please keep all content safe for everyone, The following is **NOT** allowed:\n\n* Trolling/Toxic/Distasteful/Vulgar/Sexist/Racist/Hateful/Homophobic/Xenophobic or Uncivil content\n   * Juvenile humor and gutter trash talk will be removed, and repeat offenders will be banned\n\n* NSFW Content not suitable for all ages viewing (Pornographic / Semi-Nude / Overly Sexualized)\n\n* Gore/Injuries\n\n*(Mod discretion will be used in instances where the above is not adequate to describe the removed content.)*",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "𝗡𝗼 𝗦𝗮𝗹𝗲𝘀 | 𝗣𝗿𝗼𝗺𝗼𝘁𝗶𝗼𝗻𝘀 | 𝗔𝗱𝘃𝗲𝗿𝘁𝗶𝘀𝗶𝗻𝗴",
+            "description": "We do **NOT**  allow Sales | Promotions | Advertising of any kind.\n\n Including but not limited to:\n\n* Shirts|Pins|Buttons|Stickers|Posters|Rugs|Commissions| any \"For Sale\" Merch, Etc.\n* Crypto||NFTs|Digital Investments\n* Sharing or Promoting: Reddit Accounts|Subs|Services|Apps|Websites|Signups|Quizes|Stores|etc\n* Sharing: Social Media|Telegram|Discord|Youtube etc.\n* Contests|Voting|Surveys|etc\n\n**SUBMITTING ANY OF THE ABOVE WILL GET YOU BANNED!**\n\n---\n\n**use: www.redditinc.com/advertising**",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Google First, Reddit Last | Product Search",
+            "description": "Do not use r/DIY as your first stop for questions\n\n* Please check to see if your question has been asked before. Check owners manuals, tech support forums, contact the manufacturer or google it.\n\n* Google Lens / Google Images is your friend!\n\n* If you cannot provide proof that you have exhausted all of your research options, your post will be removed.\n\n---\n\nThese types of questions are not allowed:\n\n* Where can I find \\_\\_\\_ ?\n\n* Where is the best/cheapest place to buy \\_\\_\\_?",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Low effort posts",
+            "description": "You should provide a narrative of your project which can include: materials you chose,  why you chose them, a step-by-step description of the project, overall budget, time the project took, and issues/challenges you ran across and how you ultimately solved them.\n\n/r/DIY's goal is not only to admire your hard work, but also to learn from what you've done, so others might be inspired to follow your example.  \n\nIf you can not or will not provide such information, your post will be removed.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Content / Topics not suited for r/DIY",
+            "description": "Inappropriate Topics: \n\n* Cooking, Cleaning\n* Basic home maintenance (Lawn Care, Painting, Lightbulb ID, etc)\n* Basic automotive questions/repairs\n* Sewing, Crafting, Decorating, Life Hacks\n* Cosmetics, Hair styling, Personal Hygiene \n* Software based design: Solely CNC, 3D or laser printed projects\n* Solely Programming, Coding, Scripting, Automations, etc.\n\n* Memes, Jokes, Polls, Opinion Requests, Rants, Venting, General Complaining or Anything 'Meta' r/DIY",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Rating &amp; Reviewing Products or Brands",
+            "description": "This subreddit has a hard and fast set of rules against rating various manufacturers, and against reviews of products.\n\nIn the early days of this sub, we were being hit multiple times a day by accounts that were basically shills. They’d promote various products under the guise of ‘I just used this and it’s great!’ Or they’d trash their competition by saying ‘Hope you don’t have the same experience I had with them’\n\nTherefore we decided that nothing/nobody was going to get rated/promoted.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Sometimes you let the professionals handle it",
+            "description": "Some things shouldn't be DIY.\n\nAnything where a professional is REQUIRED to perform/complete the task for reasons of :\n\n* Safety\n* Laws / bylaws\n* Code enforcement\n* Job Specific Certifications (Master Electrician, etc)\n\nQuestions pertaining to these should not be asked in r/DIY. Go ask a professional / get a pro to handle it. \n\nDon't Ask:\n\n* Is this?: Dangerous | Mold | Asbestos | etc\n\nIf you followed all the codes, laws or are a certified pro who has completed a project, you are free to share.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No AI Content",
+            "description": "AI generated content of any kind is NOT permitted, this means no:\n\n* AI generated/assisted Post or Comments   \n* AI generated/assisted imagery, plans, mock-ups\n* AI generated/assisted guides, tips, help replies\n* AI based/assisted Bots/Accounts\n\nThis community is about \"**D**o **I**t **Y**ourself\", not \"*D*one-by *A*rtificial  *I*ntelligence\".",
+            "kind": "all"
+        }
+    ]
+}

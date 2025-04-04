@@ -1,0 +1,41 @@
+{
+    "subreddit": "OutOfTheLoop",
+    "subscribers": 3562755,
+    "rules": [
+        {
+            "Rule_title": "Post title must be a current, unbiased, and coherent question",
+            "description": "Titles must be current, unbiased, and coherent.\n\nMust conform to title string-matched guidelines\n\nhttps://www.reddit.com/r/OutOfTheLoop/wiki/titles\n\nhttps://www.reddit.com/r/outoftheloop/wiki/rules",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Text body must include context",
+            "description": "There must be a URL of some sort in the submission body.  A screenshot or a link to what you're seeing, along with a general description of your question.\n\nhttps://www.reddit.com/r/outoftheloop/wiki/rules",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Recently asked - already on the frontpage (search)",
+            "description": "Questions that already on the frontpage or have been asked a lot recently may be removed.  Please search first.\n\nhttps://www.reddit.com/r/outoftheloop/wiki/rules",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Top-level comment must answer or ask a follow-up",
+            "description": "All top-level comments must be a genuine and an unbiased attempt at answering the question, or ask a follow-up question.\n\nMust begin with \"answer:\" if an answer, or \"question:\" if a question.\n\nhttps://www.reddit.com/r/outoftheloop/wiki/rules",
+            "kind": "comment"
+        },
+        {
+            "Rule_title": "Uncivil",
+            "description": "Follow reddiquette in both behavior and voting.\n\nNo name-calling, bigotry, racism, etc.\n\nSending the moderators an abusive modmail will result in your immediate ban. \n\nhttps://www.reddit.com/r/outoftheloop/wiki/rules",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Not a loop - better suited for another subreddit",
+            "description": "https://www.reddit.com/r/outoftheloop/wiki/rules\n\nhttps://www.reddit.com/r/OutOfTheLoop/comments/77cda0/what_is_a_loop_a_primer_on_increasing_the/",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "No AI Answers",
+            "description": "Full explanation here: https://www.reddit.com/r/OutOfTheLoop/comments/12sc951/slight_housekeeping_new_rule_no_ai_generated/",
+            "kind": "comment"
+        }
+    ]
+}

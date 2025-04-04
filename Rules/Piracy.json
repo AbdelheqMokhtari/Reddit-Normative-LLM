@@ -1,0 +1,26 @@
+{
+    "subreddit": "Piracy",
+    "subscribers": 2140178,
+    "rules": [
+        {
+            "Rule_title": "Posts must be related to the discussion of digital piracy",
+            "description": "- Posts must be related to the discussion of digital piracy, including ethical problems and legal advancements.\n- We welcome questions, discussions, guides, articles and memes on file-sharing, the moral dilemmas of unauthorized distribution, legal developments, challenges, and other related topics.\n- Comics, memes and screenshots are acceptable, but should be original and of good quality. Images that are too blurry or have a lot of unintelligible text will be deleted.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Don't request invites, trade, sell, or self-promote",
+            "description": "- No pleading for invites to scene sites, private torrent trackers, DDL forums or other sites with closed registrations.\n- No asking for content downloads / uploads, accounts, activation keys, giveaways etc.\n- No trading or selling content, especially not for monetary services.\n- No self-promotion of your own work is allowed unless you expressly receive [permission from the moderators](https://www.reddit.com/message/compose?to=%2Fr%2FPiracy&amp;subject=Self+Promotion+Post).",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Don't request or link to specific pirated titles, including DMs",
+            "description": "- **Yes, you can link** to the top level domain of a site (*eg. https://archive.org/*).\n- **No, you can't link** to a specific pirated title (*eg. https://archive.org/specific-title*).\n- **No, you can't ask** for a specific pirated title (*eg. \"Where can I find {insert title}\"*)? This includes asking whether {insert title} can be pirated.\n- **No, you can't ask** to give or receive DMs.\n- Don't encourage rule breaking by asking which specific title someone is looking for when they make a request.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Show effort and respect",
+            "description": "- Before posting, take a look at the [Wiki](https://reddit.com/r/Piracy/wiki/index/) and [Megathread](https://reddit.com/r/Piracy/wiki/megathread), and search via Reddit search or a search engine (example: where to find cracked apps site:reddit.com/r/piracy) to see if your question has already been covered. \n- Frequently asked questions and low-effort posts are subject to removal at the moderators' discretion. \n- Remember the human. Treat all members with respect and keep discussions civil.",
+            "kind": "all"
+        }
+    ]
+}

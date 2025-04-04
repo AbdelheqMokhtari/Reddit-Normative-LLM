@@ -1,0 +1,66 @@
+{
+    "subreddit": "Eldenring",
+    "subscribers": 4247965,
+    "rules": [
+        {
+            "Rule_title": "Please be respectful, do not harass others.",
+            "description": "* Be respectful: do not insult other users, bait, flame, badmouth, or discredit others in comment sections or posts. \n* Refrain from excessive vulgar language. Adhere to the [Reddiquette](https://www.reddithelp.com/hc/en-us/articles/205926439).\n* **Bigoted language will be met with a permanent ban.**\n* Do not harass, or encourage harassment of *other users, community figures, developer staff, and all others* including subreddit moderators. **Do not submit private information on anyone.**",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Keep posts and discussion Elden Ring related.",
+            "description": "* All content should *directly pertain* to the game Elden Ring, not just in title. \"Mildly\" or \"Elden Ring IRL\" content is not allowed. \n* Meta community topics, politics, real-life content, and drama posts are not allowed.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No low-effort content or spamming of posts.",
+            "description": "* Low-effort content such as tierlists, \"wrong answers only\", \"just bought the game!\", platinum posts, bragging posts and other Reddit trends are not allowed. \n* **Memes must contain in-game visuals from Elden Ring and pertain to the game.** \n* No daily posts or recent reposts, content should be original. \n* Spamming low-effort posts may result in a ban.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Self-Promotion Guidelines",
+            "description": "* Self promotion is generally not allowed. *However*, users *actively participating* in the community beyond their own posts and conforming to [Reddit's 10:1 self promo practices](https://www.reddit.com/wiki/selfpromotion/) may be allowed to promote their off-site content here **once weekly**.\n* Self promo happens when you advertise or link to off-site content such as Youtube, Twitch, DeviantArt, etc; watermarks included\n* Do not post off-site content on behalf of others or from popular creators",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No sales, adverts, or interactions involving real-world tender. No in-game trading.",
+            "description": "* Any attempts to sell, direct to sales, advertise, or solicit will not be tolerated whatsoever. This includes both explicit and subversive advertising, such as directing people to your DMs, advertising open commissions, or listing your monetary platforms in your Reddit profile.\n* Do not post unlicensed merchandise.\n* Crowdfunding &amp; kickstarting are similarly not allowed. \n* Breaking this rule will likely result in a permanent ban.\n* We do not allow in-game trading, please use r/PatchesEmporium.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No NSFW or generally inappropriate content.",
+            "description": "* NSFW, lewd, crass, and/or suggestive content is not allowed. In addition, posts where the point of the submission is a crass joke like \"rotussy\" or \"Melina feet pics\" will be removed.\n* If you are a lewd cosplayer, please refrain from submitting your cosplay to this subreddit.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "All artwork must be OC only. No AI artwork.",
+            "description": "* Any fan-art posted should be original content only. If you didn't make it, don't post it!\n* You must specify that you are the artist in the title.\n* AI artwork is not allowed.\n* If you *commissioned* artwork, refrain from posting it. If the artist would like to share the work, they are welcome to granted they follow all applicable sub rules.\n* Karma-farmers will be banned.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No discussion of Moderation or Meta Sub topics.",
+            "description": "* If you have a grievence, moderation related question, or a suggestion then please contact us [through modmail](https://www.reddit.com/message/compose/?to=%2Fr%2FEldenring). Serious inquiries will be discussed by the mod team!",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Titles must require context and be free of spoilers. Utilize appropriate flairs.",
+            "description": "* Spoilers in titles are not permitted and posts including spoilers need to be flaired as such. Some examples include game endings, secret locations/enemies, or character questlines\n* For the purposes of this sub, first area bosses and most of the major name bosses are allowed in titles, examples include: Margit, Godrick, Malenia, Radahn, etc. **The final boss and other more \"secret\" bosses should never be written in the title**\n* Vague, contextless, memetic, or inaccurate titles are not allowed",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Discussion of mods, cheats, hacks, etc. are not allowed.",
+            "description": "* Discussion on mods, cheats, hacks, and other similar content is not allowed whatsoever. Please use /r/EldenRingMods or a similar community instead.\n* Glitches or exploits that grossly break the game's intended experience may also be removed.",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "No technical or account support requests &amp; questions.",
+            "description": "* Please use these resources for your technical &amp; account issues instead: [Bandai Namco Support](https://service-en.bandainamcoent.eu/app/list/p/7916/ELDEN%20RING) and [Tom's Guide to Elden Ring PC Issues](https://www.tomsguide.com/news/elden-ring-pc-issues)\n* **Gameplay bugs will be allowed as their own posts.**",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Datamining, leaks, rumors, and speculation are not allowed.",
+            "description": "* Posting, linking to, or discussing datamined content and information will not allowed whatsoever.\n* All unofficial information about the game must be *clearly* disclaimed as such. This includes leaks, rumors, and general speculation.",
+            "kind": "all"
+        }
+    ]
+}

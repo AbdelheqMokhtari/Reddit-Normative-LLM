@@ -1,0 +1,81 @@
+{
+    "subreddit": "LivestreamFail",
+    "subscribers": 3928144,
+    "rules": [
+        {
+            "Rule_title": "Harassment: Civility",
+            "description": "Do not attack other users. Name calling, ad-hominem, inflammatory, or other uncivil comments directed at other users are not allowed.\n\nReport violations to the moderators rather than engaging and violating this rule yourself.\n\nGeneral attacks towards public figures (streamers) are not as harshly moderated.\n\nSee our full rules [here](https://www.reddit.com/r/LivestreamFail/wiki/rules).",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Harassment: Death &amp; Violence",
+            "description": "Comments threatening or advocating for violence, harm of any kind, or death are prohibited. Similarly, comments expressing extreme indifference towards, celebrating, jokingly or hyperbolically suggesting, wishing or hoping for violence, harm of any kind or death are prohibited.\n\nSee our full rules [here](https://www.reddit.com/r/LivestreamFail/wiki/rules).",
+            "kind": "comment"
+        },
+        {
+            "Rule_title": "Harassment: Discrimination",
+            "description": "Attacking or making inappropriate comments on people based on inherent or cultural characteristics, including but not limited to:\n\n- Gender\n- Sexual Orientation\n- Disability/Physical Traits\n- Race/Ancestry\n- Nationality\n- Religion\n\nCivil discussion regarding such topics is acceptable, but attacking someone using these characteristics is not.\n\nSee our full rules [here](https://www.reddit.com/r/LivestreamFail/wiki/rules).",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Harassment: Unsourced Allegations",
+            "description": "Making unproven claims or allegations against someone with the sole intent of fueling or creating drama or damaging the public reputation of said person is not allowed. Allegations carry the burden of proof; if making such a claim, we require you back it up with evidence in the same post.\n\nAllegations made by parties outside of the subreddit may be posted from a purely journalistic point of view.\n\nSee our full rules [here](https://www.reddit.com/r/LivestreamFail/wiki/rules).",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Harassment: Speculation",
+            "description": "Avoid speculating on and disseminating personal information that may be sensitive or private. For example, streamers' private relationships, mental health information, family issues, financial struggles, etc.\n\nAdditionally, clips that are designed to spin up speculation or drama around a streamer's private life will be locked or removed, depending on its intrusiveness.\n\nSee our full rules [here](https://www.reddit.com/r/LivestreamFail/wiki/rules).",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Harassment: Out of Context Content",
+            "description": "Do not post clips, quotes, tweets, etc., about public figures that are taken out of context with the intention of harassment, inciting vitriol, or spinning up drama.\n\nSee our full rules [here](https://www.reddit.com/r/LivestreamFail/wiki/rules).",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Quality: Duplicate Submissions",
+            "description": "Duplicate submissions will be removed to keep the subreddit fresh. This also applies to clips announcing the same thing but via different mediums (Tweets, News articles). \n\nThe submission we keep will generally either be the clip with the best timing, or the clip posted first. \n\nSee our full rules [here](https://www.reddit.com/r/LivestreamFail/wiki/rules).",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Quality: Title Guidelines",
+            "description": "Titles that contain harmful misinformation or misleading titles where it's not abundantly clear that they are a joke, are not allowed. \n\nAdditionally, submissions whose titles contain excessive caps, emoji, exclamation marks, etc., will be removed.\n\nFor posts on controversial topics, we strongly recommend using a quote, or be as accurate as possible about what is happening in the clip.\n\nSee our full rules [here](https://www.reddit.com/r/LivestreamFail/wiki/rules).",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Quality: Old News",
+            "description": "For content quality purposes, and to prevent spam, content that is 14 days or older should not be posted.\n\nExceptions will be made if new information alters the relevancy of an old clip.\n\nSee our full rules [here](https://www.reddit.com/r/LivestreamFail/wiki/rules).",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Spam: Engagement Manipulation",
+            "description": "- Do not encourage users to upvote/downvote any post or comment in any capacity for any reason. \n\n- Coordinating with any community to impact LSF is prohibited.\n\n- Posting LSF links or screenshots to gain traction/brigade is prohibited.\n\n- Brigading users will be banned, and subreddits and discord servers etc. will be reported to admins.\n\nSee our full rules [here](https://www.reddit.com/r/LivestreamFail/wiki/rules).",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Spam:  LSF Meta Posts",
+            "description": "LSF must not be the main focus of a clip, including, but not limited to threads, comments, and users. This rule is in place to stop inorganic activity, brigading, and dogpiling on controversial subjects.\n\nSee our full rules [here](https://www.reddit.com/r/LivestreamFail/wiki/rules).",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Spam: LSF Meta Comments",
+            "description": "Clearly meta comments will also be removed. You should talk about the content of a clip, and not ask why it is on LSF, or complain that you are reading the post/comments.\n\n- Commenting on the contents of a person's reddit account or other communities is prohibited.\n\nSee our full rules [here](https://www.reddit.com/r/LivestreamFail/wiki/rules).",
+            "kind": "comment"
+        },
+        {
+            "Rule_title": "Spam: Off-topic",
+            "description": "Content posted on LSF must directly relate to livestreaming, official/significant streamer or gaming news. This will generally apply to unapproved meta threads, actual spam, and content that is not suited specifically for LSF.\n\nSee our full rules [here](https://www.reddit.com/r/LivestreamFail/wiki/rules).",
+            "kind": "link"
+        },
+        {
+            "Rule_title": "Restricted Content",
+            "description": "-No submissions about racist donations, stream snipers saying racist things, etc. \n\n-Submissions about swatting or serious threats of violence against streamers will be removed.\n\n-Submissions containing death and major injuries are prohibited.\n\n-NSFW content that is accidental or non-consensual is prohibited.\n\n-No revealing the outcome of special events in titles.\n\n-Threads on Military Conflicts will be locked/nuked.\n\nSee our full rules [here](https://www.reddit.com/r/LivestreamFail/wiki/rules).",
+            "kind": "all"
+        },
+        {
+            "Rule_title": "Banned Streamers",
+            "description": "Although we previously had a list of banned streamers. We currently do not have any.\n\nThere are no current restrictions on streamers interacting with each other.\n\nSee our full rules [here.](https://www.reddit.com/r/LivestreamFail/wiki/rules/)",
+            "kind": "link"
+        }
+    ]
+}
